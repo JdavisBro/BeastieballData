@@ -1,0 +1,214 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_locker_room",
+	"background_prev_text_color" : 10664447,
+	"cloud_color" : {
+		"_" : "class_palette_reference"
+	},
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference"
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 2328819344
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "lockerroom",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 8
+					}
+				]
+			},
+			"x" : 1372,
+			"y" : 2428
+		}
+	],
+	"name" : "chartreuse_lockerroom",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "e389bfd44f17f6cccc0a0091eb26ca99",
+			"object" : "objPlayer",
+			"x" : 1866,
+			"y" : 3003
+		},
+		{
+			"_" : "class_object",
+			"boss_id" : "celeb",
+			"name" : "objLockerroom",
+			"obj_guid" : "3fa79a69a06f39d5af987f57887d28f1",
+			"object" : "objLockerroom",
+			"x" : 2113,
+			"y" : 1629
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "2231d1490c099fbd4c178297b87897b0",
+			"object" : "objNode",
+			"x" : 1188,
+			"y" : 1739,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "83f7e16e475e6ef22ded38c7f4fbdec8",
+			"object" : "objNode",
+			"x" : 798,
+			"y" : 2021,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "541004e8bf6c8d82f0ea796ddd3eb493",
+			"object" : "objNode",
+			"x" : 1265,
+			"y" : 2735,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "4e5532111da57f035abbb60711577ba2",
+			"object" : "objNode",
+			"x" : 1339,
+			"y" : 2076,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "8ae0ed52ecd832ab71f2e1871f874089",
+			"object" : "objNode",
+			"x" : 774,
+			"y" : 2788,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "1616d6602815db5c438a1998f49609e3",
+			"object" : "objNode",
+			"x" : 846,
+			"y" : 2513,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "393bd8af664539cbcbb11f6f6a0d5f9b",
+			"object" : "objNode",
+			"x" : 1484,
+			"y" : 1879,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "2b2f2aaa5e8e48164ce0f5bc23538bd0",
+			"object" : "objNode",
+			"x" : 754,
+			"y" : 2269,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "postgame_player",
+			"obj_guid" : "c89f0ba133c09eae958612d609b46758",
+			"object" : "objNode",
+			"x" : 1485,
+			"y" : 1833,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "postgame_j",
+			"obj_guid" : "ad987535b79c01c348dea7696a18b2c8",
+			"object" : "objNode",
+			"x" : 1284,
+			"y" : 1834,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"name" : "objToilet",
+			"obj_guid" : "13b48eb157925a0d3b5e09baf49b0244",
+			"object" : "objToilet",
+			"x" : 695.5,
+			"y" : 1346
+		}
+	],
+	"palette_name" : "island",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"rotate_tool_angle" : 245.7118835449,
+	"shadow_alpha" : 0.4,
+	"shadow_color" : 2949190,
+	"shape_groups_array" : [],
+	"sky_gradient" : {
+		"_" : "class_palette_reference"
+	},
+	"sunlight_elevation" : 80,
+	"surface_type" : 6,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

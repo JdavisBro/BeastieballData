@@ -1,0 +1,1 @@
+py server.py -H Access-Control-Allow-Origin \*

@@ -1,0 +1,216 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_locker_room",
+	"background_prev_text_color" : 5633201,
+	"cloud_color" : {
+		"_" : "class_palette_reference"
+	},
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference"
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 2871285838
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "lockerroom",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"texture_index" : 7
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 8
+					}
+				]
+			},
+			"x" : 1372,
+			"y" : 2428
+		}
+	],
+	"name" : "academy_lockerroom",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "a72ce7e60c316d2c164f2a44f3742beb",
+			"object" : "objPlayer",
+			"x" : 1866,
+			"y" : 3003
+		},
+		{
+			"_" : "class_object",
+			"boss_id" : "academy",
+			"name" : "objLockerroom",
+			"obj_guid" : "81a090881cd30f4b4bc8cd76c7677f27",
+			"object" : "objLockerroom",
+			"x" : 2113,
+			"y" : 1629
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "80ddbbe4eca1b2bfcd8f64ef6a6d70be",
+			"object" : "objNode",
+			"x" : 1188,
+			"y" : 1739,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "254d479fa0fec8405742a39b9b11f878",
+			"object" : "objNode",
+			"x" : 798,
+			"y" : 2021,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "d392882b2e28fac5ea3f76a02aa7e1dd",
+			"object" : "objNode",
+			"x" : 1265,
+			"y" : 2735,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "c22b4aef5f941c4adbc70d0b9fb87fca",
+			"object" : "objNode",
+			"x" : 1339,
+			"y" : 2076,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "7866a414ccfee439d846d5f2bb09f76c",
+			"object" : "objNode",
+			"x" : 774,
+			"y" : 2788,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "af5065411df3157889dff2b1b326283d",
+			"object" : "objNode",
+			"x" : 846,
+			"y" : 2513,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "d8a191237feed477df19e351fc693047",
+			"object" : "objNode",
+			"x" : 1484,
+			"y" : 1879,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "b1a45bf51aac351ae1e16313beab1f74",
+			"object" : "objNode",
+			"x" : 754,
+			"y" : 2269,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "postgame_player",
+			"obj_guid" : "a38862216cf19225b8d8818c1923b482",
+			"object" : "objNode",
+			"x" : 1485,
+			"y" : 1833,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "postgame_j",
+			"obj_guid" : "fb804ec236e59d411ff28deacdddb9dc",
+			"object" : "objNode",
+			"x" : 1284,
+			"y" : 1834,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"name" : "objToilet",
+			"obj_guid" : "778720d02c1a81552989efddae87383d",
+			"object" : "objToilet",
+			"x" : 684.5,
+			"y" : 1349
+		}
+	],
+	"palette_name" : "woods",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"rotate_tool_angle" : 245.7118835449,
+	"shadow_alpha" : 0.4,
+	"shadow_color" : 5242880,
+	"shape_groups_array" : [],
+	"sky_gradient" : {
+		"_" : "class_palette_reference"
+	},
+	"sunlight_elevation" : 80,
+	"surface_type" : 5,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

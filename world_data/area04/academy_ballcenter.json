@@ -1,0 +1,339 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_gym",
+	"background_prev_text_color" : 5633201,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 8,
+		"texture_index" : 9
+	},
+	"eff_bloom_threshold" : 0.96,
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"grass_density" : 0.4,
+	"grass_height" : 70,
+	"grass_height_variance" : 30,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 2880297220
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "none"
+			},
+			"conditional_partial" : true,
+			"has_conditional" : 1,
+			"model_filename" : "academy_ballcenter",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 7
+					}
+				]
+			},
+			"x" : 1979,
+			"y" : 1249
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "academy_gate",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1560,
+			"y" : 1800,
+			"z" : -320,
+			"z_angle" : 285.9454040527
+		}
+	],
+	"music" : "music_academy",
+	"name" : "academy_ballcenter",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "7b6120383426eed836fb067bcb79af64",
+			"object" : "objPlayer",
+			"x" : 2541,
+			"y" : 2157
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line1",
+			"obj_guid" : "e46e165368143f1af5ce2826660969f0",
+			"object" : "objNode",
+			"x" : 1969,
+			"y" : 1179,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line2",
+			"obj_guid" : "fe73679272626d5272615a4f98cde1fe",
+			"object" : "objNode",
+			"x" : 2044,
+			"y" : 1283,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line3",
+			"obj_guid" : "f7d2f6cce41343a6a1bb38920a129918",
+			"object" : "objNode",
+			"x" : 1935,
+			"y" : 1382,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line4",
+			"obj_guid" : "11a6202992235d285bad8f1ed9cee774",
+			"object" : "objNode",
+			"x" : 2051,
+			"y" : 1483,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 4,
+				"key" : "academy_state",
+				"value" : -4
+			},
+			"hometown" : 0,
+			"name" : "objBossElevator",
+			"obj_guid" : "dc2576f68ad80b785d5411505ee0720b",
+			"object" : "objBossElevator",
+			"x" : 1137,
+			"y" : 1319
+		},
+		{
+			"_" : "class_object",
+			"name" : "objBallman",
+			"obj_guid" : "9baf6320fe3a0d497e870235000194dd",
+			"object" : "objBallman",
+			"x" : 2647.5,
+			"y" : 1614
+		},
+		{
+			"_" : "class_object",
+			"name" : "objHeadmaster",
+			"obj_guid" : "dd930742099c4f84e9f4201dc48a870b",
+			"object" : "objHeadmaster",
+			"x" : 1497,
+			"y" : 2192
+		},
+		{
+			"_" : "class_object",
+			"name" : "objWitchinstructor",
+			"obj_guid" : "88fe33d6b1c24730a47b57d641c2987f",
+			"object" : "objWitchinstructor",
+			"x" : 2690,
+			"y" : 2178
+		},
+		{
+			"_" : "class_object",
+			"name" : "objValerie",
+			"obj_guid" : "2988d9ee173f891f10ffa2f795639a5a",
+			"object" : "objValerie",
+			"x" : 1767,
+			"y" : 2209
+		}
+	],
+	"palette_name" : "woods",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"rotate_tool_angle" : 334.5627441406,
+	"shadow_alpha" : 0.35,
+	"shadow_color" : 4391424,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2845130949
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-619,
+						895,
+						0,
+						-149,
+						1140,
+						0,
+						2,
+						1140,
+						0,
+						2,
+						494,
+						0,
+						215,
+						478,
+						0,
+						375,
+						431,
+						0,
+						534,
+						354,
+						0,
+						673,
+						250,
+						0,
+						776,
+						130,
+						0,
+						873,
+						11,
+						0,
+						1192,
+						125,
+						0,
+						1089,
+						360,
+						0,
+						932,
+						523,
+						0,
+						706,
+						671,
+						0,
+						482,
+						772,
+						0,
+						250,
+						832,
+						0,
+						15,
+						838,
+						0,
+						14,
+						1143,
+						0,
+						1594,
+						878,
+						0,
+						1566,
+						-1092,
+						0,
+						465,
+						-1511,
+						0,
+						-619,
+						-1092,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"visible" : 0,
+					"x" : -2889,
+					"y" : 345,
+					"z" : 300
+				}
+			],
+			"x" : 4381.5,
+			"y" : 1814
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"sunlight_direction" : 95,
+	"sunlight_elevation" : 60,
+	"surface_type" : 5,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

@@ -1,0 +1,2530 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_mythwood_garciniaMeadow",
+	"background_prev_text_color" : 5633201,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 9
+	},
+	"cloudcover" : 0.75,
+	"display_name" : "Garcinia Meadow",
+	"eff_chromatic_str" : 1.2,
+	"gizmos_array" : [
+		{
+			"_" : "class_underwatergeo",
+			"x" : 4080,
+			"y" : 952
+		}
+	],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 4
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 3
+			}
+		]
+	},
+	"grass_density" : 0.15,
+	"grass_height" : 120,
+	"grass_height_variance" : 100,
+	"grass_thickness" : 2,
+	"ground_cover_clumpy" : 0.2,
+	"ground_cover_density" : 0.4,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 0
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 0
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 5
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyleafy"
+				},
+				"weight" : 2
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 0
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 5
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyfern"
+				}
+			}
+		],
+		"seed" : 419433129
+	},
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0852641292,
+			"x" : 1981,
+			"y" : 1733,
+			"z_angle" : 227.5510020554
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9092479382,
+			"x" : 2001,
+			"y" : 1567,
+			"z_angle" : 36.5305957943
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9069196448,
+			"x" : 1524,
+			"y" : 1592,
+			"z_angle" : 223.1524047852
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0880014546,
+			"x" : 2196,
+			"y" : 1366,
+			"z_angle" : 135.3649266064
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0265515931,
+			"x" : 2504,
+			"y" : 1033,
+			"z_angle" : 84.8055725098
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9538954824,
+			"x" : 2625,
+			"y" : 1088,
+			"z_angle" : 67.833656311
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0736657485,
+			"x" : 2934,
+			"y" : 962,
+			"z_angle" : 336.8510013074
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9930536881,
+			"x" : 1564,
+			"y" : 2009,
+			"z_angle" : 317.2317165881
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9714604784,
+			"x" : 1538,
+			"y" : 1829,
+			"z_angle" : 244.7371698171
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0266410645,
+			"x" : 1726,
+			"y" : 1905,
+			"z_angle" : 43.791237697
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0905178092,
+			"x" : 1706,
+			"y" : 1722,
+			"z_angle" : 349.4154761732
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0645790145,
+			"x" : 4076,
+			"y" : 1935,
+			"z_angle" : 147.1734379604
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9657821454,
+			"x" : 1739,
+			"y" : 2784,
+			"z_angle" : 226.7773617804
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0574917652,
+			"x" : 1584,
+			"y" : 2731,
+			"z_angle" : 107.1408511698
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9641288515,
+			"x" : 3908,
+			"y" : 1755,
+			"z_angle" : 62.0831628889
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0068748381,
+			"x" : 3761,
+			"y" : 1824,
+			"z_angle" : 35.4750540107
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0748462103,
+			"x" : 4035,
+			"y" : 2282,
+			"z_angle" : 191.7461965978
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9133145791,
+			"x" : 4224,
+			"y" : 2434,
+			"z_angle" : 167.1767120808
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9202921495,
+			"x" : 4155,
+			"y" : 2554,
+			"z_angle" : 116.5650405884
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9842042863,
+			"x" : 4211,
+			"y" : 2796,
+			"z_angle" : 279.351359373
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9881461538,
+			"x" : 3975,
+			"y" : 2770,
+			"z_angle" : 74.7865118086
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0498947948,
+			"x" : 3781,
+			"y" : 2892,
+			"z_angle" : 96.1483043432
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9582501121,
+			"x" : 2087,
+			"y" : 2177,
+			"z_angle" : 140.6126685441
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9884160049,
+			"x" : 1934,
+			"y" : 2285,
+			"z_angle" : 224.2188079655
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9980583228,
+			"x" : 2747,
+			"y" : 1854,
+			"z_angle" : 42.9072989523
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0445778456,
+			"x" : 2887,
+			"y" : 1662,
+			"z_angle" : 200.6606664509
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0072164111,
+			"x" : 2934,
+			"y" : 1798,
+			"z_angle" : 52.779880017
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9083142791,
+			"x" : 3082,
+			"y" : 1594,
+			"z_angle" : 184.573928833
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0665325176,
+			"x" : 1073,
+			"y" : 2467,
+			"z_angle" : 98.1674515922
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0651862711,
+			"x" : 1014,
+			"y" : 2247,
+			"z_angle" : 347.4165525287
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0854037426,
+			"x" : 1249,
+			"y" : 2306,
+			"z_angle" : 197.0046566427
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.999235604,
+			"x" : 899,
+			"y" : 2036,
+			"z_angle" : 170.3562475741
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.16,
+			"x" : 967,
+			"y" : 998,
+			"z" : -50,
+			"z_angle" : 28.5727344453
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.3,
+			"x" : 644,
+			"y" : 853,
+			"z" : -60,
+			"z_angle" : 275.3114283085
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.094945062,
+			"x" : 443,
+			"y" : 1054,
+			"z" : -10,
+			"z_angle" : 196.3563854992
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0265887246,
+			"x" : 2182,
+			"y" : 2659,
+			"z_angle" : 306.863001287
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9107878294,
+			"x" : 2390,
+			"y" : 2807,
+			"z_angle" : 205.5327596515
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.98473357,
+			"x" : 2143,
+			"y" : 2892,
+			"z_angle" : 38.5181502253
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0105454884,
+			"x" : 619,
+			"y" : 1935,
+			"z_angle" : 133.3112584054
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9618292369,
+			"x" : 1189,
+			"y" : 2615,
+			"z_angle" : 291.5578690544
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0233072929,
+			"x" : 1692,
+			"y" : 2539,
+			"z_angle" : 299.5720557868
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.041447442,
+			"x" : 2162,
+			"y" : 2484,
+			"z_angle" : 251.5650482178
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9347727135,
+			"x" : 1685,
+			"y" : 2177,
+			"z_angle" : 284.5451286435
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9285307873,
+			"x" : 2350,
+			"y" : 1577,
+			"z_angle" : 184.164961651
+		}
+	],
+	"music" : "music_mythwood",
+	"name" : "meadow_springs",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"has_net" : 0,
+			"name" : "objGameplay",
+			"obj_guid" : "4e48d973d0682f97231ef099f32616c9",
+			"object" : "objGameplay",
+			"x" : 3065,
+			"y" : 2318
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 75,
+			"height" : 500,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "c81327162364c971cc79fa0046530bc3",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 800,
+			"x" : 3030,
+			"y" : 2187
+		},
+		{
+			"_" : "class_object",
+			"dlc" : false,
+			"gift_id" : "none",
+			"gift_id_index" : 0,
+			"name" : "objGift",
+			"obj_guid" : "35e4e2d7d8efdc0269a70a3d5a53a963",
+			"object" : "objGift",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 5,
+				"texture_index" : 2
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference",
+				"base_index" : 10,
+				"texture_index" : 4
+			},
+			"x" : 607,
+			"y" : 2912
+		},
+		{
+			"_" : "class_object",
+			"dlc" : false,
+			"gift_id" : "none",
+			"gift_id_index" : 1,
+			"name" : "objGift",
+			"obj_guid" : "35e4e2d7d8efdc0269a70a3d5a53a963",
+			"object" : "objGift",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 6,
+				"texture_index" : 7
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference",
+				"base_index" : 5,
+				"texture_index" : 8
+			},
+			"x" : 742,
+			"y" : 2057
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "a82b83c631e42a1d53a4eca1d0d35894",
+			"object" : "objBallshrooms",
+			"x" : 2559,
+			"y" : 1408
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "a82b83c631e42a1d53a4eca1d0d35894",
+			"object" : "objBallshrooms",
+			"x" : 3587,
+			"y" : 1572
+		}
+	],
+	"palette_name" : "woods",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"shadow_color" : 5131264,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 300,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1007861296
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						2097,
+						-356,
+						0,
+						2677,
+						667,
+						0,
+						2392,
+						-2252,
+						0,
+						1181,
+						-1763,
+						0,
+						736,
+						-1437,
+						0,
+						530,
+						-1121,
+						0,
+						777,
+						-758,
+						0,
+						1220,
+						-511,
+						0,
+						1621,
+						-495,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : 335,
+					"y" : 181,
+					"z" : 100
+				}
+			],
+			"x" : 2446,
+			"y" : 1879
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_clumpy" : 0,
+					"grass_density" : 0.18,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 3,
+											"channel_index" : 2,
+											"texture_index" : 8
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 6,
+											"channel_index" : 2,
+											"texture_index" : 3
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "rock_01"
+								}
+							},
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"channel_index" : 2,
+											"texture_index" : 2
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 8,
+											"channel_index" : 2,
+											"texture_index" : 3
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "rock_02"
+								}
+							},
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 2,
+											"channel_index" : 2,
+											"texture_index" : 4
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 6,
+											"channel_index" : 2,
+											"texture_index" : 3
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "rock_03"
+								}
+							}
+						],
+						"seed" : 3189453663
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-4558,
+						277,
+						0,
+						-4292,
+						25,
+						0,
+						-4264,
+						-282,
+						0,
+						-4022,
+						-514,
+						0,
+						-3841,
+						-418,
+						0,
+						-3740,
+						-247,
+						0,
+						-3572,
+						0,
+						0,
+						-3230,
+						312,
+						0,
+						-2793,
+						498,
+						0,
+						-2525,
+						342,
+						0,
+						-2907,
+						327,
+						0,
+						-3209,
+						146,
+						0,
+						-3485,
+						-86,
+						0,
+						-3753,
+						-529,
+						0,
+						-4029,
+						-635,
+						0,
+						-4466,
+						-508,
+						0,
+						-4787,
+						-35,
+						0,
+						-5137,
+						131,
+						0,
+						-5291,
+						0,
+						0,
+						-5372,
+						90,
+						0,
+						-5399,
+						317,
+						0,
+						-5319,
+						528,
+						0,
+						-5580,
+						741,
+						0,
+						-5728,
+						439,
+						0,
+						-6023,
+						308,
+						0,
+						-6439,
+						459,
+						0,
+						-5922,
+						1099,
+						0,
+						-5419,
+						1215,
+						0,
+						-5076,
+						1537,
+						0,
+						-4526,
+						1542,
+						0,
+						-4747,
+						1260,
+						0,
+						-5009,
+						1018,
+						0,
+						-5305,
+						862,
+						0,
+						-5513,
+						761,
+						0,
+						-5284,
+						540,
+						0,
+						-5090,
+						554,
+						0,
+						-4828,
+						549,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : 0,
+					"x" : 3015,
+					"y" : 483,
+					"z" : 75
+				}
+			],
+			"x" : 3809,
+			"y" : 1017
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 197553882
+					},
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4
+					},
+					"points_array" : [
+						-609,
+						118,
+						0,
+						100,
+						112,
+						0,
+						499,
+						34,
+						0,
+						981,
+						-367,
+						0,
+						2488,
+						-643,
+						0,
+						1283,
+						-1806,
+						0,
+						-5966,
+						-1692,
+						0,
+						-6415,
+						1750,
+						0,
+						-4499,
+						2251,
+						0,
+						-3993,
+						2153,
+						0,
+						-3717,
+						1843,
+						0,
+						-3702,
+						1556,
+						0,
+						-3840,
+						1205,
+						0,
+						-4131,
+						1107,
+						0,
+						-4116,
+						849,
+						0,
+						-4238,
+						540,
+						0,
+						-4177,
+						85,
+						0,
+						-3832,
+						-98,
+						0,
+						-3625,
+						-87,
+						0,
+						-3196,
+						103,
+						0,
+						-2936,
+						597,
+						0,
+						-2706,
+						746,
+						0,
+						-2338,
+						562,
+						0,
+						-2024,
+						108,
+						0,
+						-1594,
+						-4,
+						0,
+						-1236,
+						72,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : 740,
+					"y" : 124,
+					"z" : 700
+				}
+			],
+			"x" : 3643,
+			"y" : 711
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2752288053
+					},
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : false,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objWaterSteam"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-1618,
+						609,
+						0,
+						-1958,
+						1009,
+						0,
+						-2510,
+						625,
+						0,
+						-2250,
+						90,
+						0,
+						-2403,
+						-427,
+						0,
+						-3169,
+						-830,
+						0,
+						-4089,
+						-732,
+						0,
+						-4028,
+						1010,
+						0,
+						-2962,
+						895,
+						0,
+						-2035,
+						1619,
+						0,
+						-1726,
+						2071,
+						0,
+						666,
+						1901,
+						0,
+						713,
+						735,
+						0,
+						-832,
+						39,
+						0,
+						-665,
+						-1177,
+						0,
+						-1612,
+						-1156,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"water" : 1,
+					"z" : 55
+				}
+			],
+			"x" : 3932,
+			"y" : 1137
+		},
+		{
+			"_" : "class_shape_group",
+			"effect" : 1,
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"effect" : 1,
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.5,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"channel_index" : 2,
+											"texture_index" : 3
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 8,
+											"texture_index" : 3
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 2,
+											"texture_index" : 6
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "tinyrock_01"
+								}
+							}
+						],
+						"seed" : 1984291244
+					},
+					"grass_model_mode" : 1,
+					"grass_solid" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objWaterSteam"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					"points_array" : [
+						-934,
+						-304,
+						0,
+						-1411,
+						214,
+						0,
+						-1175,
+						1263,
+						0,
+						1705,
+						1058,
+						0,
+						1751,
+						-479,
+						0,
+						639,
+						-625,
+						0,
+						564,
+						-2151,
+						0,
+						-1067,
+						-2137,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"surface_type" : 8,
+					"z" : 40
+				}
+			],
+			"x" : 3065,
+			"y" : 2058
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 300,
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.3,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 2,
+											"channel_index" : 2,
+											"texture_index" : 3
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"channel_index" : 2,
+											"texture_index" : 3
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 6,
+											"channel_index" : 2,
+											"texture_index" : 2
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "tinyrock_01"
+								}
+							},
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 8,
+											"channel_index" : 2,
+											"texture_index" : 3
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 2,
+											"channel_index" : 2,
+											"texture_index" : 6
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"channel_index" : 2,
+											"texture_index" : 2
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "tinyrock_02"
+								}
+							}
+						],
+						"seed" : 2509758568
+					},
+					"grass_model_mode" : 1,
+					"grass_solid" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 8,
+						"channel_index" : 1,
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-997,
+						-199,
+						0,
+						-765,
+						71,
+						0,
+						-660,
+						204,
+						0,
+						-425,
+						375,
+						0,
+						-337,
+						544,
+						0,
+						-113,
+						623,
+						0,
+						49,
+						805,
+						0,
+						337,
+						873,
+						0,
+						552,
+						766,
+						0,
+						888,
+						1934,
+						0,
+						-1531,
+						1934,
+						0,
+						-1786,
+						1652,
+						0,
+						-2073,
+						1408,
+						0,
+						-2280,
+						1270,
+						0,
+						-2579,
+						1132,
+						0,
+						-2740,
+						891,
+						0,
+						-3016,
+						764,
+						0,
+						-3835,
+						976,
+						0,
+						-3974,
+						-661,
+						0,
+						-3138,
+						-770,
+						0,
+						-2625,
+						-518,
+						0,
+						-2272,
+						-242,
+						0,
+						-2180,
+						40,
+						0,
+						-2310,
+						373,
+						0,
+						-2464,
+						575,
+						0,
+						-2456,
+						885,
+						0,
+						-2257,
+						1034,
+						0,
+						-2012,
+						1049,
+						0,
+						-1798,
+						957,
+						0,
+						-1544,
+						729,
+						0,
+						-1306,
+						613,
+						0,
+						-1153,
+						414,
+						0,
+						-1113,
+						121,
+						0,
+						-1204,
+						-81,
+						0,
+						-1323,
+						-295,
+						0,
+						-1250,
+						-527,
+						0,
+						-1097,
+						-735,
+						0,
+						-953,
+						-1830,
+						0,
+						-4201,
+						-1539,
+						0,
+						-3939,
+						2338,
+						0,
+						1920,
+						2156,
+						0,
+						262,
+						-790,
+						0,
+						-902,
+						-756,
+						0,
+						-952,
+						-604,
+						0,
+						-1044,
+						-390,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 1,
+						"texture_index" : 9
+					},
+					"solid" : 1,
+					"surface_type" : 3,
+					"x" : 1527,
+					"y" : 6,
+					"z" : 75
+				}
+			],
+			"x" : 2282,
+			"y" : 1086
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_clumpy" : 0,
+					"grass_density" : 0.2,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 5,
+											"texture_index" : 4
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"texture_index" : 5
+										},
+										{
+											"_" : "class_palette_reference",
+											"texture_index" : 2
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 10,
+											"texture_index" : 4
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "bush_euca"
+								}
+							}
+						],
+						"seed" : 2988117302
+					},
+					"grass_model_mode" : 1,
+					"grass_solid" : 1,
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4
+					},
+					"points_array" : [
+						604,
+						1301,
+						0,
+						458,
+						1577,
+						0,
+						458,
+						1763,
+						0,
+						684,
+						2033,
+						0,
+						756,
+						2381,
+						0,
+						584,
+						2634,
+						0,
+						540,
+						2768,
+						0,
+						190,
+						2931,
+						0,
+						-233,
+						2948,
+						0,
+						-522,
+						2840,
+						0,
+						-951,
+						2857,
+						0,
+						-1333,
+						2992,
+						0,
+						-1918,
+						2872,
+						0,
+						-2216,
+						2533,
+						0,
+						-2638,
+						2492,
+						0,
+						-2776,
+						2130,
+						0,
+						-3196,
+						2127,
+						0,
+						-4049,
+						2553,
+						0,
+						-4705,
+						3605,
+						0,
+						2215,
+						3448,
+						0,
+						3547,
+						1025,
+						0,
+						2033,
+						1207,
+						0,
+						1257,
+						1039,
+						0,
+						841,
+						1101,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : -1992,
+					"y" : -2435,
+					"z" : 300
+				}
+			],
+			"x" : 5638,
+			"y" : 2600
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4211892076
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-735,
+						150,
+						false,
+						772,
+						122,
+						false,
+						610,
+						-1865,
+						false,
+						-1186,
+						-2204,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : true,
+					"visible" : false,
+					"wall_collider" : true,
+					"x" : -96,
+					"y" : -28,
+					"z" : 1000
+				}
+			],
+			"x" : -117,
+			"y" : 4095
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"sunlight_direction" : 135,
+	"surface_type" : 2,
+	"water_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 7,
+		"texture_index" : 4
+	}
+}

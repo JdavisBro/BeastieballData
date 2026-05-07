@@ -1,0 +1,7490 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_nature_preserve",
+	"background_prev_text_color" : 2477823,
+	"camera_far" : 0,
+	"camera_fov" : 0,
+	"camera_near" : 0,
+	"camera_x" : 0,
+	"camera_y" : 0,
+	"camera_z" : 0,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 8,
+		"texture_index" : 9
+	},
+	"display_name" : "Rutile Preserve",
+	"eff_bloom_threshold" : 0.96,
+	"eff_chromatic_str" : 0.5,
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			},
+			{
+				"_" : "class_palette_reference",
+				"base_index" : 1,
+				"texture_index" : 5
+			},
+			{
+				"_" : "class_palette_reference",
+				"base_index" : 1,
+				"texture_index" : 0
+			}
+		]
+	},
+	"grass_density" : 0.12,
+	"grass_height" : 90,
+	"grass_height_variance" : 60,
+	"grass_thickness" : 2,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference"
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 2,
+							"texture_index" : 3
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 3
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_01"
+				}
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference"
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 2,
+							"texture_index" : 3
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 3
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_02"
+				}
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 0
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 5
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinybush"
+				},
+				"weight" : 2.5
+			}
+		],
+		"seed" : 274335027
+	},
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.76,
+			"x" : 2278,
+			"y" : 4356,
+			"z_angle" : 195.1479380205
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0201987079,
+			"x" : 2676,
+			"y" : 4552,
+			"z_angle" : 309.0938720703
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.838062934,
+			"x" : 3082,
+			"y" : 4503,
+			"z_angle" : 73.8105733786
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8542229959,
+			"x" : 3114,
+			"y" : 4854,
+			"z_angle" : 347.8513625823
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1773995664,
+			"x" : 931,
+			"y" : 5176,
+			"z_angle" : 236.5790778771
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.6,
+			"x" : 5566,
+			"y" : 4454,
+			"z_angle" : 294.4296676666
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9419171184,
+			"x" : 4389,
+			"y" : 4635,
+			"z_angle" : 252.6713624317
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.1042054829,
+			"x" : 464,
+			"y" : 5557,
+			"z_angle" : 336.6523372941
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 0.8913411911,
+			"x" : 702,
+			"y" : 4575,
+			"z_angle" : 230.014005946
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0773436313,
+			"x" : 1014,
+			"y" : 4424,
+			"z_angle" : 18.7724780571
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.065267404,
+			"x" : 1120,
+			"y" : 3876,
+			"z_angle" : 24.9028982688
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0157205069,
+			"x" : 2501,
+			"y" : 3971,
+			"z_angle" : 274.1240639146
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.84,
+			"x" : 1499,
+			"y" : 4826,
+			"z_angle" : 161.2703835592
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9206201319,
+			"x" : 3861,
+			"y" : 4893,
+			"z_angle" : 204.6234570164
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9344893918,
+			"x" : 5074,
+			"y" : 4945,
+			"z_angle" : 202.9596157093
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.4,
+			"x" : 4859,
+			"y" : 4297,
+			"z_angle" : 152.0412903372
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.0875566235,
+			"x" : 349,
+			"y" : 3955,
+			"z_angle" : 322.1407573018
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.933865488,
+			"x" : 1718,
+			"y" : 3367,
+			"z_angle" : 146.0764478333
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9229539681,
+			"x" : 1830,
+			"y" : 2549,
+			"z_angle" : 196.3818220608
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : 1
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8037920178,
+			"x" : 4080,
+			"y" : 2380,
+			"z_angle" : 32.9694023132
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0451766539,
+			"x" : 1464,
+			"y" : 3700,
+			"z_angle" : 110
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "harvester",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 9
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.25,
+			"x" : 2344,
+			"y" : 1096,
+			"z_angle" : 10
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.178425558,
+			"x" : 3958,
+			"y" : 1523,
+			"z_angle" : 20
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.7329720428,
+			"x" : 1987,
+			"y" : 1515,
+			"z_angle" : 146.7431858182
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.7,
+			"x" : 2852,
+			"y" : 1053,
+			"z" : -60,
+			"z_angle" : 10
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0119886367,
+			"x" : 1963,
+			"y" : 1921,
+			"z_angle" : 16.4892472979
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0536172026,
+			"x" : 1451,
+			"y" : 1091,
+			"z_angle" : 294.9242782407
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9956471803,
+			"x" : 1072,
+			"y" : 1364,
+			"z_angle" : 275.5478444975
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9055731919,
+			"x" : 739,
+			"y" : 1279,
+			"z_angle" : 51.7124215141
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.5,
+			"x" : 2835,
+			"y" : 1134,
+			"z_angle" : 20
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8391935962,
+			"x" : 2003,
+			"y" : 1502,
+			"z_angle" : 143.1300964355
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9708972986,
+			"x" : 1934,
+			"y" : 1874,
+			"z_angle" : 208.9264221191
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8900674952,
+			"x" : 1439,
+			"y" : 1115,
+			"z_angle" : 9.3058266956
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8375922339,
+			"x" : 1054,
+			"y" : 1388,
+			"z_angle" : 31.655970756
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0656010869,
+			"x" : 751,
+			"y" : 1246,
+			"z_angle" : 282.4504937232
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1279600521,
+			"x" : 921,
+			"y" : 1096,
+			"z_angle" : 300.2100144234
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1709813941,
+			"x" : 546,
+			"y" : 1389,
+			"z_angle" : 290.2214111388
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0698690023,
+			"x" : 808,
+			"y" : 1496,
+			"z_angle" : 200.6778340135
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0231966509,
+			"x" : 1065,
+			"y" : 1601,
+			"z_angle" : 155.599219976
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9963617302,
+			"x" : 2728,
+			"y" : 5224,
+			"z_angle" : 161.7647824902
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : 1
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1395342249,
+			"x" : 4430,
+			"y" : 2046,
+			"z_angle" : 98.6156539917
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0962154421,
+			"x" : 4797,
+			"y" : 1618,
+			"z_angle" : 346.9483802374
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0793537371,
+			"x" : 2042,
+			"y" : 2181,
+			"z_angle" : 292.5084262434
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1358024067,
+			"x" : 5518,
+			"y" : 2053,
+			"z_angle" : 275.7839300204
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8351634885,
+			"x" : 4502,
+			"y" : 1317,
+			"z_angle" : 70.951112844
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8123180335,
+			"x" : 4502,
+			"y" : 1574,
+			"z_angle" : 118.4194328729
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1832144772,
+			"x" : 4860,
+			"y" : 2209,
+			"z_angle" : 205.7142894622
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0515418104,
+			"x" : 4349,
+			"y" : 1846,
+			"z_angle" : 170.3104460891
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0549631041,
+			"x" : 4819,
+			"y" : 1953,
+			"z_angle" : 289.9726811796
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8309101319,
+			"x" : 4961,
+			"y" : 2095,
+			"z_angle" : 16.1713639554
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.1353052679,
+			"x" : 4594,
+			"y" : 1716,
+			"z_angle" : 136.5760589764
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9991876869,
+			"x" : 4819,
+			"y" : 1816,
+			"z_angle" : 158.8467347156
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.0800641545,
+			"x" : 5079,
+			"y" : 1724,
+			"z_angle" : 107.4286491796
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 0.9369840084,
+			"x" : 4829,
+			"y" : 1471,
+			"z_angle" : 139.0671177674
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8424975174,
+			"x" : 5217,
+			"y" : 2091,
+			"z_angle" : 218.444795832
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1597038503,
+			"x" : 5355,
+			"y" : 1950,
+			"z_angle" : 126.4090776443
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : 1
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8111077411,
+			"x" : 4636,
+			"y" : 2620,
+			"z_angle" : 291.3016099669
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0749007141,
+			"x" : 4624,
+			"y" : 1020,
+			"z_angle" : 223.1987452693
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8452832337,
+			"x" : 5551,
+			"y" : 1641,
+			"z_angle" : 60.0079869758
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0333895817,
+			"x" : 4016,
+			"y" : 526,
+			"z_angle" : 169.9025695212
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.971249315,
+			"x" : 2857,
+			"y" : 522,
+			"z_angle" : 345.9064098448
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8238228898,
+			"x" : 3331,
+			"y" : 186,
+			"z_angle" : 125.2527160663
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9985750317,
+			"x" : 2387,
+			"y" : 251,
+			"z_angle" : 275.3700787481
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8651277352,
+			"x" : 1458,
+			"y" : 703,
+			"z_angle" : 288.8811061811
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9840556732,
+			"x" : 1667,
+			"y" : 106,
+			"z_angle" : 88.8701670617
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9541403987,
+			"x" : 549,
+			"y" : 803,
+			"z_angle" : 61.7518308666
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0322111591,
+			"x" : 2050,
+			"y" : 573,
+			"z_angle" : 122.3658524081
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0196321819,
+			"x" : 1238,
+			"y" : 431,
+			"z_angle" : 281.0448364075
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9502069834,
+			"x" : 870,
+			"y" : 140,
+			"z_angle" : 173.1655835733
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : 1
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 0.9966532197,
+			"x" : 870,
+			"y" : 140,
+			"z_angle" : 91.1353338137
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : 1
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0104307997,
+			"x" : 2785,
+			"y" : 76,
+			"z_angle" : 67.2988152131
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8942526517,
+			"x" : 4789,
+			"y" : 674,
+			"z_angle" : 260.1932221558
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.95028394,
+			"x" : 2602,
+			"y" : 159,
+			"z_angle" : 240.0807902589
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1262736594,
+			"x" : 4321,
+			"y" : 512,
+			"z_angle" : 48.2138173934
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0173317602,
+			"x" : 3069,
+			"y" : 339,
+			"z_angle" : 226.4370194636
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1857495253,
+			"x" : 1465,
+			"y" : 223,
+			"z_angle" : 139.8854858056
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.9942179973,
+			"x" : 3691,
+			"y" : 534,
+			"z_angle" : 147.6940798759
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.8574267316,
+			"x" : 4079,
+			"y" : 527,
+			"z_angle" : 343.1490307488
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.9992361637,
+			"x" : 3384,
+			"y" : 359,
+			"z_angle" : 227.9287260678
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7933689999,
+			"x" : 2516,
+			"y" : 359,
+			"z_angle" : 56.6115325224
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.2486490026,
+			"x" : 1975,
+			"y" : 627,
+			"z_angle" : 110.2082801331
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6621868188,
+			"x" : 2832,
+			"y" : 573,
+			"z_angle" : 52.604368329
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.2989887806,
+			"x" : 4665,
+			"y" : 1125,
+			"z_angle" : 340.5228414293
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6245043757,
+			"x" : 3998,
+			"y" : 1587,
+			"z_angle" : 197.2551567759
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.815236597,
+			"x" : 3036,
+			"y" : 1168,
+			"z_angle" : 103.0484091584
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.0531174639,
+			"x" : 4138,
+			"y" : 1804,
+			"z_angle" : 320.8678148501
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.19013878,
+			"x" : 2898,
+			"y" : 3000,
+			"z_angle" : 266.9108437188
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.703312075,
+			"x" : 2665,
+			"y" : 2654,
+			"z_angle" : 16.2127457466
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.278686352,
+			"x" : 2080,
+			"y" : 4429,
+			"z_angle" : 295.6468514353
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.0947380855,
+			"x" : 1651,
+			"y" : 5688,
+			"z_angle" : 342.9187900946
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6606916283,
+			"x" : 1785,
+			"y" : 4672,
+			"z_angle" : 238.7354602665
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.0205624805,
+			"x" : 1709,
+			"y" : 4772,
+			"z_angle" : 86.2084911112
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.4517992194,
+			"x" : 2101,
+			"y" : 4194,
+			"z_angle" : 12.4354372267
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7069304334,
+			"x" : 1422,
+			"y" : 3761,
+			"z_angle" : 50.3715131432
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6786707308,
+			"x" : 1493,
+			"y" : 3898,
+			"z_angle" : 203.978372924
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.2975681666,
+			"x" : 1724,
+			"y" : 3469,
+			"z_angle" : 176.1844037008
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.8120684662,
+			"x" : 1652,
+			"y" : 4888,
+			"z_angle" : 260.1932221558
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1262736594,
+			"x" : 1255,
+			"y" : 5608,
+			"z_angle" : 48.2138173934
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1165684487,
+			"x" : 1467,
+			"y" : 5796,
+			"z_angle" : 181.1017191131
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1008463853,
+			"x" : 1770,
+			"y" : 5847,
+			"z_angle" : 198.7414727267
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8317887452,
+			"x" : 2543,
+			"y" : 1035,
+			"z_angle" : 76.1641297303
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1025466491,
+			"x" : 3549,
+			"y" : 909,
+			"z_angle" : 206.1606935319
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0093496189,
+			"x" : 2169,
+			"y" : 1239,
+			"z_angle" : 261.0089509003
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1647887491,
+			"x" : 2220,
+			"y" : 834,
+			"z_angle" : 28.7439802475
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0548304013,
+			"x" : 1618,
+			"y" : 1345,
+			"z_angle" : 309.6671841759
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8334114927,
+			"x" : 3942,
+			"y" : 761,
+			"z_angle" : 233.7295576092
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0036178767,
+			"x" : 899,
+			"y" : 1663,
+			"z_angle" : 234.3512507435
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0360531868,
+			"x" : 557,
+			"y" : 1502,
+			"z_angle" : 208.3121876791
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.2837754392,
+			"x" : 435,
+			"y" : 1214,
+			"z_angle" : 302.9972014111
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.854131407,
+			"x" : 239,
+			"y" : 1189,
+			"z_angle" : 298.3007507324
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9691715144,
+			"x" : 244,
+			"y" : 1462,
+			"z_angle" : 291.382868411
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.0162949153,
+			"x" : 435,
+			"y" : 1239,
+			"z_angle" : 351.6779597942
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0227300988,
+			"x" : 560,
+			"y" : 1515,
+			"z_angle" : 155.64
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0685550055,
+			"x" : 898,
+			"y" : 1998,
+			"z_angle" : 245.3764343262
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.0641886111,
+			"x" : 411,
+			"y" : 1707,
+			"z_angle" : 108.8140203618
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 0.9829551487,
+			"x" : 99,
+			"y" : 1239,
+			"z_angle" : 346.2729891948
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3835301817,
+			"x" : 1219,
+			"y" : 971,
+			"z_angle" : 47.2232474294
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1438538942,
+			"x" : 5260,
+			"y" : 1050,
+			"z_angle" : 9.5289486833
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1151359576,
+			"x" : 5182,
+			"y" : 1341,
+			"z_angle" : 280.2643874288
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9222025622,
+			"x" : 5008,
+			"y" : 970,
+			"z_angle" : 186.6448357143
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.9812241417,
+			"x" : 1887,
+			"y" : 1603,
+			"z_angle" : 137.8598925378
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8670839987,
+			"x" : 1469,
+			"y" : 1686,
+			"z_angle" : 166.0062722582
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.0005364881,
+			"x" : 1469,
+			"y" : 1686,
+			"z_angle" : 178.8400704134
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.9002822882,
+			"x" : 2132,
+			"y" : 2211,
+			"z_angle" : 244.5676346775
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.066317663,
+			"x" : 1543,
+			"y" : 1740,
+			"z_angle" : 50.908989273
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3536676081,
+			"x" : 2146,
+			"y" : 3938,
+			"z_angle" : 359.9786709901
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : "1"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "casurina_thick",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"shadow_caster" : 0,
+			"u_scale" : 1.3,
+			"x" : 5341,
+			"y" : 2730,
+			"z_angle" : 110.323135376
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.2109030414,
+			"x" : 2665,
+			"y" : 2654,
+			"z_angle" : 274.6888661385
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3029517779,
+			"x" : 3898,
+			"y" : 1341,
+			"z_angle" : 339.5031763706
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_03",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9,
+			"x" : 3817,
+			"y" : 638,
+			"z_angle" : 239.2741115391
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.7,
+			"x" : 3650,
+			"y" : 605,
+			"z_angle" : 133.6505836621
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "casurina_spindly",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9900869492,
+			"x" : 5237,
+			"y" : 1833,
+			"z_angle" : 301.7101209518
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 1.1848440314,
+			"x" : -217,
+			"y" : 1135,
+			"z_angle" : 58.7692302838
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8781003937,
+			"x" : -340,
+			"y" : 1390,
+			"z_angle" : 344.3230215646
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9208605037,
+			"x" : 120,
+			"y" : 1221,
+			"z_angle" : 168.8721618801
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.8141592227,
+			"x" : 191,
+			"y" : 1503,
+			"z_angle" : 157.6704803668
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3598425155,
+			"x" : -5,
+			"y" : 1474,
+			"z_angle" : 124.0351450536
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tree_trunk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.9032916509,
+			"x" : 1724,
+			"y" : 1279,
+			"z_angle" : 247.1936385054
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "reserve_camp",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2143,
+			"y" : 4825,
+			"z_angle" : 34.642834207
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cinder_bench",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2353,
+			"y" : 4808,
+			"z_angle" : 124.3803329468
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cinder_bench",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 5633,
+			"y" : 5430,
+			"z_angle" : 283.1340332031
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "cinder_bench",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1932,
+			"y" : 4783,
+			"z_angle" : 237.3807525635
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "camp_crate",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2515,
+			"y" : 4960,
+			"z_angle" : -39.7784423828
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial",
+				"value" : 1
+			},
+			"has_conditional" : 1,
+			"model_filename" : "reserve_camp_young",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2143,
+			"y" : 4825,
+			"z_angle" : 34.64
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "radio",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2309,
+			"y" : 5003,
+			"z_angle" : 343.3007507324
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "kettle",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1981,
+			"y" : 5002
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "shelf",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 8
+					}
+				]
+			},
+			"u_scale" : 0.7,
+			"x" : 2423,
+			"y" : 4495,
+			"z_angle" : 339.4439697266
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "mug",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2362,
+			"y" : 4916
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "mug",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1908,
+			"y" : 4972,
+			"z_angle" : 222.27
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "tripod",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9,
+			"x" : 2144,
+			"y" : 4845,
+			"z_angle" : 119.3577423096
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "in_tutorial"
+			},
+			"has_conditional" : 1,
+			"model_filename" : "hammock",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1
+					}
+				]
+			},
+			"x" : 1750,
+			"y" : 5104,
+			"z_angle" : 310.6012878418
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 5,
+				"key" : "crown_series",
+				"value" : 8
+			},
+			"has_conditional" : true,
+			"model_filename" : "saplings_tray1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2244,
+			"y" : 1876,
+			"z_angle" : 16.6992435455
+		},
+		{
+			"_" : "class_model",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 5,
+				"key" : "crown_series",
+				"value" : 8
+			},
+			"has_conditional" : true,
+			"model_filename" : "saplings_tray2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2156,
+			"y" : 1896,
+			"z_angle" : 19.0934906006
+		}
+	],
+	"name" : "hometown_reserve",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "8610ea82c19193d1a5a6b07a993213ec",
+			"object" : "objPlayer",
+			"x" : 2172,
+			"y" : 5074
+		},
+		{
+			"_" : "class_object",
+			"has_net" : 0,
+			"name" : "objGameplay",
+			"obj_guid" : "fec8302ba77542e8a22a53961c3cf36e",
+			"object" : "objGameplay",
+			"x" : 2932,
+			"y" : 1575
+		},
+		{
+			"_" : "class_object",
+			"name" : "objTutorial",
+			"obj_guid" : "1116817fd97a2804f49f7e88c4343222",
+			"object" : "objTutorial",
+			"progress_skip" : -1,
+			"x" : 2302,
+			"y" : 5011
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "chase1",
+			"obj_guid" : "9d389002120e3a8a65c94408fb6715c3",
+			"object" : "objNode",
+			"x" : 1687,
+			"y" : 4295,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "player_start",
+			"obj_guid" : "662c446c71e7b57a5d476ec69be96654",
+			"object" : "objNode",
+			"x" : 2134,
+			"y" : 5171,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "chase2",
+			"obj_guid" : "634029a2b1aedfab75fbd5564868e1e6",
+			"object" : "objNode",
+			"x" : 1859,
+			"y" : 3570,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "chase3",
+			"obj_guid" : "73a579997db6a940eeb59e0c49100dbf",
+			"object" : "objNode",
+			"x" : 2462,
+			"y" : 2896,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "chase_field",
+			"obj_guid" : "a79d1cfb9eff1df7b885988101643ab1",
+			"object" : "objNode",
+			"x" : 2626,
+			"y" : 1578,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "chase_escape",
+			"obj_guid" : "56dc553161e136852fcd0c749219ea90",
+			"object" : "objNode",
+			"x" : 593,
+			"y" : -1077,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "look_harvester",
+			"obj_guid" : "c445f545420e1ee6ea0dc934ae9150fa",
+			"object" : "objNode",
+			"x" : 2602,
+			"y" : 1529,
+			"z_up" : 250
+		},
+		{
+			"_" : "class_object",
+			"name" : "objConstructionguy",
+			"obj_guid" : "37673ebc8df3b06e1196a11e82b63659",
+			"object" : "objConstructionguy",
+			"x" : 2839,
+			"y" : 1306
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "pan1",
+			"obj_guid" : "ecbaf146863b7cb7ebf7eea4a3f9812c",
+			"object" : "objNode",
+			"x" : 601,
+			"y" : 1343,
+			"z_up" : 0
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "pan2",
+			"obj_guid" : "cff39a2e913473b2f004ec82149eb301",
+			"object" : "objNode",
+			"x" : 2701,
+			"y" : 1520,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 5,
+				"key" : "tutorial_progress",
+				"value" : 8
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 296,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "6430c902e3ec50681c6ccfd032c22edc",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 1,
+			"width" : 592,
+			"x" : 2924,
+			"y" : 1600
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 5,
+				"key" : "tutorial_progress",
+				"value" : 8
+			},
+			"encounter" : "hometown_reserve_guard",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 296,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "d50abbbaacb0d381aae03213a4851f77",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 592,
+			"x" : 2418,
+			"y" : 2944
+		},
+		{
+			"_" : "class_object",
+			"dlc" : false,
+			"gift_id" : "hometown_reserve",
+			"gift_id_index" : 0,
+			"name" : "objGift",
+			"obj_guid" : "a1d72f0599a7465439aea2a1ef40aa61",
+			"object" : "objGift",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 8,
+				"texture_index" : 7
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference",
+				"base_index" : 3,
+				"texture_index" : 0
+			},
+			"x" : 4414,
+			"y" : 4997
+		},
+		{
+			"_" : "class_object",
+			"am_param" : 0,
+			"container" : "amb_nature_preserve_scatter",
+			"line_x" : 0,
+			"line_y" : 0,
+			"name" : "objAudioPlayer",
+			"obj_guid" : "3f0768fe4bc2088f8706985a7725f855",
+			"object" : "objAudioPlayer",
+			"param_time" : 5,
+			"param_to" : 100,
+			"spot" : 0,
+			"x" : 3666,
+			"y" : 1528
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "373f0f6b6410c0f4ffcd212d05d2da27",
+			"object" : "objBallshrooms",
+			"x" : 2828,
+			"y" : 2375
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "cdfe14e7d16cc5423224e98a560dc582",
+			"object" : "objBallshrooms",
+			"x" : 3932,
+			"y" : 1726
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "866bf1694d986505f0dce1cf703f0c33",
+			"object" : "objBallshrooms",
+			"x" : 3839,
+			"y" : 1117
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "7dfb77fcb0d51f0ec5c069f177a39843",
+			"object" : "objBallshrooms",
+			"x" : 2025,
+			"y" : 1554
+		},
+		{
+			"_" : "class_object",
+			"name" : "objRiley",
+			"obj_guid" : "6e4aefd7b850ae2bbfd17db5ca3b3ebc",
+			"object" : "objRiley",
+			"x" : 3002,
+			"y" : 1312
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "riley_kid",
+			"obj_guid" : "b6b49a53ac6cd5ab55a9208c3bd49322",
+			"object" : "objNode",
+			"x" : 2979,
+			"y" : 1930,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : 1,
+			"name" : "objNode",
+			"node_name" : "player_bench",
+			"obj_guid" : "22e8fa970880386e61b9b0d4e1b02773",
+			"object" : "objNode",
+			"x" : 1938,
+			"y" : 4812,
+			"z" : 30,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : 0,
+			"name" : "objNode",
+			"node_name" : "riley_tea",
+			"obj_guid" : "80793b706fedd90f387fe0288035fd97",
+			"object" : "objNode",
+			"x" : 2319,
+			"y" : 4831,
+			"z_up" : 20
+		},
+		{
+			"_" : "class_object",
+			"facing" : -1,
+			"level_id" : "",
+			"name" : "objSit",
+			"obj_guid" : "1e7f1625bbe69d891aab1aa7e2ea438d",
+			"object" : "objSit",
+			"seat_angle" : 124.4,
+			"seat_width" : 200,
+			"x" : 2325,
+			"y" : 4827
+		},
+		{
+			"_" : "class_object",
+			"facing" : 1,
+			"level_id" : "riley",
+			"name" : "objSit",
+			"obj_guid" : "1e7f1625bbe69d891aab1aa7e2ea438d",
+			"object" : "objSit",
+			"seat_angle" : 57.0947570801,
+			"seat_width" : 200,
+			"x" : 1970,
+			"y" : 4791
+		},
+		{
+			"_" : "class_object",
+			"facing" : -1,
+			"good" : -1,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "harvester",
+			"obj_guid" : "2e09515220275cc74fe5f70b25f4b02c",
+			"object" : "objRoamerPOI",
+			"range" : 1,
+			"specie" : "none",
+			"x" : 3666,
+			"y" : 1278
+		},
+		{
+			"_" : "class_object",
+			"facing" : 0,
+			"good" : -1,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "harvester",
+			"obj_guid" : "2e09515220275cc74fe5f70b25f4b02c",
+			"object" : "objRoamerPOI",
+			"range" : 1,
+			"specie" : "none",
+			"x" : 2421,
+			"y" : 1305
+		},
+		{
+			"_" : "class_object",
+			"facing" : 0,
+			"good" : -1,
+			"model_collide" : 1,
+			"name" : "objRoamerPOI",
+			"node_name" : "harvester",
+			"obj_guid" : "2e09515220275cc74fe5f70b25f4b02c",
+			"object" : "objRoamerPOI",
+			"range" : 1,
+			"specie" : "none",
+			"x" : 2570,
+			"y" : 1130
+		},
+		{
+			"_" : "class_object",
+			"facing" : 0,
+			"good" : 1,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "hammock",
+			"obj_guid" : "82388863acc7741045d9a2579bdd991a",
+			"object" : "objRoamerPOI",
+			"range" : 1,
+			"specie" : "none",
+			"x" : 1726,
+			"y" : 5097,
+			"z" : 15
+		},
+		{
+			"_" : "class_object",
+			"name" : "objResearcher",
+			"obj_guid" : "8f8cd68e6cc8d8488f4b4d66323d637d",
+			"object" : "objResearcher",
+			"x" : 2904,
+			"y" : 1671
+		},
+		{
+			"_" : "class_object",
+			"name" : "objValerie",
+			"obj_guid" : "7d6bd348d351b6255ae073f9ef13a947",
+			"object" : "objValerie",
+			"x" : 2525,
+			"y" : 1150
+		},
+		{
+			"_" : "class_object",
+			"facing" : 0,
+			"good" : 1,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "hideout",
+			"obj_guid" : "82388863acc7741045d9a2579bdd991a",
+			"object" : "objRoamerPOI",
+			"range" : 0.5,
+			"specie" : "none",
+			"x" : 2313,
+			"y" : 4615,
+			"z" : 15
+		},
+		{
+			"_" : "class_object",
+			"facing" : 0,
+			"good" : 1,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "hideout",
+			"obj_guid" : "82388863acc7741045d9a2579bdd991a",
+			"object" : "objRoamerPOI",
+			"range" : 0.5,
+			"specie" : "none",
+			"x" : 2410,
+			"y" : 5055,
+			"z" : 15
+		},
+		{
+			"_" : "class_object",
+			"am_param" : 0,
+			"container" : "ambScatter_bird_blackbird",
+			"line_x" : 0,
+			"line_y" : 0,
+			"name" : "objAudioPlayer",
+			"obj_guid" : "862cd119c01ab39e95d488f0c8cb9357",
+			"object" : "objAudioPlayer",
+			"param_time" : 5,
+			"param_to" : 100,
+			"spot" : 0,
+			"x" : 2547,
+			"y" : 2046
+		}
+	],
+	"palette_name" : "cliffs",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"rotate_tool_angle" : 344.5606994629,
+	"shadow_alpha" : 0.35,
+	"shadow_color" : 9830912,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.4,
+					"grass_height" : 70,
+					"grass_height_variance" : 30,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4070630523
+					},
+					"grass_solid" : 1,
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					"points_array" : [
+						4,
+						-247,
+						0,
+						280,
+						-208,
+						0,
+						451,
+						-122,
+						0,
+						532,
+						74,
+						0,
+						739,
+						150,
+						0,
+						932,
+						161,
+						0,
+						1538,
+						412,
+						0,
+						1776,
+						239,
+						0,
+						1292,
+						-245,
+						0,
+						1038,
+						-541,
+						0,
+						-420,
+						-589,
+						0,
+						-890,
+						-333,
+						0,
+						-547,
+						-203,
+						0,
+						-314,
+						-226,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"surface_type" : 2,
+					"x" : -465,
+					"y" : -370
+				}
+			],
+			"x" : 3725,
+			"y" : 1431
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4040615345
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-311,
+						546,
+						0,
+						295,
+						546,
+						-110,
+						285,
+						-337,
+						-110,
+						-311,
+						-337,
+						0,
+						-1221,
+						-337,
+						0,
+						-1221,
+						546,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp",
+						"edge_high_a_x" : 295,
+						"edge_high_a_y" : 546,
+						"edge_high_b_x" : 285,
+						"edge_high_b_y" : -337,
+						"edge_low_a_x" : -313,
+						"edge_low_a_y" : -281,
+						"edge_low_b_x" : -313,
+						"edge_low_b_y" : 564,
+						"edges_array" : [],
+						"enabled" : 1,
+						"ramp_dist_max" : 50,
+						"ramp_dist_min" : 0,
+						"ramp_type" : 2,
+						"z_change" : -110
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"thickness" : 100,
+					"x" : 55,
+					"y" : 1,
+					"z" : 100
+				}
+			],
+			"x" : 548,
+			"y" : 1277
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4059947860
+					},
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-92,
+						609,
+						12.4920510267,
+						1297,
+						623,
+						15.548842396,
+						1197,
+						-1990,
+						10.7063822656,
+						-6750,
+						-1897,
+						200,
+						-6802,
+						-189,
+						200,
+						-5582,
+						-92,
+						110.7281377044,
+						-4867,
+						-142,
+						61.0535420811,
+						-4540,
+						-309,
+						41.8413632039,
+						-4108,
+						-408,
+						15.4595623216,
+						-3849,
+						-457,
+						0,
+						-3830,
+						-511,
+						0,
+						-3397,
+						-501,
+						1.3907471901,
+						-3055,
+						-576,
+						2.5544394358,
+						-2651,
+						-546,
+						3.5994341454,
+						-2503,
+						-651,
+						3.8831102035,
+						-2151,
+						-663,
+						4.8669911922,
+						-1820,
+						-596,
+						5.8829265771,
+						-1515,
+						-521,
+						6.8229511616,
+						-1431,
+						-300,
+						7.4088085409,
+						-1215,
+						-115,
+						8.2980238768,
+						-1136,
+						46,
+						8.7917828074,
+						-768,
+						157,
+						9.9462402493,
+						-670,
+						461,
+						10.7778004587
+					],
+					"ramp" : {
+						"_" : "class_ramp",
+						"edge_high_a_x" : -6750,
+						"edge_high_a_y" : -1897,
+						"edge_high_b_x" : -6802,
+						"edge_high_b_y" : -189,
+						"edge_low_a_x" : -3849,
+						"edge_low_a_y" : -457,
+						"edge_low_b_x" : -3830,
+						"edge_low_b_y" : -511,
+						"enabled" : 1
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"thickness" : 500,
+					"x" : 2696,
+					"y" : 117,
+					"z" : 300
+				}
+			],
+			"x" : 2997,
+			"y" : 1124
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2663510676
+					},
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"channel_index" : 1,
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-65,
+						230,
+						0,
+						195,
+						269,
+						0,
+						558,
+						254,
+						0,
+						1074,
+						361,
+						0,
+						1502,
+						561,
+						0,
+						2006,
+						637,
+						0,
+						2125,
+						597,
+						0,
+						2143,
+						513,
+						0,
+						2006,
+						464,
+						0,
+						1751,
+						437,
+						0,
+						1235,
+						290,
+						0,
+						1027,
+						192,
+						0,
+						801,
+						152,
+						0,
+						570,
+						49,
+						0,
+						385,
+						89,
+						0,
+						237,
+						72,
+						0,
+						35,
+						61,
+						0,
+						-189,
+						92,
+						0,
+						-480,
+						141,
+						0,
+						-539,
+						208,
+						0,
+						-456,
+						248,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					}
+				}
+			],
+			"x" : 3770,
+			"y" : 1474
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.2,
+					"grass_height" : 50,
+					"grass_height_variance" : 30,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4278050900
+					},
+					"grass_solid" : 1,
+					"grass_thickness" : 1.2,
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					"points_array" : [
+						-89,
+						206,
+						0,
+						71,
+						51,
+						0,
+						253,
+						-157,
+						0,
+						-36,
+						-125,
+						0,
+						-1162,
+						92,
+						0,
+						-1399,
+						272,
+						0,
+						-1525,
+						525,
+						0,
+						-1414,
+						714,
+						0,
+						-1267,
+						929,
+						0,
+						-1159,
+						1354,
+						0,
+						-697,
+						1198,
+						0,
+						-843,
+						984,
+						0,
+						-748,
+						779,
+						0,
+						-544,
+						572,
+						0,
+						-241,
+						416,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"surface_type" : 2,
+					"x" : -400,
+					"y" : -998
+				}
+			],
+			"x" : 2702,
+			"y" : 1784
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.4,
+					"grass_height" : 70,
+					"grass_height_variance" : 30,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4292337838
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-531,
+						-207,
+						0,
+						-655,
+						-37,
+						0,
+						-676,
+						276,
+						0,
+						-547,
+						459,
+						0,
+						711,
+						462,
+						0,
+						690,
+						-84,
+						0,
+						-215,
+						-89,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"x" : -467,
+					"y" : 22
+				}
+			],
+			"x" : 6113,
+			"y" : 1891
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_height" : 70,
+					"grass_height_variance" : 30,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4230275583
+					},
+					"grass_solid" : 1,
+					"grass_thickness" : 2,
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					"points_array" : [
+						-638,
+						321,
+						0,
+						-831,
+						382,
+						0,
+						-935,
+						491,
+						0,
+						-912,
+						570,
+						0,
+						-670,
+						652,
+						0,
+						106,
+						740,
+						0,
+						786,
+						334,
+						0,
+						669,
+						164,
+						0,
+						472,
+						51,
+						0,
+						215,
+						29,
+						0,
+						80,
+						-10,
+						0,
+						-44,
+						41,
+						0,
+						-150,
+						156,
+						0,
+						-217,
+						315,
+						0,
+						-429,
+						366,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"surface_type" : 2,
+					"x" : 36,
+					"y" : 45
+				}
+			],
+			"x" : 3665,
+			"y" : 1706
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_default" : 0,
+					"grass_density" : 0.12,
+					"grass_height" : 120,
+					"grass_height_variance" : 55,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4252888788
+					},
+					"grass_solid" : 1,
+					"grass_thickness" : 3,
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 5
+					},
+					"points_array" : [
+						-100,
+						100,
+						0,
+						142,
+						108,
+						0,
+						487,
+						7,
+						0,
+						455,
+						-306,
+						0,
+						635,
+						-544,
+						0,
+						1027,
+						-866,
+						0,
+						1165,
+						-1176,
+						0,
+						1027,
+						-1319,
+						0,
+						852,
+						-1347,
+						0,
+						603,
+						-1273,
+						0,
+						577,
+						-803,
+						0,
+						144,
+						-483,
+						0,
+						-70,
+						-175,
+						0,
+						-100,
+						-100,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"surface_type" : 2,
+					"x" : -275,
+					"y" : 314,
+					"z" : 2
+				}
+			],
+			"x" : 1846,
+			"y" : 3801
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4200787773
+					},
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-143,
+						141,
+						0,
+						449,
+						-202,
+						0,
+						3366,
+						-290,
+						0,
+						3369,
+						-1702,
+						0,
+						2310,
+						-1750,
+						0,
+						1927,
+						-1998,
+						0,
+						1644,
+						-2050,
+						0,
+						1504,
+						-1786,
+						0,
+						1273,
+						-1623,
+						0,
+						666,
+						-1675,
+						0,
+						349,
+						-1520,
+						0,
+						274,
+						-1065,
+						0,
+						112,
+						-731,
+						0,
+						-135,
+						-537,
+						0,
+						-422,
+						-380,
+						0,
+						-599,
+						-142,
+						0,
+						-471,
+						85,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					"solid" : 1,
+					"x" : 288,
+					"y" : -377,
+					"z" : 300
+				}
+			],
+			"x" : 2186,
+			"y" : 4560
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4215991333
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 0
+					},
+					"points_array" : [
+						-100,
+						100,
+						0,
+						100,
+						100,
+						0,
+						100,
+						-100,
+						0,
+						-100,
+						-100,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"x" : 1513,
+					"y" : -510,
+					"z" : 3
+				}
+			],
+			"x" : 2191,
+			"y" : 4831
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4221562230
+					},
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 1,
+						"texture_index" : 2
+					},
+					"points_array" : [
+						105,
+						-38,
+						0,
+						31,
+						-74,
+						0,
+						-39,
+						-65,
+						0,
+						-85,
+						-29,
+						0,
+						-83,
+						53,
+						0,
+						6,
+						79,
+						0,
+						77,
+						49,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"x" : -137,
+					"y" : -117,
+					"z" : 3
+				}
+			],
+			"x" : 2276,
+			"y" : 4945
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.4,
+					"grass_height" : 70,
+					"grass_height_variance" : 30,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4177259090
+					},
+					"grass_solid" : 1,
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-121,
+						152,
+						0,
+						100,
+						100,
+						0,
+						259,
+						-1,
+						0,
+						520,
+						-39,
+						0,
+						637,
+						56,
+						0,
+						727,
+						199,
+						0,
+						890,
+						284,
+						0,
+						940,
+						336,
+						0,
+						1008,
+						473,
+						0,
+						1024,
+						636,
+						0,
+						817,
+						1029,
+						0,
+						1310,
+						819,
+						0,
+						1283,
+						-211,
+						0,
+						219,
+						-198,
+						0,
+						112,
+						-266,
+						0,
+						-20,
+						-310,
+						0,
+						-243,
+						-230,
+						0,
+						-391,
+						86,
+						0,
+						-518,
+						349,
+						0,
+						-534,
+						917,
+						0,
+						-84,
+						945,
+						0,
+						-99,
+						853,
+						0,
+						-232,
+						619,
+						0,
+						-221,
+						357,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"surface_type" : 2,
+					"x" : -234,
+					"y" : -151
+				}
+			],
+			"x" : 1962,
+			"y" : 4492
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4191611569
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-379,
+						916,
+						0,
+						656,
+						308,
+						0,
+						-606,
+						379,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"visible" : 0,
+					"x" : 148,
+					"y" : 551,
+					"z" : 300
+				}
+			],
+			"x" : 2207,
+			"y" : 4693
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3867666526
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 5
+					},
+					"points_array" : [
+						205,
+						795,
+						0,
+						3668,
+						793,
+						0,
+						3666,
+						-1094,
+						0,
+						955,
+						-1079,
+						0,
+						1073,
+						-584,
+						0,
+						1215,
+						-312,
+						0,
+						925,
+						-42,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : -631,
+					"y" : -30,
+					"z" : 150
+				}
+			],
+			"x" : 2561,
+			"y" : 5466
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass" : 1,
+					"grass_density" : 0.4,
+					"grass_height" : 70,
+					"grass_height_variance" : 30,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3890800963
+					},
+					"grass_solid" : 1,
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"texture_index" : 5
+					},
+					"points_array" : [
+						-363,
+						874,
+						0,
+						794,
+						978,
+						0,
+						1405,
+						675,
+						0,
+						1572,
+						429,
+						0,
+						1067,
+						125,
+						0,
+						617,
+						79,
+						0,
+						378,
+						335,
+						0,
+						53,
+						518,
+						0,
+						-265,
+						564,
+						0,
+						-484,
+						628,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"x" : 490,
+					"y" : 717,
+					"z" : 451
+				}
+			],
+			"x" : 1885,
+			"y" : 4725
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3829262740
+					},
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 0
+					},
+					"points_array" : [
+						-93,
+						-1172,
+						38.1460962553,
+						48,
+						-1628,
+						32.2306446129,
+						189,
+						-1891,
+						28.0358940512,
+						407,
+						-2424,
+						18.2343646873,
+						838,
+						-2677,
+						3.1127289212,
+						832,
+						-3163,
+						0,
+						688,
+						-3616,
+						0,
+						170,
+						-3950,
+						12.8512570251,
+						-405,
+						-4085,
+						30.3416068321,
+						-756,
+						-4193,
+						41.3471602765,
+						-1428,
+						-4296,
+						63.9396121256,
+						-2454,
+						-4301,
+						100,
+						-2514,
+						786,
+						100,
+						1531,
+						620,
+						10.4835430042,
+						956,
+						-194,
+						18.2663653273,
+						429,
+						-485,
+						28.8425768515,
+						294,
+						-628,
+						31.3152929725,
+						15,
+						-698,
+						37.6887537751
+					],
+					"ramp" : {
+						"_" : "class_ramp",
+						"edge_high_a_x" : -2454,
+						"edge_high_a_y" : -4301,
+						"edge_high_b_x" : -2514,
+						"edge_high_b_y" : 786,
+						"edge_low_a_x" : 832,
+						"edge_low_a_y" : -3163,
+						"edge_low_b_x" : 688,
+						"edge_low_b_y" : -3616,
+						"enabled" : 1,
+						"z_change" : 100
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					"solid" : 1,
+					"thickness" : 500,
+					"x" : 33,
+					"y" : -937,
+					"z" : 300
+				}
+			],
+			"x" : 1312,
+			"y" : 6969
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3844642435
+					},
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-725,
+						3125,
+						0,
+						909,
+						3170,
+						0,
+						866,
+						1043,
+						0,
+						1328,
+						525,
+						0,
+						1959,
+						379,
+						0,
+						2250,
+						-15,
+						0,
+						2364,
+						-645,
+						0,
+						2279,
+						-965,
+						0,
+						1874,
+						-1343,
+						0,
+						717,
+						-1438,
+						0,
+						14,
+						-1518,
+						0,
+						-660,
+						-1758,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : -3954,
+					"y" : 1692,
+					"z" : 450
+				}
+			],
+			"x" : 2508,
+			"y" : 2149
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3792148446
+					},
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					"points_array" : [
+						534,
+						1417,
+						0,
+						4601,
+						1360,
+						0,
+						4404,
+						-1964,
+						0,
+						2217,
+						-2094,
+						0,
+						1388,
+						-1927,
+						0,
+						987,
+						-1870,
+						0,
+						905,
+						-1590,
+						0,
+						1052,
+						-1419,
+						0,
+						1241,
+						-1098,
+						0,
+						1539,
+						-992,
+						0,
+						2233,
+						-1004,
+						0,
+						2629,
+						-1229,
+						0,
+						3219,
+						-1174,
+						0,
+						3625,
+						-951,
+						0,
+						3685,
+						-521,
+						0,
+						3360,
+						-363,
+						0,
+						3192,
+						-102,
+						0,
+						2710,
+						-87,
+						0,
+						2575,
+						-375,
+						0,
+						2049,
+						-493,
+						0,
+						1718,
+						-305,
+						0,
+						1372,
+						-321,
+						0,
+						1198,
+						-103,
+						0,
+						877,
+						69,
+						0,
+						558,
+						110,
+						0,
+						311,
+						303,
+						0,
+						306,
+						879,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					"solid" : 1,
+					"x" : -824,
+					"y" : 809,
+					"z" : 450
+				}
+			],
+			"x" : 2310,
+			"y" : 4879
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"sunlight_elevation" : 60,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

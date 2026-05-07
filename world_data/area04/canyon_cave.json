@@ -1,0 +1,563 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_amberstone_jasperMines",
+	"ambient_color" : 12608612,
+	"background_prev_text_color" : 9326349,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 8,
+		"texture_index" : 9
+	},
+	"display_name" : "none",
+	"eff_bloom_threshold" : 0.96,
+	"eff_chromatic_str" : 0.5,
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"grass_density" : 0.4,
+	"grass_height" : 70,
+	"grass_height_variance" : 30,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 3,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 6,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 3
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 0
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 3,
+							"texture_index" : 6
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_01"
+				}
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 3,
+							"texture_index" : 4
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_02"
+				}
+			}
+		],
+		"seed" : 1786388371
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "traintrack",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2371,
+			"y" : 2600,
+			"z_angle" : 90
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "traintrack",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1171,
+			"y" : 1400
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 52,
+			"y" : 1425,
+			"z_angle" : 71.5650482178
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 846,
+			"y" : 779,
+			"z_angle" : 203.6293792725
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "traintrack_curve",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2371,
+			"y" : 1400,
+			"z_angle" : 180
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "traintrack",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 3,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : -29,
+			"y" : 1400
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1805,
+			"y" : 716,
+			"z_angle" : 350.9097290039
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2735,
+			"y" : 1170,
+			"z_angle" : 308.6597900391
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cave_entrance",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 267,
+			"y" : 1418,
+			"z_angle" : 74.0546035767
+		}
+	],
+	"music" : "music_cave",
+	"name" : "canyon_cave",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"has_net" : 0,
+			"name" : "objGameplay",
+			"obj_guid" : "9e3af6dea9b4fe8edc325036d5a88403",
+			"object" : "objGameplay",
+			"x" : 1611,
+			"y" : 1744
+		},
+		{
+			"_" : "class_object",
+			"angle" : 85.6012878418,
+			"dlc" : false,
+			"lever_id" : "canyon_end",
+			"name" : "objRailwall",
+			"obj_guid" : "094a0bfaa55e2796162cc6db7aa6fa01",
+			"object" : "objRailwall",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"channel_index" : 2,
+				"texture_index" : 3
+			},
+			"x" : 400,
+			"y" : 1114
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 296,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "4db3af2d24a73f2c07946ac0aa656fbd",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 592,
+			"x" : 1609,
+			"y" : 1760
+		},
+		{
+			"_" : "class_object",
+			"lever_id" : "canyon_end",
+			"name" : "objRailswitch",
+			"obj_guid" : "cd65d219d11bc9cfa1d1215c9b8150fe",
+			"object" : "objRailswitch",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 4,
+				"channel_index" : 2,
+				"texture_index" : 3
+			},
+			"x" : 1627,
+			"xflip" : 0,
+			"y" : 865
+		}
+	],
+	"palette_name" : "city",
+	"palette_reference" : {
+		"_" : "class_palette_reference",
+		"base_index" : 11,
+		"channel_index" : 2,
+		"texture_index" : 9
+	},
+	"shadow_alpha" : 0.35,
+	"shadow_color" : 12583424,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"collision_inner" : 1,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3252565895
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					"points_array" : [
+						582,
+						1710,
+						0,
+						1152,
+						1699,
+						0,
+						1074,
+						1087,
+						0,
+						1081,
+						625,
+						0,
+						1074,
+						-181,
+						0,
+						1301,
+						-480,
+						0,
+						1557,
+						-629,
+						0,
+						1586,
+						-1429,
+						0,
+						1259,
+						-1962,
+						0,
+						534,
+						-2133,
+						0,
+						-92,
+						-1994,
+						0,
+						-717,
+						-1919,
+						0,
+						-1217,
+						-1759,
+						0,
+						-1453,
+						-1464,
+						0,
+						-2072,
+						-1460,
+						0,
+						-2318,
+						-963,
+						0,
+						-1343,
+						-992,
+						0,
+						-1016,
+						-597,
+						0,
+						-569,
+						-334,
+						0,
+						8,
+						-384,
+						0,
+						278,
+						-459,
+						0,
+						335,
+						-288,
+						0,
+						477,
+						-75,
+						0,
+						463,
+						394,
+						0,
+						548,
+						821,
+						0,
+						505,
+						1087,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : -26,
+					"y" : 643
+				}
+			],
+			"x" : 1604,
+			"y" : 2000
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"sunlight_direction" : 135,
+	"sunlight_elevation" : 60,
+	"surface_type" : 7,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

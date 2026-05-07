@@ -1,0 +1,40 @@
+{
+	"__Elephant_Constructor__" : "class_level",
+	"__Elephant_Schema_Version__" : 0,
+	"background_prev_text_color" : 4521119,
+	"baked_shapes_vbuff" : null,
+	"cloud_color" : {
+		"__Elephant_Constructor__" : "class_palette_reference",
+		"__Elephant_Schema_Version__" : 0
+	},
+	"floor_style" : 2,
+	"grass_color" : {
+		"__Elephant_Constructor__" : "class_palette_reference",
+		"__Elephant_Schema_Version__" : 0
+	},
+	"ground_cover_models" : {
+		"__Elephant_Constructor__" : "class_model_spawn_array",
+		"__Elephant_Schema_Version__" : 0,
+		"array" : [],
+		"seed" : 1624858257
+	},
+	"models_array" : [],
+	"name" : "zerozero",
+	"objects_array" : [],
+	"palette_name" : "default",
+	"palette_reference" : {
+		"__Elephant_Constructor__" : "class_palette_reference",
+		"__Elephant_Schema_Version__" : 0
+	},
+	"shape_groups_array" : [],
+	"sky_gradient" : {
+		"__Elephant_Constructor__" : "class_palette_reference",
+		"__Elephant_Schema_Version__" : 0
+	},
+	"water_color" : {
+		"__Elephant_Constructor__" : "class_palette_reference",
+		"__Elephant_Schema_Version__" : 0,
+		"base_index" : 4,
+		"texture_index" : 0
+	}
+}

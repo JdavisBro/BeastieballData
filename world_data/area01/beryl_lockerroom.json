@@ -1,0 +1,211 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_locker_room",
+	"background_prev_text_color" : 2477823,
+	"cloud_color" : {
+		"_" : "class_palette_reference"
+	},
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference"
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 2328819344
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "lockerroom",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 9
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"texture_index" : 7
+					}
+				]
+			},
+			"x" : 1372,
+			"y" : 2428
+		}
+	],
+	"name" : "beryl_lockerroom",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "4b09465018793013d80fdfb6c50b8162",
+			"object" : "objPlayer",
+			"x" : 1866,
+			"y" : 3003
+		},
+		{
+			"_" : "class_object",
+			"boss_id" : "riven",
+			"name" : "objLockerroom",
+			"obj_guid" : "a4674efebbefff7157b7c31ca4fe489d",
+			"object" : "objLockerroom",
+			"x" : 2113,
+			"y" : 1629
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "d0769075be762eb3ed45694c4e87d1c5",
+			"object" : "objNode",
+			"x" : 1188,
+			"y" : 1739,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "5eae473b5656a4d14451eeba3089a818",
+			"object" : "objNode",
+			"x" : 798,
+			"y" : 2021,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "6028647936645401b12b0dfd7a6bb51d",
+			"object" : "objNode",
+			"x" : 1265,
+			"y" : 2735,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "1bb95cc0c6803e0b27c20063d7bb76e4",
+			"object" : "objNode",
+			"x" : 1339,
+			"y" : 2076,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "7a46cfc4a6c68985f0d375785bb59996",
+			"object" : "objNode",
+			"x" : 774,
+			"y" : 2788,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "1eb5c40873696a3531dc2043de87e39e",
+			"object" : "objNode",
+			"x" : 846,
+			"y" : 2513,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "1cbb31f3945464550d7bf99fe351bb9e",
+			"object" : "objNode",
+			"x" : 1484,
+			"y" : 1879,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "",
+			"obj_guid" : "83dd0dc86033554b0b2d96003a523196",
+			"object" : "objNode",
+			"x" : 754,
+			"y" : 2269,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "postgame_player",
+			"obj_guid" : "fbcdfee6a7f905c61e76600793a2aebb",
+			"object" : "objNode",
+			"x" : 1485,
+			"y" : 1833,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "postgame_j",
+			"obj_guid" : "ed830c76700f673962c98f318de3a12e",
+			"object" : "objNode",
+			"x" : 1284,
+			"y" : 1834,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"name" : "objToilet",
+			"obj_guid" : "9123a7b72790076923c18afc806fa1cd",
+			"object" : "objToilet",
+			"x" : 695.5,
+			"y" : 1346
+		}
+	],
+	"palette_name" : "cliffs",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"rotate_tool_angle" : 245.7118835449,
+	"shadow_alpha" : 0.4,
+	"shadow_color" : 2621440,
+	"shape_groups_array" : [],
+	"sky_gradient" : {
+		"_" : "class_palette_reference"
+	},
+	"sunlight_elevation" : 80,
+	"surface_type" : 6,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

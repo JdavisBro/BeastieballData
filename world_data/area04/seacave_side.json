@@ -1,0 +1,986 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_amberstone_jasperMines",
+	"background_prev_text_color" : 13335818,
+	"camera_y1_offset" : -1000,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 7,
+		"texture_index" : 6
+	},
+	"display_name" : "Eburnean Cavern",
+	"gizmos_array" : [
+		{
+			"_" : "class_cameralook",
+			"fade" : 200,
+			"look_x" : 700,
+			"str" : 0.5,
+			"x" : 2759,
+			"y" : 1929
+		}
+	],
+	"grass_color" : {
+		"_" : "class_palette_reference"
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 3
+			}
+		]
+	},
+	"ground_cover_clumpy" : 0.66,
+	"ground_cover_density" : 0.2,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 6,
+							"texture_index" : 5
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 6
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 2,
+							"texture_index" : 6
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_01"
+				}
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 6
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 6,
+							"texture_index" : 4
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_02"
+				}
+			}
+		],
+		"seed" : 2635749927
+	},
+	"is_indoor" : 1,
+	"models_array" : [],
+	"music" : "music_cave",
+	"name" : "seacave_side",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "24696c8f6f30fa5d25188904a9a79fff",
+			"object" : "objPlayer",
+			"x" : 3236,
+			"y" : 1059
+		},
+		{
+			"_" : "class_object",
+			"lever_id" : "seacave_side",
+			"name" : "objRailswitch",
+			"obj_guid" : "1c591f237d0c93f70f0c7b654eeadf13",
+			"object" : "objRailswitch",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 6,
+				"channel_index" : 2,
+				"texture_index" : 3
+			},
+			"x" : 1474,
+			"xflip" : 0,
+			"y" : 1916
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "ea8fa688009388a740509626494c3a9a",
+			"object" : "objBallshrooms",
+			"x" : 2804,
+			"y" : 621
+		},
+		{
+			"_" : "class_object",
+			"angle" : 0,
+			"level_to" : "none",
+			"name" : "objBouncy",
+			"obj_guid" : "daa80817f96e8fe739b14bf6c9accc33",
+			"object" : "objBouncy",
+			"palette_1" : {
+				"_" : "class_palette_reference"
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference",
+				"base_index" : 5,
+				"texture_index" : 11
+			},
+			"palette_3" : {
+				"_" : "class_palette_reference",
+				"base_index" : 2,
+				"texture_index" : 3
+			},
+			"wall" : 0,
+			"x" : 2758,
+			"y" : 1910,
+			"z_up" : 100
+		},
+		{
+			"_" : "class_object",
+			"has_net" : 0,
+			"name" : "objGameplay",
+			"obj_guid" : "f11e456676900dba1717ce769d78c593",
+			"object" : "objGameplay",
+			"x" : 3271,
+			"y" : 1030
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "ea8fa688009388a740509626494c3a9a",
+			"object" : "objBallshrooms",
+			"x" : 3756,
+			"y" : 516
+		},
+		{
+			"_" : "class_object",
+			"angle" : 274.2363891602,
+			"dlc" : false,
+			"lever_id" : "seacave_side",
+			"name" : "objRailwall",
+			"obj_guid" : "0aac71da11537da7c561ae8b159dc343",
+			"object" : "objRailwall",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 6,
+				"channel_index" : 2,
+				"texture_index" : 3
+			},
+			"x" : 4264,
+			"y" : 1326
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 350,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "376dc0a9424acb8e4abbc809848333bd",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 700,
+			"x" : 3267,
+			"y" : 1120
+		},
+		{
+			"_" : "class_object",
+			"dlc" : false,
+			"gift_id" : "none",
+			"gift_id_index" : 0,
+			"name" : "objGift",
+			"obj_guid" : "e834558bcdebd9b6e0bb94ffed38f00f",
+			"object" : "objGift",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 3,
+				"texture_index" : 2
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference",
+				"base_index" : 7,
+				"texture_index" : 8
+			},
+			"x" : 4748,
+			"y" : 1120
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 296,
+			"miniboss" : 1,
+			"miniboss_index" : 0,
+			"miniboss_type" : 1,
+			"name" : "objSpawner",
+			"obj_guid" : "6a3ec73f1499d2047d248ec3578f9686",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 592,
+			"x" : 3441,
+			"y" : 1846
+		}
+	],
+	"palette_name" : "island",
+	"palette_reference" : {
+		"_" : "class_palette_reference",
+		"base_index" : 4,
+		"texture_index" : 11
+	},
+	"shadow_alpha" : 0.15,
+	"shadow_color" : 7996016,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3939535498
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-183,
+						80,
+						0,
+						-97,
+						228,
+						0,
+						125,
+						238,
+						0,
+						279,
+						126,
+						0,
+						305,
+						-94,
+						0,
+						51,
+						-158,
+						0,
+						-183,
+						-95,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					"solid" : 1,
+					"x" : -1059,
+					"y" : -2137,
+					"z" : 150
+				}
+			],
+			"x" : 2560,
+			"y" : 2936
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 112103837
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"map_solid" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 5
+					},
+					"points_array" : [
+						-1793,
+						723,
+						0,
+						-1052,
+						684,
+						0,
+						-755,
+						558,
+						0,
+						-600,
+						436,
+						0,
+						-536,
+						230,
+						0,
+						-370,
+						3,
+						0,
+						11,
+						-220,
+						0,
+						521,
+						-206,
+						0,
+						964,
+						-197,
+						0,
+						1290,
+						-220,
+						0,
+						1376,
+						-410,
+						0,
+						1586,
+						-472,
+						0,
+						1852,
+						-417,
+						0,
+						2118,
+						-349,
+						0,
+						2456,
+						-424,
+						0,
+						2639,
+						-582,
+						0,
+						2896,
+						-603,
+						0,
+						3042,
+						-376,
+						0,
+						3134,
+						-115,
+						0,
+						3418,
+						-5,
+						0,
+						3674,
+						-12,
+						0,
+						3839,
+						222,
+						0,
+						3894,
+						647,
+						0,
+						4086,
+						743,
+						0,
+						5304,
+						496,
+						0,
+						4287,
+						-1375,
+						0,
+						-1495,
+						-975,
+						0,
+						-2679,
+						625,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 5
+					},
+					"solid" : 1,
+					"wall_collider" : 1,
+					"z" : 1200
+				}
+			],
+			"x" : 1126,
+			"y" : 910
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3103028469
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-2701,
+						509,
+						0,
+						-2100,
+						448,
+						0,
+						-1859,
+						396,
+						0,
+						-1589,
+						369,
+						0,
+						-1350,
+						338,
+						0,
+						-1211,
+						91,
+						0,
+						-1238,
+						-207,
+						0,
+						-1443,
+						-486,
+						0,
+						-1655,
+						-525,
+						0,
+						-1924,
+						-526,
+						0,
+						-2026,
+						-137,
+						0,
+						-2055,
+						-32,
+						0,
+						-2101,
+						142,
+						0,
+						-2336,
+						277,
+						0,
+						-2674,
+						304,
+						0,
+						-3828,
+						58,
+						0,
+						-3773,
+						562,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					"solid" : 1,
+					"y" : 120,
+					"z" : 150
+				}
+			],
+			"x" : 2458,
+			"y" : 1215
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 120,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2522809795
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-67,
+						-3,
+						0,
+						74,
+						3,
+						0,
+						128,
+						-54,
+						0,
+						63,
+						-87,
+						0,
+						-75,
+						-84,
+						0,
+						-95,
+						-44,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"texture_index" : 4
+					},
+					"solid" : 1,
+					"x" : -179,
+					"y" : -935,
+					"z" : 150
+				}
+			],
+			"x" : 1656,
+			"y" : 2902
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 57421937
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-3799,
+						-237,
+						0,
+						-3706,
+						-58,
+						0,
+						-3514,
+						88,
+						0,
+						-3285,
+						121,
+						0,
+						-3210,
+						279,
+						0,
+						-2933,
+						315,
+						0,
+						-2570,
+						334,
+						0,
+						-2451,
+						437,
+						0,
+						-2469,
+						527,
+						0,
+						-2460,
+						651,
+						0,
+						-2341,
+						712,
+						0,
+						-2176,
+						678,
+						0,
+						-2103,
+						560,
+						0,
+						-2030,
+						424,
+						0,
+						-1538,
+						327,
+						0,
+						-1411,
+						127,
+						0,
+						-1383,
+						-79,
+						0,
+						-1264,
+						-112,
+						0,
+						-1063,
+						-64,
+						0,
+						-660,
+						-98,
+						0,
+						-651,
+						-263,
+						0,
+						-724,
+						-421,
+						0,
+						-907,
+						-421,
+						0,
+						-1136,
+						-359,
+						0,
+						-1356,
+						-469,
+						0,
+						-1444,
+						-668,
+						0,
+						-1582,
+						-874,
+						0,
+						-1655,
+						-1019,
+						0,
+						-1966,
+						-1025,
+						0,
+						-2296,
+						-868,
+						0,
+						-3001,
+						-854,
+						0,
+						-3230,
+						-758,
+						0,
+						-3266,
+						-538,
+						0,
+						-3395,
+						-442,
+						0,
+						-3523,
+						-490,
+						0,
+						-3689,
+						-458,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					"solid" : 1,
+					"z" : 150
+				}
+			],
+			"x" : 5695,
+			"y" : 1313
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2522809795
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-100,
+						64,
+						0,
+						86,
+						53,
+						0,
+						145,
+						-11,
+						0,
+						100,
+						-100,
+						0,
+						-100,
+						-100,
+						0,
+						-145,
+						-26,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"texture_index" : 4
+					},
+					"solid" : 1,
+					"x" : 1128,
+					"y" : -935,
+					"z" : 150
+				}
+			],
+			"x" : 1656,
+			"y" : 2902
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1518198211
+					},
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : false,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-3370,
+						167,
+						0,
+						-3355,
+						1368,
+						0,
+						4019,
+						1180,
+						0,
+						3306,
+						-1708,
+						0,
+						2004,
+						-1704,
+						0,
+						-2233,
+						-1686,
+						0,
+						-2266,
+						-27,
+						0,
+						-1704,
+						-112,
+						0,
+						-1520,
+						-825,
+						0,
+						-1034,
+						-750,
+						0,
+						-1103,
+						-16,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"water" : 1,
+					"z" : 100
+				}
+			],
+			"x" : 2073,
+			"y" : 1646
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 5
+	},
+	"sunlight_color" : 16119240,
+	"surface_type" : 7,
+	"water_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 10
+	}
+}

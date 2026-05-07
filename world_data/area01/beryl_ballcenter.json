@@ -1,0 +1,209 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_gym",
+	"background_prev_text_color" : 2477823,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 8,
+		"texture_index" : 9
+	},
+	"eff_bloom_threshold" : 0.96,
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"grass_density" : 0.4,
+	"grass_height" : 70,
+	"grass_height_variance" : 30,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 3730645231
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 5,
+				"key" : "tutorial_progress",
+				"value" : 7
+			},
+			"conditional_partial" : true,
+			"has_conditional" : 1,
+			"model_filename" : "ballcenter_atrium",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"texture_index" : 7
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 7
+					}
+				]
+			},
+			"x" : 1979,
+			"y" : 1249
+		}
+	],
+	"name" : "beryl_ballcenter",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "90ee49d066925980f38bb3708d094438",
+			"object" : "objPlayer",
+			"x" : 1093,
+			"y" : 1516
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line1",
+			"obj_guid" : "f7d5c79e267565ca87c5ba268c88ca41",
+			"object" : "objNode",
+			"x" : 1969,
+			"y" : 1179,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line2",
+			"obj_guid" : "07cfd8ce4d5b7f1738f4e98915549e91",
+			"object" : "objNode",
+			"x" : 2044,
+			"y" : 1283,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line3",
+			"obj_guid" : "7bc27a39ed29f78d709a4786ef8283ca",
+			"object" : "objNode",
+			"x" : 1935,
+			"y" : 1382,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "line4",
+			"obj_guid" : "100f83768d777ee1e9ef357820af9271",
+			"object" : "objNode",
+			"x" : 2051,
+			"y" : 1483,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"key" : "riven_quest",
+				"value" : 2
+			},
+			"hometown" : 0,
+			"name" : "objBossElevator",
+			"obj_guid" : "e910c071fdc30accd19d1d67355a167c",
+			"object" : "objBossElevator",
+			"x" : 1137,
+			"y" : 1319
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "right",
+			"obj_guid" : "4058a21711a78f5a5e14b2279cf25424",
+			"object" : "objNode",
+			"x" : 2550,
+			"y" : 1893,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "exit",
+			"obj_guid" : "fff1ba5560f605996938c87f83579bc0",
+			"object" : "objNode",
+			"x" : 1968,
+			"y" : 2077,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"name" : "objBallman",
+			"obj_guid" : "d2b323f32fa0366bbcbf93d1d3d38e62",
+			"object" : "objBallman",
+			"x" : 2629.5,
+			"y" : 1598
+		},
+		{
+			"_" : "class_object",
+			"name" : "objRiven",
+			"obj_guid" : "48e1486915a84ff3009702d11f72b8f0",
+			"object" : "objRiven",
+			"x" : 1631.5,
+			"y" : 1491
+		},
+		{
+			"_" : "class_object",
+			"angle" : 337,
+			"faded" : false,
+			"name" : "objVending",
+			"obj_guid" : "26dbe92502b12c16cb1f1214cd0ab706",
+			"object" : "objVending",
+			"x" : 1479.5,
+			"y" : 1185
+		}
+	],
+	"palette_name" : "cliffs",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"rotate_tool_angle" : 334.5627441406,
+	"shadow_alpha" : 0.35,
+	"shadow_color" : 4391424,
+	"shape_groups_array" : [],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"sunlight_direction" : 95,
+	"sunlight_elevation" : 60,
+	"surface_type" : 5,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

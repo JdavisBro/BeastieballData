@@ -1,0 +1,821 @@
+{
+	"_" : "class_level",
+	"background_prev_text_color" : 9368756,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 7,
+		"texture_index" : 12
+	},
+	"cloudcover" : 0.33,
+	"display_name" : "Crown Stadium",
+	"eff_bloom_threshold" : 0.8,
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5,
+		"texture_index" : 4
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"grass_density" : 0.03,
+	"grass_height" : 75,
+	"grass_height_variance" : 30,
+	"ground_cover_density" : 0.04,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference"
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 1,
+							"texture_index" : 3
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_01"
+				},
+				"weight" : 0.1
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference"
+						},
+						{
+							"_" : "class_palette_reference",
+							"texture_index" : 4
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_02"
+				},
+				"weight" : 0.11
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 7,
+							"texture_index" : 5
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 11,
+							"texture_index" : 5
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 5,
+							"texture_index" : 7
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinybush"
+				},
+				"weight" : 3
+			}
+		],
+		"seed" : 758966979
+	},
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "stadium_field",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2870,
+			"y" : 1629
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "net",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2870,
+			"y" : 1629
+		}
+	],
+	"name" : "net_crown",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"has_net" : 1,
+			"name" : "objGameplay",
+			"obj_guid" : "1218fa83212fa1ff459fdcef92af16f2",
+			"object" : "objGameplay",
+			"x" : 2870,
+			"y" : 1629
+		},
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "219c40656156f099ae7f576dd879d61a",
+			"object" : "objPlayer",
+			"x" : 1961,
+			"y" : 1637
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 4597,
+			"y" : 263,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 4328,
+			"y" : 85,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 4052,
+			"y" : 19,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 3834,
+			"y" : -74,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 3599,
+			"y" : -112,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 4842,
+			"y" : 235,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 4491,
+			"y" : 16,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 4180,
+			"y" : -98,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 3730,
+			"y" : -207,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1099,
+			"y" : 288,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1414,
+			"y" : 129,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1707,
+			"y" : -29,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1958,
+			"y" : -59,
+			"z_up" : 200
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 2150,
+			"y" : -160,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1876,
+			"y" : -112,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1550,
+			"y" : -50,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 1183,
+			"y" : 131,
+			"z_up" : 280
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "none",
+			"obj_guid" : "e1882bf4f22eb246e6c1430988cdff39",
+			"object" : "objNode",
+			"x" : 894,
+			"y" : 287,
+			"z_up" : 280
+		}
+	],
+	"palette_name" : "city",
+	"palette_reference" : {
+		"_" : "class_palette_reference",
+		"base_index" : 4,
+		"texture_index" : 5
+	},
+	"shadow_color" : 9175040,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3390087221
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objStadiumnightshape"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-112,
+						207,
+						0,
+						2768,
+						760,
+						0,
+						2773,
+						-1333,
+						0,
+						-2778,
+						-1276,
+						0,
+						-2977,
+						695,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"shadow_caster" : 1,
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : 0,
+					"x" : 278,
+					"y" : 341,
+					"z" : 1000
+				}
+			],
+			"x" : 3105,
+			"y" : 551
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3535339670
+					},
+					"ground_cover_update_v1" : 1,
+					"has_shadows" : 0,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-588,
+						302,
+						0,
+						597,
+						302,
+						0,
+						597,
+						-292,
+						0,
+						-588,
+						-292,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"thickness" : 1,
+					"x" : 968,
+					"y" : 41,
+					"z" : 10
+				}
+			],
+			"x" : 1900,
+			"y" : 1586
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1842924557
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 2,
+						"texture_index" : 13
+					},
+					"points_array" : [
+						-1436,
+						100,
+						0,
+						813,
+						100,
+						0,
+						813,
+						651,
+						0,
+						2740,
+						651,
+						0,
+						2740,
+						100,
+						0,
+						4896,
+						100,
+						0,
+						4896,
+						-100,
+						0,
+						2740,
+						-100,
+						0,
+						2740,
+						-684,
+						0,
+						813,
+						-684,
+						0,
+						813,
+						-100,
+						0,
+						-1436,
+						-100,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 13
+					},
+					"solid" : 1,
+					"surface_type" : 5,
+					"x" : -3010,
+					"y" : -607
+				}
+			],
+			"x" : 4096,
+			"y" : 2232
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2637837476
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objStadiumnightshape"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-480,
+						1251,
+						0,
+						1705,
+						1789,
+						0,
+						1761,
+						-1589,
+						0,
+						-494,
+						-1528,
+						0,
+						-100,
+						-100,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"shadow_caster" : 1,
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : 0,
+					"x" : 26,
+					"y" : -602,
+					"z" : 1000
+				}
+			],
+			"x" : 4281,
+			"y" : 2404
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2454722848
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objStadiumnightshape"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-3966,
+						1054,
+						0,
+						3451,
+						1085,
+						0,
+						2726,
+						-770,
+						0,
+						-100,
+						-163,
+						0,
+						-3067,
+						-875,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"shadow_caster" : 1,
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : 0,
+					"x" : -196,
+					"y" : -117,
+					"z" : 1000
+				}
+			],
+			"x" : 3542,
+			"y" : 2741
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1198909711
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objStadiumnightshape"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-2359,
+						2180,
+						0,
+						878,
+						1952,
+						0,
+						100,
+						-100,
+						0,
+						646,
+						-1739,
+						0,
+						-2321,
+						-2419,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"shadow_caster" : 1,
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : 0,
+					"x" : -3342,
+					"y" : -1639,
+					"z" : 1000
+				}
+			],
+			"x" : 5485,
+			"y" : 3458
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 4,
+		"texture_index" : 5
+	},
+	"sunlight_direction" : 231.8427734375,
+	"sunlight_elevation" : 70,
+	"surface_type" : 2,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	},
+	"windiness" : 1.5
+}

@@ -1,0 +1,469 @@
+{
+	"_" : "class_level",
+	"background_prev_text_color" : 10664447,
+	"cloud_color" : {
+		"_" : "class_palette_reference"
+	},
+	"display_name" : "Neptune Stadium",
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference"
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 3382132599
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control_shadow_1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9,
+			"x" : 900,
+			"y" : 1894
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1163,
+			"y" : 1283
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 356,
+			"y" : 1246,
+			"y_scale" : 370,
+			"z_angle" : 90
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_junk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.2,
+			"x" : 1689,
+			"y" : 1049,
+			"z_angle" : 217.4505615234
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1421,
+			"y" : 1060,
+			"y_scale" : 220,
+			"z_angle" : 90
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 901,
+			"y" : 1060,
+			"y_scale" : 220,
+			"z_angle" : 90
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 642,
+			"x_scale" : 280,
+			"y" : 876
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_wall_control",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"channel_index" : 2,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1981,
+			"y" : 1251,
+			"y_scale" : 370,
+			"z_angle" : 90
+		},
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"model_filename" : "sunken_stadium_port_door",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 403,
+			"y" : 1160,
+			"z_angle" : 91.5911483765
+		},
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"model_filename" : "sunken_stadium_port_door",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1918,
+			"y" : 967,
+			"z_angle" : -90
+		},
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"model_filename" : "stadium_elevator",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1163,
+			"y" : 1279
+		}
+	],
+	"music" : "music_cave",
+	"name" : "sunken_stadium_control_1",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "4c86c0a43ee8c08e92761dc653f3bed5",
+			"object" : "objPlayer",
+			"x" : 985,
+			"y" : 1450
+		},
+		{
+			"_" : "class_object",
+			"name" : "objSunkenlock",
+			"obj_guid" : "a2004e46949cd22a074e806e3410cd90",
+			"object" : "objSunkenlock",
+			"x" : 1162,
+			"y" : 1396
+		}
+	],
+	"palette_name" : "island",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"shadow_color" : 6553600,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"collision_inner" : 1,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 895122684
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					"points_array" : [
+						-645,
+						302,
+						0,
+						245,
+						302,
+						0,
+						245,
+						387,
+						0,
+						663,
+						387,
+						0,
+						668,
+						302,
+						0,
+						903,
+						302,
+						0,
+						903,
+						-405,
+						0,
+						423,
+						-405,
+						0,
+						423,
+						-80,
+						0,
+						-183,
+						-83,
+						0,
+						-183,
+						-405,
+						0,
+						-645,
+						-405,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1
+				}
+			],
+			"x" : 1042,
+			"y" : 1317
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference"
+	},
+	"sunlight_direction" : 94.7036209106,
+	"sunlight_elevation" : 25,
+	"surface_type" : 6,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

@@ -1,0 +1,2288 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_amberstone_jasperMines",
+	"ambient_color" : 12608612,
+	"background_prev_text_color" : 7098658,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 8,
+		"texture_index" : 9
+	},
+	"display_name" : "Jasper Mines",
+	"eff_bloom_threshold" : 0.96,
+	"gizmos_array" : [
+		{
+			"_" : "class_cameralook",
+			"axis_x" : 0,
+			"axis_z" : 0,
+			"fade" : 300,
+			"height" : 600,
+			"radius" : 0,
+			"str" : 0.01,
+			"thick" : 100,
+			"width" : 600,
+			"x" : 1111,
+			"y" : 2271
+		}
+	],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 3
+			}
+		]
+	},
+	"grass_density" : 0.4,
+	"grass_height" : 70,
+	"grass_height_variance" : 30,
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 3,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 6,
+							"texture_index" : 4
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 3
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 4,
+							"texture_index" : 0
+						},
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 3,
+							"texture_index" : 6
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_01"
+				}
+			},
+			{
+				"_" : "class_model_spawn",
+				"colors" : {
+					"_" : "class_palette_array",
+					"array" : [
+						{
+							"_" : "class_palette_reference",
+							"base_index" : 3,
+							"texture_index" : 4
+						}
+					]
+				},
+				"model" : {
+					"_" : "class_model_reference",
+					"filename" : "tinyrock_02"
+				}
+			}
+		],
+		"seed" : 3195970439
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 5713,
+			"y" : 467,
+			"z_angle" : 5.9061408043
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 4561,
+			"y" : 582,
+			"z_angle" : 10.007979393
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 3980,
+			"y" : 1032,
+			"z_angle" : 254.9315185547
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"u_scale" : 0.85,
+			"x" : 3378,
+			"y" : 1609,
+			"z_angle" : 180
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 2862,
+			"y" : 1022,
+			"z_angle" : 93.1798248291
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 2384,
+			"y" : 560,
+			"z_angle" : 168.2317047119
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 2441,
+			"y" : 571,
+			"z_angle" : 211.6075134277
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 1449,
+			"y" : 847,
+			"z_angle" : 184.573928833
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cave_entrance",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 2519,
+			"y" : 761
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cave_entrance",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 1770,
+			"y" : 990,
+			"z_angle" : 5.86
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 901,
+			"y" : 987,
+			"z_angle" : 3.3664605618
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 443,
+			"y" : 2689,
+			"z_angle" : 87.5104446411
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 269,
+			"y" : 1047,
+			"z" : -300,
+			"z_angle" : 66.8014068604
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 6674,
+			"y" : 490,
+			"z_angle" : 352.2348327637
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 6889,
+			"y" : 1144,
+			"z_angle" : 323.9726257324
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 6923,
+			"y" : 1430,
+			"z_angle" : 288.5691223145
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cavewall1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"texture_index" : 0
+					}
+				]
+			},
+			"x" : 7828,
+			"y" : 506,
+			"z_angle" : 6.3401918411
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_support",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9,
+			"x" : 3604,
+			"y" : 1826,
+			"z_angle" : 348.3106384277
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_support",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2508,
+			"y" : 821,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_support",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1767,
+			"y" : 1067,
+			"z_angle" : 275.4403381348
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_truck",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 5840,
+			"y" : 670,
+			"z_angle" : 25.3461761475
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 6079,
+			"y" : 641
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 6379,
+			"y" : 625,
+			"z_angle" : 184.0856323242
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_support",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9,
+			"x" : 2625,
+			"y" : 1451,
+			"z_angle" : 278.4269714355
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "campsite_tent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1366,
+			"y" : 1486,
+			"z_angle" : 190.8403167725
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_rock_hammer",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9265797786,
+			"x" : 5342,
+			"y" : 609,
+			"z_angle" : 305.2688272577
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9572297383,
+			"x" : 5185,
+			"y" : 679,
+			"z_angle" : 194.3607998639
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9258422301,
+			"x" : 6187,
+			"y" : 823,
+			"z_angle" : 5.3117582202
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 7
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.6,
+			"x" : 5503,
+			"y" : 690,
+			"z_angle" : 201.5671223402
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3483,
+			"y" : 1807
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3190,
+			"y" : 1808,
+			"z_angle" : 180
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_corner",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2887,
+			"y" : 1791,
+			"z_angle" : 173.4180603027
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2703,
+			"y" : 1542,
+			"z_angle" : 114
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_01",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0796628144,
+			"x" : 2741,
+			"y" : 1063,
+			"z_angle" : 34.3091728538
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 7
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0365259752,
+			"x" : 2047,
+			"y" : 1732,
+			"z_angle" : 254.9315185547
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_hammer",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0209210478,
+			"x" : 5963,
+			"y" : 830,
+			"z_angle" : 154.976490587
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_hammer",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0073396557,
+			"x" : 6195,
+			"y" : 1608,
+			"z_angle" : 20.1129023731
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_board",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1295,
+			"y" : 1985
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_board",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1093,
+			"y" : 1988,
+			"z_angle" : 9.8658065796
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_hammer",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9839678705,
+			"x" : 4334,
+			"y" : 723,
+			"z_angle" : 53.751500845
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_hammer",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9262032666,
+			"x" : 2307,
+			"y" : 992,
+			"z_angle" : 4.1558803618
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_rock_hammer",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9544052094,
+			"x" : 1871,
+			"y" : 1803,
+			"z_angle" : 315.3541535139
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_corner",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2495,
+			"y" : 1297,
+			"z_angle" : 3.5763342381
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2180,
+			"y" : 1323,
+			"z_angle" : 193.3925018311
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1891,
+			"y" : 1420,
+			"z_angle" : 18.4349479675
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mine_track_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1623,
+			"y" : 1521,
+			"z_angle" : 22.932100296
+		}
+	],
+	"music" : "music_cave",
+	"name" : "jasper_cave_2",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "e2a06109262875adb5389bdabbb9e1f3",
+			"object" : "objPlayer",
+			"x" : 928,
+			"y" : 1301
+		},
+		{
+			"_" : "class_object",
+			"has_net" : 0,
+			"name" : "objGameplay",
+			"obj_guid" : "fd3ecd7f0963a5f2765a949e09b9070d",
+			"object" : "objGameplay",
+			"x" : 5098,
+			"y" : 1208
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 500,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "fb0799d34bb40206a878be85f9cf5731",
+			"object" : "objSpawner",
+			"roamers_max" : 4,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 950,
+			"x" : 5225,
+			"y" : 1214
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 40,
+			"height" : 120,
+			"miniboss" : 0,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "669cd67815ced09e79ac7560f8036f5a",
+			"object" : "objSpawner",
+			"roamers_max" : 1,
+			"spawn_index" : 0,
+			"spawns_gameplay" : 0,
+			"width" : 350,
+			"x" : 3237,
+			"y" : 1800
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "496e6292fefc9a6b81acf6c09d4ec7d7",
+			"object" : "objBallshrooms",
+			"x" : 5650,
+			"y" : 543
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "1db43eb582d1ee47edba9c5cb73e41cb",
+			"object" : "objBallshrooms",
+			"x" : 4875,
+			"y" : 588
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "e1a137f563ea7af0aa4a618e6b92d13d",
+			"object" : "objBallshrooms",
+			"x" : 6343,
+			"y" : 1310
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : 0,
+			"name" : "objBallshrooms",
+			"obj_guid" : "5ba82638f35295d5a61e3b08915cca5e",
+			"object" : "objBallshrooms",
+			"x" : 2748,
+			"y" : 1203
+		},
+		{
+			"_" : "class_object",
+			"angle" : 65.2248535156,
+			"dlc" : false,
+			"lever_id" : "mines_1",
+			"name" : "objRailwall",
+			"obj_guid" : "34f58a21927750908a877c0af99d9d34",
+			"object" : "objRailwall",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 7,
+				"texture_index" : 3
+			},
+			"x" : 4010,
+			"y" : 1492
+		},
+		{
+			"_" : "class_object",
+			"lever_id" : "mines_1",
+			"name" : "objRailswitch",
+			"obj_guid" : "cf546f0f070c3764ba74d6a186d01ef6",
+			"object" : "objRailswitch",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 7,
+				"texture_index" : 3
+			},
+			"x" : 6690,
+			"xflip" : 0,
+			"y" : 1615
+		},
+		{
+			"_" : "class_object",
+			"angle" : 65.2248535156,
+			"dlc" : false,
+			"lever_id" : "mines_2",
+			"name" : "objRailwall",
+			"obj_guid" : "0ce94bddfbe9c58fd0788c13ab6c017e",
+			"object" : "objRailwall",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 7,
+				"texture_index" : 3
+			},
+			"x" : 1148,
+			"y" : 1442
+		},
+		{
+			"_" : "class_object",
+			"facing" : -1,
+			"good" : 0,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "",
+			"obj_guid" : "0cf3ca96d882a9725192643938fd547e",
+			"object" : "objRoamerPOI",
+			"range" : 0.5,
+			"specie" : "none",
+			"x" : 6016,
+			"y" : 649
+		},
+		{
+			"_" : "class_object",
+			"facing" : 1,
+			"good" : 1,
+			"model_collide" : "0",
+			"name" : "objRoamerPOI",
+			"node_name" : "",
+			"obj_guid" : "0cf3ca96d882a9725192643938fd547e",
+			"object" : "objRoamerPOI",
+			"range" : 0.5,
+			"specie" : "none",
+			"x" : 6535,
+			"y" : 1716
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "b1dd00893a314230ef2fdc623d99d29a",
+			"object" : "objCycle",
+			"x" : 1744,
+			"y" : 1499
+		},
+		{
+			"_" : "class_object",
+			"model_keep" : 0,
+			"name" : "objCamp",
+			"obj_guid" : "03e9a108db6f17ea9ca97122d3868cff",
+			"object" : "objCamp",
+			"palette_1" : {
+				"_" : "class_palette_reference"
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference"
+			},
+			"palette_3" : {
+				"_" : "class_palette_reference"
+			},
+			"x" : 1405,
+			"y" : 1587
+		},
+		{
+			"_" : "class_object",
+			"name" : "objResearcher",
+			"obj_guid" : "8c033e66600622a3a74ea9ac0ced29bd",
+			"object" : "objResearcher",
+			"x" : 4953,
+			"y" : 1769
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "reese",
+			"obj_guid" : "2ee0f0407e4249d0323667200d289f2e",
+			"object" : "objNode",
+			"x" : 5838,
+			"y" : 820,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"lever_id" : "mines_1",
+			"name" : "objRailswitch",
+			"obj_guid" : "cf546f0f070c3764ba74d6a186d01ef6",
+			"object" : "objRailswitch",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 7,
+				"texture_index" : 3
+			},
+			"x" : 3162,
+			"xflip" : 0,
+			"y" : 1977
+		}
+	],
+	"palette_name" : "cliffs",
+	"palette_reference" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 4
+	},
+	"shadow_alpha" : 0.15,
+	"shadow_color" : 5963806,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3595730584
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-100,
+						100,
+						0,
+						443,
+						100,
+						0,
+						305,
+						-17,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"thickness" : 750,
+					"visible" : 0,
+					"x" : -986,
+					"y" : 1026,
+					"z" : 1000
+				}
+			],
+			"x" : 3382,
+			"y" : -433
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2503540976
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-1220,
+						233,
+						0,
+						-1120,
+						233,
+						0,
+						-1058,
+						158,
+						0,
+						-1058,
+						-170,
+						0,
+						-677,
+						-170,
+						0,
+						-677,
+						158,
+						0,
+						-619,
+						227,
+						0,
+						-475,
+						227,
+						0,
+						-475,
+						-321,
+						0,
+						-1220,
+						-321,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"visible" : 0,
+					"x" : -133,
+					"y" : 772,
+					"z" : 1000
+				}
+			],
+			"x" : 3531,
+			"y" : -242
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 20,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [],
+						"seed" : 1572949862
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"points_array" : [
+						161,
+						-12,
+						0,
+						250,
+						-169,
+						0,
+						260,
+						-1046,
+						0,
+						-133,
+						-1027,
+						0,
+						-118,
+						-589,
+						0,
+						-151,
+						-420,
+						0,
+						-292,
+						-330,
+						0,
+						-1613,
+						-288,
+						0,
+						-1847,
+						41,
+						0,
+						-1314,
+						75,
+						0,
+						-1219,
+						227,
+						0,
+						-1219,
+						508,
+						0,
+						-921,
+						496,
+						0,
+						-905,
+						217,
+						0,
+						-863,
+						122,
+						0,
+						-720,
+						58,
+						0,
+						-471,
+						31,
+						0,
+						-84,
+						100,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : -336,
+					"y" : -901,
+					"z" : 300
+				}
+			],
+			"x" : 2266,
+			"y" : 2122
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [],
+						"seed" : 1519144917
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-293,
+						-139,
+						0,
+						-193,
+						75,
+						0,
+						-174,
+						343,
+						0,
+						-243,
+						674,
+						0,
+						-206,
+						730,
+						0,
+						75,
+						679,
+						0,
+						344,
+						657,
+						0,
+						461,
+						661,
+						0,
+						459,
+						331,
+						0,
+						346,
+						49,
+						0,
+						116,
+						-107,
+						0,
+						54,
+						-295,
+						0,
+						-287,
+						-272,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"z" : 150
+				}
+			],
+			"x" : 6622,
+			"y" : 1134
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4286770756
+					},
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-162,
+						-153,
+						0,
+						117,
+						-211,
+						0,
+						389,
+						-225,
+						0,
+						505,
+						-222,
+						0,
+						113,
+						-223,
+						0,
+						-167,
+						-173,
+						0,
+						-300,
+						-214,
+						0,
+						-413,
+						-148,
+						0,
+						-300,
+						-202,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"visible" : 0,
+					"z" : 500
+				}
+			],
+			"x" : 6578,
+			"y" : 2022
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"collision_inner" : 1,
+					"collision_inner_height" : 1000,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [],
+						"seed" : 1534741635
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 6
+					},
+					"points_array" : [
+						-266,
+						1291,
+						0,
+						562,
+						1392,
+						0,
+						615,
+						1378,
+						0,
+						538,
+						553,
+						0,
+						597,
+						331,
+						0,
+						912,
+						188,
+						0,
+						1155,
+						246,
+						0,
+						1418,
+						231,
+						0,
+						1730,
+						224,
+						0,
+						2012,
+						136,
+						0,
+						2609,
+						126,
+						0,
+						2501,
+						-484,
+						0,
+						2137,
+						-767,
+						0,
+						3579,
+						-879,
+						0,
+						3601,
+						-1226,
+						0,
+						2207,
+						-1228,
+						0,
+						1464,
+						-1248,
+						0,
+						1145,
+						-1215,
+						0,
+						473,
+						-1164,
+						0,
+						142,
+						-1222,
+						0,
+						-296,
+						-1142,
+						0,
+						-446,
+						-966,
+						0,
+						-553,
+						-360,
+						0,
+						-680,
+						-214,
+						0,
+						-1002,
+						-164,
+						0,
+						-1430,
+						-199,
+						0,
+						-1537,
+						-324,
+						0,
+						-1537,
+						-908,
+						0,
+						-1708,
+						-1084,
+						0,
+						-1719,
+						-1344,
+						0,
+						-1723,
+						-1797,
+						0,
+						-2269,
+						-1760,
+						0,
+						-2242,
+						-1571,
+						0,
+						-2094,
+						-1395,
+						0,
+						-2077,
+						-1078,
+						0,
+						-2312,
+						-945,
+						0,
+						-3764,
+						-860,
+						0,
+						-4130,
+						-642,
+						0,
+						-4307,
+						-419,
+						0,
+						-4299,
+						-229,
+						0,
+						-4622,
+						-223,
+						0,
+						-4668,
+						315,
+						0,
+						-3974,
+						408,
+						0,
+						-3990,
+						846,
+						0,
+						-3068,
+						749,
+						0,
+						-3071,
+						380,
+						0,
+						-2913,
+						274,
+						0,
+						-2526,
+						244,
+						0,
+						-2230,
+						75,
+						0,
+						-2179,
+						-172,
+						0,
+						-1930,
+						-114,
+						0,
+						-1742,
+						178,
+						0,
+						-1650,
+						338,
+						0,
+						-1186,
+						408,
+						0,
+						-902,
+						449,
+						0,
+						-676,
+						288,
+						0,
+						-446,
+						268,
+						0,
+						-266,
+						389,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : -40,
+					"y" : 345
+				}
+			],
+			"x" : 4455,
+			"y" : 1303
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 20,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [],
+						"seed" : 1478315426
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-200,
+						1468,
+						0,
+						338,
+						1395,
+						0,
+						245,
+						556,
+						0,
+						280,
+						362,
+						0,
+						405,
+						324,
+						0,
+						404,
+						192,
+						0,
+						161,
+						164,
+						0,
+						-109,
+						264,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"x" : 232,
+					"y" : 287,
+					"z" : 300
+				}
+			],
+			"x" : 336,
+			"y" : 1498
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"sunlight_color" : 16770790,
+	"sunlight_elevation" : 60,
+	"surface_type" : 7,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}

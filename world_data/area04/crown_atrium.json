@@ -1,0 +1,425 @@
+{
+	"_" : "class_level",
+	"ambience" : "amb_gym",
+	"background_prev_text_color" : 15828629,
+	"cloud_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 8,
+		"texture_index" : 9
+	},
+	"display_name" : "Crown Stadium",
+	"eff_bloom_threshold" : 0.96,
+	"gizmos_array" : [],
+	"grass_color" : {
+		"_" : "class_palette_reference",
+		"base_index" : 5
+	},
+	"grass_colors" : {
+		"_" : "class_palette_array",
+		"array" : [
+			{
+				"__Elephant_Circular_Ref__" : 2
+			}
+		]
+	},
+	"ground_cover_models" : {
+		"_" : "class_model_spawn_array",
+		"array" : [],
+		"seed" : 3730645231
+	},
+	"is_indoor" : 1,
+	"models_array" : [
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"model_filename" : "crown_atrium",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 9,
+						"channel_index" : 2,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 2
+					}
+				]
+			},
+			"x" : 2988,
+			"y" : 2880
+		}
+	],
+	"name" : "crown_atrium",
+	"objects_array" : [
+		{
+			"_" : "class_object",
+			"name" : "objPlayer",
+			"obj_guid" : "1372eab943afde8c30a60e6c70dd5f65",
+			"object" : "objPlayer",
+			"x" : 3040,
+			"y" : 3697
+		},
+		{
+			"_" : "class_object",
+			"name" : "objRiley",
+			"obj_guid" : "4698c44b6d26b45d0de52ffb76c09f1d",
+			"object" : "objRiley",
+			"x" : 3265,
+			"y" : 3512
+		},
+		{
+			"_" : "class_object",
+			"name" : "objLeagueman",
+			"obj_guid" : "501cdb97aafdb5eead062fc7b9b44bb1",
+			"object" : "objLeagueman",
+			"x" : 751,
+			"y" : 2615
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"hometown" : "0",
+			"name" : "objBossElevator",
+			"obj_guid" : "b1f8a0c8e141ed35d81e4e81d3da8443",
+			"object" : "objBossElevator",
+			"x" : 541,
+			"y" : 2291
+		},
+		{
+			"_" : "class_object",
+			"name" : "objBallman",
+			"obj_guid" : "6716a3c8cb03bae2b0d5c7bfe587a08e",
+			"object" : "objBallman",
+			"x" : 2989,
+			"y" : 3052
+		},
+		{
+			"_" : "class_object",
+			"name" : "objRaymond",
+			"obj_guid" : "c1af11de402ba0127253d02deb1db3e9",
+			"object" : "objRaymond",
+			"x" : 1695,
+			"y" : 2997
+		},
+		{
+			"_" : "class_object",
+			"name" : "objVilma",
+			"obj_guid" : "0834849d0fff1433affee0aa0e558b16",
+			"object" : "objVilma",
+			"x" : 4545,
+			"y" : 2732
+		},
+		{
+			"_" : "class_object",
+			"name" : "objKarma",
+			"obj_guid" : "792af17c0f0070c7c820f00c246a0549",
+			"object" : "objKarma",
+			"x" : 4745,
+			"y" : 2732
+		},
+		{
+			"_" : "class_object",
+			"name" : "objResearcher",
+			"obj_guid" : "a81e3bcfdefa38483247472f6f5eea5c",
+			"object" : "objResearcher",
+			"x" : 2368,
+			"y" : 3418
+		},
+		{
+			"_" : "class_object",
+			"name" : "objYamileidys",
+			"obj_guid" : "fb40f92fa4c12389e1419aebd47533aa",
+			"object" : "objYamileidys",
+			"x" : 1299,
+			"y" : 2195
+		},
+		{
+			"_" : "class_object",
+			"name" : "objKaan",
+			"obj_guid" : "5cd55cfcc26792d58883b11a1909b785",
+			"object" : "objKaan",
+			"x" : 4277,
+			"y" : 3307
+		},
+		{
+			"_" : "class_object",
+			"angle" : 318,
+			"name" : "objAd",
+			"obj_guid" : "53558298fc1ec964abce805c294bd1f3",
+			"object" : "objAd",
+			"scale" : 0.75,
+			"x" : 1857,
+			"y" : 2783,
+			"z_up" : 400
+		},
+		{
+			"_" : "class_object",
+			"angle" : 42,
+			"name" : "objAd",
+			"obj_guid" : "297d64cc0a9bb8169cf743b2e5e48ba4",
+			"object" : "objAd",
+			"scale" : 0.75,
+			"x" : 4112,
+			"y" : 2783,
+			"z_up" : 400
+		},
+		{
+			"_" : "class_object",
+			"angle" : 0,
+			"name" : "objAd",
+			"obj_guid" : "4d1bf83af74803a9a001a19ca2ede7c4",
+			"object" : "objAd",
+			"scale" : 0.4,
+			"x" : 1169,
+			"y" : 1571,
+			"z_up" : 400
+		},
+		{
+			"_" : "class_object",
+			"angle" : 0,
+			"name" : "objAd",
+			"obj_guid" : "108c1be6721a052157973a1652a54085",
+			"object" : "objAd",
+			"scale" : 0.4,
+			"x" : 4789,
+			"y" : 1571,
+			"z_up" : 400
+		},
+		{
+			"_" : "class_object",
+			"angle" : 0,
+			"name" : "objAd",
+			"obj_guid" : "64eff95689f610536ad110d8c315d5f2",
+			"object" : "objAd",
+			"scale" : 0.45,
+			"x" : 540,
+			"y" : 2200,
+			"z_up" : 500
+		},
+		{
+			"_" : "class_object",
+			"name" : "objStadiumMusic",
+			"obj_guid" : "aaf8d5274c22808ec2d6f0e357a80b71",
+			"object" : "objStadiumMusic",
+			"x" : 5821,
+			"y" : 1970
+		},
+		{
+			"_" : "class_object",
+			"name" : "objDad",
+			"obj_guid" : "9035275547871f6e0f0d961ce2a32aa0",
+			"object" : "objDad",
+			"x" : 1960,
+			"y" : 3112
+		}
+	],
+	"palette_name" : "city",
+	"palette_reference" : {
+		"_" : "class_palette_reference"
+	},
+	"shadow_alpha" : 0.35,
+	"shadow_color" : 4391424,
+	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"conditional" : {
+						"_" : "class_datacheck",
+						"comparison" : 4,
+						"key" : "crown_series",
+						"value" : 5
+					},
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 588634236
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"has_conditional" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						100,
+						381,
+						0,
+						100,
+						190,
+						0,
+						30,
+						113,
+						0,
+						105,
+						-7,
+						0,
+						100,
+						-462,
+						0,
+						-442,
+						-462,
+						0,
+						-442,
+						381,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"visible" : 0,
+					"wall_collider" : 1,
+					"x" : -386,
+					"y" : -118,
+					"z" : 1000
+				}
+			],
+			"x" : 1031,
+			"y" : 2594
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1740777620
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-365,
+						1297,
+						false,
+						4861,
+						1297,
+						0,
+						4861,
+						-646,
+						0,
+						4780,
+						-299,
+						0,
+						4427,
+						191,
+						0,
+						3965,
+						542,
+						0,
+						3589,
+						695,
+						0,
+						3196,
+						793,
+						0,
+						3196,
+						1158,
+						0,
+						1982,
+						1158,
+						0,
+						1982,
+						793,
+						0,
+						1583,
+						677,
+						0,
+						1086,
+						425,
+						0,
+						707,
+						49,
+						false,
+						400,
+						-312,
+						false,
+						-365,
+						-312,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : true,
+					"visible" : false,
+					"wall_collider" : true,
+					"z" : 500
+				}
+			],
+			"x" : 395,
+			"y" : 3045
+		}
+	],
+	"sky_gradient" : {
+		"_" : "class_palette_reference",
+		"base_index" : 6,
+		"texture_index" : 7
+	},
+	"surface_type" : 6,
+	"water_color" : {
+		"_" : "class_palette_reference"
+	}
+}
