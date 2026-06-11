@@ -362,6 +362,7 @@
 				{
 					"_" : "class_shape",
 					"collision_inner" : 1,
+					"collision_inner_height" : 1000,
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",

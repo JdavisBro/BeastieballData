@@ -1191,7 +1191,7 @@
 			"z_angle" : 78.0151623208
 		}
 	],
-	"music" : "none",
+	"music" : "music_mythwood",
 	"name" : "net_woods",
 	"objects_array" : [
 		{

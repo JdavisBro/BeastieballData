@@ -2,6 +2,7 @@
 	"_" : "class_level",
 	"ambience" : "amb_chromaSea_coquelicotBeach",
 	"background_prev_text_color" : 13335818,
+	"camera_y2_offset" : 500,
 	"cloud_color" : {
 		"_" : "class_palette_reference",
 		"base_index" : 8,
@@ -21,6 +22,11 @@
 			"x" : 1481,
 			"y" : 1604,
 			"z" : 450
+		},
+		{
+			"_" : "class_underwatergeo",
+			"x" : 524,
+			"y" : 4253
 		}
 	],
 	"grass_color" : {
@@ -30,7 +36,7 @@
 		"_" : "class_palette_array",
 		"array" : [
 			{
-				"__Elephant_Circular_Ref__" : 3
+				"__Elephant_Circular_Ref__" : 4
 			}
 		]
 	},
@@ -379,33 +385,6 @@
 			"x" : 3395,
 			"y" : 3603,
 			"z_angle" : 91.3338026125
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "rock_02",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 5
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 1.0348978661,
-			"x" : 3694,
-			"y" : 3658,
-			"z_angle" : 208.4615981206
 		},
 		{
 			"_" : "class_model",
@@ -1351,6 +1330,99 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"fan" : 200,
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1275949414
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-178,
+						578,
+						0,
+						2090,
+						579,
+						0,
+						2548,
+						-564,
+						0,
+						-313,
+						-699,
+						0,
+						-655,
+						-1774,
+						0,
+						-1042,
+						-1668,
+						0,
+						-1141,
+						-1478,
+						0,
+						-1112,
+						-1056,
+						0,
+						-1204,
+						-776,
+						0,
+						-1730,
+						-450,
+						0,
+						-1641,
+						384,
+						0,
+						-1357,
+						406,
+						0,
+						-1161,
+						551,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp",
+						"edges_array" : [],
+						"ramp_axis" : 270,
+						"ramp_dist_max" : 900,
+						"ramp_type" : 2,
+						"z_change" : -75
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"solid" : 1,
+					"surface_type" : 3,
+					"x" : 1007,
+					"y" : 868,
+					"z" : 150
+				}
+			],
+			"x" : 1952,
+			"y" : 3001
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
 					"fan" : 120,
 					"flat" : 1,
 					"grass_model_array" : {
@@ -1420,10 +1492,13 @@
 		},
 		{
 			"_" : "class_shape_group",
+			"effect" : 1,
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
-					"flat" : 1,
+					"effect" : 1,
+					"fan" : 200,
+					"flat" : true,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
 						"array" : [
@@ -1438,79 +1513,60 @@
 								}
 							}
 						],
-						"seed" : 1275949414
+						"seed" : 3975249590
 					},
-					"ground_cover" : 1,
-					"ground_cover_update_v1" : 1,
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
 					"object" : {
 						"_" : "class_object_reference"
 					},
 					"palette_reference" : {
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"texture_index" : 6
 					},
 					"points_array" : [
-						-190,
-						923,
-						-75,
-						2104,
-						796,
-						-62,
-						2548,
-						-564,
+						722,
+						-1064,
+						false,
+						1389,
+						-1045,
+						false,
+						1711,
+						-1896,
+						false,
+						-1089,
+						-1703,
+						false,
+						-1136,
+						-1366,
 						0,
-						-313,
-						-699,
+						-951,
+						-1218,
 						0,
-						-655,
-						-1774,
+						-688,
+						-1208,
 						0,
-						-1042,
-						-1668,
+						-294,
+						-1277,
 						0,
-						-1141,
-						-1478,
-						0,
-						-1112,
-						-1056,
-						0,
-						-1204,
-						-776,
-						0,
-						-1730,
-						-450,
-						0,
-						-1641,
-						384,
-						0,
-						-1343,
-						544,
-						-30.5,
-						-1173,
-						896,
-						-74.5
+						121,
+						-1218,
+						0
 					],
 					"ramp" : {
-						"_" : "class_ramp",
-						"enabled" : 1,
-						"ramp_axis" : 270,
-						"ramp_dist_max" : 900,
-						"ramp_type" : 2,
-						"z_change" : -75
+						"_" : "class_ramp"
 					},
 					"side_palette_reference" : {
 						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 3
+						"base_index" : 4,
+						"texture_index" : 0
 					},
-					"solid" : 1,
-					"surface_type" : 3,
-					"x" : 1007,
-					"y" : 868,
-					"z" : 150
+					"solid" : true,
+					"z" : 110
 				}
 			],
-			"x" : 1952,
-			"y" : 3001
+			"x" : 2504,
+			"y" : 5842
 		},
 		{
 			"_" : "class_shape_group",
@@ -1575,7 +1631,7 @@
 					},
 					"surface_type" : 8,
 					"water" : 1,
-					"z" : 100
+					"z" : 120
 				}
 			],
 			"x" : 1314,

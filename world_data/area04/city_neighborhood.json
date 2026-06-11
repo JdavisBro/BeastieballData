@@ -4012,6 +4012,14 @@
 			"object" : "objWarrior",
 			"x" : 2338,
 			"y" : 1069
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "38bebd3b22fa4404b54d16430de19193",
+			"object" : "objZipline",
+			"x" : 4054,
+			"y" : 1097
 		}
 	],
 	"palette_name" : "city",

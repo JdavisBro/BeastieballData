@@ -1734,6 +1734,14 @@
 			"object" : "objFlycars",
 			"x" : 3950,
 			"y" : 4516
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "f067f00bbe7f00117e25e2e0de55e237",
+			"object" : "objZipline",
+			"x" : 1780,
+			"y" : 3754
 		}
 	],
 	"palette_name" : "city",

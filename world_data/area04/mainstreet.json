@@ -502,9 +502,10 @@
 				]
 			},
 			"x" : 1489,
+			"x_scale" : -300,
 			"y" : 2184,
 			"z" : -600,
-			"z_angle" : 180
+			"z_angle" : 270
 		},
 		{
 			"_" : "class_model",
@@ -639,7 +640,7 @@
 			},
 			"x" : 1489,
 			"y" : 6984,
-			"z_angle" : 270
+			"y_scale" : -300
 		},
 		{
 			"_" : "class_model",
@@ -724,7 +725,7 @@
 					}
 				]
 			},
-			"x" : -989,
+			"x" : -911,
 			"y" : 2184
 		},
 		{
@@ -752,7 +753,7 @@
 					}
 				]
 			},
-			"x" : -3211,
+			"x" : -3311,
 			"y" : 2184,
 			"z" : -400
 		},
@@ -2549,8 +2550,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "540f4411eaf5be6034b929b2bf519184",
 			"object" : "objPlayer",
-			"x" : 2886,
-			"y" : 2099
+			"x" : 2218,
+			"y" : 4855
 		},
 		{
 			"_" : "class_object",
@@ -2699,8 +2700,8 @@
 			"spawn_index" : 0,
 			"spawns_gameplay" : 0,
 			"width" : 592,
-			"x" : 1822,
-			"y" : 4477
+			"x" : 2261,
+			"y" : 6418
 		},
 		{
 			"_" : "class_object",
@@ -3585,6 +3586,22 @@
 			"trash_y" : 200,
 			"x" : 3199,
 			"y" : 4910
+		},
+		{
+			"_" : "class_object",
+			"name" : "objPhonequest",
+			"obj_guid" : "92ccccd60c1ff906b4a261368fca2fa8",
+			"object" : "objPhonequest",
+			"x" : 1689,
+			"y" : 4811
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "4a2133d9445e77f105d55d4c065c8007",
+			"object" : "objZipline",
+			"x" : 2193,
+			"y" : 8475
 		}
 	],
 	"palette_name" : "city",

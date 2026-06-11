@@ -2,6 +2,7 @@
 	"_" : "class_level",
 	"ambience" : "amb_domainPark",
 	"background_prev_text_color" : 9368756,
+	"camera_y2_offset" : 200,
 	"cloud_color" : {
 		"_" : "class_palette_reference",
 		"base_index" : 8,
@@ -3939,6 +3940,31 @@
 			"object" : "objFlycars",
 			"x" : 2319,
 			"y" : 2801
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck"
+			},
+			"encounter" : "city_suburb1_0",
+			"encounter_radius" : 550,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 75,
+			"height" : 296,
+			"miniboss" : true,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "97b4ccef923b6017590b85e6e39941c1",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : false,
+			"width" : 592,
+			"x" : 2358,
+			"y" : 3655
 		}
 	],
 	"palette_name" : "city",
@@ -4616,5 +4642,6 @@
 	"water_color" : {
 		"_" : "class_palette_reference"
 	},
-	"windiness" : 1.5
+	"windiness" : 1.5,
+	"world_y2_offset" : 300
 }

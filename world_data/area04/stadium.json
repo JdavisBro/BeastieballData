@@ -913,9 +913,10 @@
 					}
 				]
 			},
-			"x" : 2659.5,
+			"x" : 2700,
 			"x_scale" : 250,
-			"y" : 3200
+			"y" : 3200,
+			"z_angle" : 180
 		},
 		{
 			"_" : "class_model",
@@ -944,7 +945,7 @@
 			},
 			"x" : 658,
 			"y" : 5600,
-			"z_angle" : 90
+			"z_angle" : 270
 		},
 		{
 			"_" : "class_model",
@@ -2479,6 +2480,14 @@
 			"object" : "objFlycars",
 			"x" : 2349.5,
 			"y" : 6623
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "94139bdf416df800b398e2d7ea1eea70",
+			"object" : "objZipline",
+			"x" : 3623.5,
+			"y" : 5553
 		}
 	],
 	"palette_name" : "city",

@@ -12060,61 +12060,6 @@
 								}
 							}
 						],
-						"seed" : 2957601992
-					},
-					"ground_cover_update_v1" : true,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference"
-					},
-					"points_array" : [
-						-100,
-						100,
-						false,
-						100,
-						100,
-						false,
-						100,
-						-100,
-						false,
-						-100,
-						-100,
-						false
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 3
-					}
-				}
-			],
-			"x" : 62300,
-			"y" : -29805
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
 						"seed" : 3395234046
 					},
 					"ground_cover_update_v1" : true,
@@ -12148,6 +12093,61 @@
 					},
 					"x" : 400,
 					"y" : 14
+				}
+			],
+			"x" : 62300,
+			"y" : -29805
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2957601992
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-100,
+						100,
+						false,
+						100,
+						100,
+						false,
+						100,
+						-100,
+						false,
+						-100,
+						-100,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					}
 				}
 			],
 			"x" : 62300,
@@ -12284,61 +12284,6 @@
 								}
 							}
 						],
-						"seed" : 1298969558
-					},
-					"ground_cover_update_v1" : true,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference"
-					},
-					"points_array" : [
-						-100,
-						100,
-						false,
-						100,
-						100,
-						false,
-						100,
-						-100,
-						false,
-						-100,
-						-100,
-						false
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 3
-					}
-				}
-			],
-			"x" : 67415,
-			"y" : -27418
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
 						"seed" : 2179022821
 					},
 					"ground_cover_update_v1" : true,
@@ -12375,6 +12320,61 @@
 				}
 			],
 			"x" : 67510,
+			"y" : -27418
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1298969558
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-100,
+						100,
+						false,
+						100,
+						100,
+						false,
+						100,
+						-100,
+						false,
+						-100,
+						-100,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					}
+				}
+			],
+			"x" : 67415,
 			"y" : -27418
 		},
 		{

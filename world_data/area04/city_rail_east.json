@@ -3943,6 +3943,69 @@
 								}
 							}
 						],
+						"seed" : 1267414636
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"channel_index" : 2
+					},
+					"points_array" : [
+						-226,
+						273,
+						0,
+						322,
+						273,
+						0,
+						322,
+						-563,
+						0,
+						-226,
+						-563,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 1,
+						"channel_index" : 2,
+						"texture_index" : 0
+					},
+					"solid" : 1,
+					"x" : -1732,
+					"y" : -1259,
+					"z" : 450
+				}
+			],
+			"x" : 4204,
+			"y" : 3015
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
 						"seed" : 1711965155
 					},
 					"ground_cover" : 1,
@@ -3991,69 +4054,6 @@
 			],
 			"x" : 3193,
 			"y" : 1201
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
-					"flat" : 1,
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
-						"seed" : 1267414636
-					},
-					"ground_cover" : 1,
-					"ground_cover_update_v1" : 1,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference",
-						"channel_index" : 2
-					},
-					"points_array" : [
-						-226,
-						273,
-						0,
-						322,
-						273,
-						0,
-						322,
-						-563,
-						0,
-						-226,
-						-563,
-						0
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 1,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					"solid" : 1,
-					"x" : -1732,
-					"y" : -1259,
-					"z" : 450
-				}
-			],
-			"x" : 4204,
-			"y" : 3015
 		},
 		{
 			"_" : "class_shape_group",

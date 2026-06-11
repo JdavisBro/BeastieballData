@@ -1104,60 +1104,6 @@
 					}
 				]
 			},
-			"x" : 3265,
-			"y" : 1872,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 3082,
-			"y" : 1872,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
 			"x" : 3241,
 			"y" : 1649,
 			"z_angle" : 90
@@ -1428,298 +1374,6 @@
 					}
 				]
 			},
-			"x" : 2167,
-			"y" : 3044,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 1984,
-			"y" : 3044,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2533,
-			"y" : 3044,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2350,
-			"y" : 3044,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2899,
-			"y" : 3045,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2716,
-			"y" : 3045,
-			"z_angle" : 90
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2962,
-			"y" : 1944
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2962,
-			"y" : 2160
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2962,
-			"y" : 2384
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2962,
-			"y" : 2600
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2962,
-			"y" : 2818
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
 			"x" : 2949,
 			"y" : 1340
 		},
@@ -1930,9 +1584,240 @@
 			},
 			"x" : 1485,
 			"y" : -1
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tall_tri",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3593,
+			"y" : 975,
+			"z_angle" : 281.7682800293
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0298661966,
+			"x" : 4305,
+			"y" : 869,
+			"z_angle" : 128.7005967647
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0185165256,
+			"x" : 4124,
+			"y" : 1344,
+			"z_angle" : 99.8237460852
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.922331183,
+			"x" : 4611,
+			"y" : 1896,
+			"z_angle" : 147.102015093
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0772953048,
+			"x" : 5279,
+			"y" : 1598,
+			"z_angle" : 26.9882478844
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9748981532,
+			"x" : 5427,
+			"y" : 2040,
+			"z_angle" : 239.2028673738
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0019543104,
+			"x" : 3920,
+			"y" : 2286,
+			"z_angle" : 44.2969541252
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0705764644,
+			"x" : 3309,
+			"y" : 3815,
+			"z_angle" : 99.0040080249
 		}
 	],
-	"music" : "music_city",
+	"music" : "music_area_burb",
 	"name" : "city_railalley",
 	"objects_array" : [
 		{
@@ -2006,9 +1891,9 @@
 				"channel_index" : 2,
 				"texture_index" : 3
 			},
-			"x" : 5877,
+			"x" : 1789,
 			"xflip" : 0,
-			"y" : 2193
+			"y" : 2400
 		},
 		{
 			"_" : "class_object",
@@ -2016,15 +1901,15 @@
 				"_" : "class_datacheck"
 			},
 			"encounter" : "",
-			"encounter_radius" : 600,
+			"encounter_radius" : 500,
 			"encounter_required" : "",
 			"field_x" : 0,
 			"field_y" : 0,
-			"guard_z_dist" : 40,
+			"guard_z_dist" : 150,
 			"height" : 296,
 			"miniboss" : 1,
-			"miniboss_index" : 0,
-			"miniboss_type" : 1,
+			"miniboss_index" : 1,
+			"miniboss_type" : 0,
 			"name" : "objSpawner",
 			"obj_guid" : "4a2276c5758aabd076c62d96d9e35c4b",
 			"object" : "objSpawner",
@@ -2032,8 +1917,8 @@
 			"spawn_index" : 0,
 			"spawns_gameplay" : 0,
 			"width" : 592,
-			"x" : 2335,
-			"y" : 2344
+			"x" : 1830,
+			"y" : 2445
 		},
 		{
 			"_" : "class_object",
@@ -2066,6 +1951,22 @@
 			"object" : "objBallshrooms",
 			"x" : 2855,
 			"y" : 1091
+		},
+		{
+			"_" : "class_object",
+			"angle" : 0,
+			"dlc" : false,
+			"lever_id" : "suburb_south",
+			"name" : "objRailwall",
+			"obj_guid" : "7d831d96e0c76b7ebf182d50e35f7372",
+			"object" : "objRailwall",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 10,
+				"texture_index" : 6
+			},
+			"x" : 1556,
+			"y" : 1067
 		}
 	],
 	"palette_name" : "city",
@@ -2147,7 +2048,8 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
-					"flat" : 1,
+					"fan" : 200,
+					"flat" : true,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
 						"array" : [
@@ -2162,52 +2064,217 @@
 								}
 							}
 						],
-						"seed" : 1667447812
+						"seed" : 446559520
 					},
-					"ground_cover_update_v1" : 1,
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
 					"object" : {
 						"_" : "class_object_reference"
 					},
 					"palette_reference" : {
 						"_" : "class_palette_reference",
-						"base_index" : 1,
-						"channel_index" : 2,
-						"texture_index" : 0
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 13
 					},
 					"points_array" : [
-						-274,
-						556,
+						-129,
+						117,
+						false,
+						-11,
+						156,
+						0,
+						111,
+						100,
+						false,
+						157,
+						-20,
 						0,
 						100,
-						556,
+						-121,
+						false,
+						-28,
+						-142,
 						0,
-						100,
+						-185,
 						-100,
-						0,
-						-274,
-						-100,
+						false,
+						-230,
+						22,
 						0
 					],
 					"ramp" : {
 						"_" : "class_ramp"
 					},
 					"side_palette_reference" : {
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 5
 					},
-					"solid" : 1,
-					"x" : 553,
-					"y" : 285,
-					"z" : 150
+					"visible" : false,
+					"x" : -600,
+					"y" : 235,
+					"z" : 100
 				}
 			],
-			"x" : 2362,
-			"y" : 2449
+			"x" : 2420,
+			"y" : 2183
 		},
 		{
 			"_" : "class_shape_group",
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"fan" : 150,
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3549789841
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 9
+					},
+					"points_array" : [
+						-89,
+						723,
+						false,
+						397,
+						709,
+						false,
+						335,
+						119,
+						false,
+						107,
+						144,
+						false,
+						-67,
+						264,
+						0,
+						-151,
+						466,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 5
+					},
+					"solid" : true,
+					"z" : 100
+				}
+			],
+			"x" : 2640,
+			"y" : 2365
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3290593856
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 7
+					},
+					"points_array" : [
+						-194,
+						809,
+						false,
+						1954,
+						913,
+						false,
+						1949,
+						-387,
+						0,
+						1214,
+						-175,
+						0,
+						1003,
+						-289,
+						0,
+						669,
+						-316,
+						0,
+						502,
+						-246,
+						0,
+						274,
+						-56,
+						false,
+						-311,
+						140,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 3
+					},
+					"solid" : true,
+					"surface_type" : 1
+				}
+			],
+			"x" : 966,
+			"y" : 2946
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 100,
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
@@ -2225,24 +2292,25 @@
 						],
 						"seed" : 2845779251
 					},
-					"ground_cover" : 1,
 					"ground_cover_update_v1" : 1,
 					"object" : {
 						"_" : "class_object_reference"
 					},
 					"palette_reference" : {
 						"_" : "class_palette_reference",
-						"channel_index" : 2
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 13
 					},
 					"points_array" : [
-						-78,
-						1087,
+						-205,
+						975,
 						0,
-						-1435,
-						1087,
+						-411,
+						1110,
 						0,
-						-1435,
-						1481,
+						-747,
+						1228,
 						0,
 						-844,
 						1481,
@@ -2250,11 +2318,23 @@
 						1437,
 						2367,
 						0,
-						691,
-						-100,
+						2427,
+						224,
 						0,
-						-78,
-						-100,
+						252,
+						-144,
+						0,
+						-19,
+						-97,
+						0,
+						-165,
+						133,
+						0,
+						-187,
+						357,
+						0,
+						-112,
+						643,
 						0
 					],
 					"ramp" : {
@@ -2262,9 +2342,9 @@
 					},
 					"side_palette_reference" : {
 						"_" : "class_palette_reference",
-						"base_index" : 1,
-						"channel_index" : 2,
-						"texture_index" : 0
+						"base_index" : 2,
+						"channel_index" : 1,
+						"texture_index" : 5
 					},
 					"solid" : 1,
 					"x" : 55,
@@ -2281,6 +2361,9 @@
 				{
 					"_" : "class_shape",
 					"flat" : 1,
+					"grass" : true,
+					"grass_clumpy" : 0.2,
+					"grass_density" : 0.15,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
 						"array" : [
@@ -2288,15 +2371,51 @@
 								"_" : "class_model_spawn",
 								"colors" : {
 									"_" : "class_palette_array",
-									"array" : []
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"texture_index" : 5
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 4,
+											"texture_index" : 11
+										},
+										{
+											"_" : "class_palette_reference",
+											"base_index" : 7,
+											"texture_index" : 5
+										}
+									]
 								},
 								"model" : {
-									"_" : "class_model_reference"
+									"_" : "class_model_reference",
+									"filename" : "tinybush"
 								}
+							},
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : [
+										{
+											"_" : "class_palette_reference",
+											"texture_index" : 10
+										}
+									]
+								},
+								"model" : {
+									"_" : "class_model_reference",
+									"filename" : "tinyrock_01"
+								},
+								"weight" : 0.5
 							}
 						],
 						"seed" : 258871790
 					},
+					"grass_model_mode" : true,
+					"grass_solid" : true,
 					"ground_cover_update_v1" : 1,
 					"map_solid" : 1,
 					"object" : {
@@ -2333,19 +2452,31 @@
 						-120,
 						0,
 						-427,
-						376,
+						221,
 						0,
-						-339,
-						579,
+						-401,
+						551,
 						0,
-						-329,
-						810,
+						285,
+						600,
 						0,
-						-405,
-						1023,
+						745,
+						431,
+						0,
+						1777,
+						481,
+						0,
+						1851,
+						751,
+						0,
+						229,
+						1065,
+						0,
+						-421,
+						1037,
 						0,
 						-624,
-						1212,
+						1057,
 						0,
 						-854,
 						1393,
@@ -2394,7 +2525,7 @@
 						"texture_index" : 3
 					},
 					"solid" : 1,
-					"z" : 550
+					"z" : 400
 				}
 			],
 			"x" : 3776,

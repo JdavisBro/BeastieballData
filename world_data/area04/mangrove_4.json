@@ -3,6 +3,7 @@
 	"ambience" : "amb_chromaSea_tawnyWilds",
 	"ambient_color" : 2659970,
 	"background_prev_text_color" : 7242239,
+	"camera_y1_offset" : -150,
 	"cloud_color" : {
 		"_" : "class_palette_reference",
 		"base_index" : 8,

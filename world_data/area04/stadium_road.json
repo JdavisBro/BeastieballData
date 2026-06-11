@@ -263,7 +263,7 @@
 					}
 				]
 			},
-			"x" : 8284,
+			"x" : 8234,
 			"y" : 1050,
 			"z_angle" : 90
 		},
@@ -292,9 +292,8 @@
 					}
 				]
 			},
-			"x" : 5902,
-			"y" : 1050,
-			"z_angle" : 6.9680786133
+			"x" : 5852,
+			"y" : 1050
 		},
 		{
 			"_" : "class_model",
@@ -321,7 +320,7 @@
 					}
 				]
 			},
-			"x" : 8284,
+			"x" : 8234,
 			"y" : -1350,
 			"z_angle" : 90
 		},
@@ -350,9 +349,9 @@
 					}
 				]
 			},
-			"x" : 8284,
+			"x" : 8234,
 			"y" : -3750,
-			"z_angle" : 270
+			"y_scale" : -300
 		},
 		{
 			"_" : "class_model",
@@ -546,7 +545,7 @@
 					}
 				]
 			},
-			"x" : 3502,
+			"x" : 3102,
 			"y" : 1050
 		},
 		{
@@ -844,7 +843,8 @@
 				]
 			},
 			"x" : 5688,
-			"y" : 1267
+			"y" : 1267,
+			"z_angle" : 340.0169067383
 		},
 		{
 			"_" : "class_model",
@@ -1896,6 +1896,64 @@
 			},
 			"x" : 986,
 			"y" : -1970
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "metro_rail_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"channel_index" : 2,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 8234,
+			"y" : 1050,
+			"z_angle" : 90
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "metro_rail_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"channel_index" : 2,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 8234,
+			"y" : 3450,
+			"z_angle" : 90
 		}
 	],
 	"music" : "music_city",
@@ -2204,6 +2262,14 @@
 			"object" : "objFlycars",
 			"x" : 8088,
 			"y" : 2296
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "e2d3f9003de312751d9a8b0d91eb1e89",
+			"object" : "objZipline",
+			"x" : 6475,
+			"y" : 2134
 		}
 	],
 	"palette_name" : "city",

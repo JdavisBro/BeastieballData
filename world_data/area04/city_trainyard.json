@@ -599,7 +599,8 @@
 			},
 			"x" : 1139,
 			"y" : 2000,
-			"z_angle" : 90
+			"y_scale" : -300,
+			"z_angle" : 180
 		},
 		{
 			"_" : "class_model",
@@ -656,9 +657,9 @@
 					}
 				]
 			},
-			"x" : -3451,
+			"x" : -1260,
 			"y" : 1986,
-			"z" : -200
+			"z_angle" : 180
 		},
 		{
 			"_" : "class_model",
@@ -1055,8 +1056,8 @@
 					}
 				]
 			},
-			"x" : 816,
-			"y" : 4222,
+			"x" : 824,
+			"y" : 3963,
 			"z_angle" : 90
 		},
 		{
@@ -1110,32 +1111,6 @@
 			},
 			"x" : 918,
 			"y" : 3851
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"channel_index" : 2,
-						"texture_index" : 0
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 918,
-			"y" : 4092
 		},
 		{
 			"_" : "class_model",
@@ -2473,8 +2448,8 @@
 				"base_index" : 3,
 				"texture_index" : 7
 			},
-			"x" : 841,
-			"y" : 4083
+			"x" : 845,
+			"y" : 3850
 		},
 		{
 			"_" : "class_object",
@@ -2528,7 +2503,7 @@
 			"_" : "class_object",
 			"dlc" : false,
 			"gift_id" : "none",
-			"gift_id_index" : 1,
+			"gift_id_index" : 2,
 			"name" : "objGift",
 			"obj_guid" : "74d36824a18af5c464188e975c0ad74d",
 			"object" : "objGift",
@@ -2610,6 +2585,31 @@
 			"object" : "objFlycars",
 			"x" : -383,
 			"y" : -1062
+		},
+		{
+			"_" : "class_object",
+			"angle" : 0,
+			"dlc" : false,
+			"lever_id" : "suburb_south",
+			"name" : "objRailwall",
+			"obj_guid" : "2768bb751f47bf3129e5197755bd9815",
+			"object" : "objRailwall",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 10,
+				"channel_index" : 2,
+				"texture_index" : 6
+			},
+			"x" : 1522,
+			"y" : 4008
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "9af38fcaa7658aa045073931218e0eab",
+			"object" : "objZipline",
+			"x" : 5276,
+			"y" : 1689
 		}
 	],
 	"palette_name" : "city",
@@ -3467,11 +3467,11 @@
 						560,
 						562,
 						0,
-						556,
-						-1244,
+						560,
+						-1579,
 						0,
-						364,
-						-1245,
+						321,
+						-1579,
 						0,
 						249,
 						-2025,

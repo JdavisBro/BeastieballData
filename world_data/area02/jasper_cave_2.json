@@ -3,6 +3,7 @@
 	"ambience" : "amb_amberstone_jasperMines",
 	"ambient_color" : 12608612,
 	"background_prev_text_color" : 7098658,
+	"camera_y1_offset" : -150,
 	"cloud_color" : {
 		"_" : "class_palette_reference",
 		"base_index" : 8,
@@ -1425,8 +1426,8 @@
 			"name" : "objBallshrooms",
 			"obj_guid" : "496e6292fefc9a6b81acf6c09d4ec7d7",
 			"object" : "objBallshrooms",
-			"x" : 5650,
-			"y" : 543
+			"x" : 5655,
+			"y" : 568
 		},
 		{
 			"_" : "class_object",
@@ -1435,7 +1436,7 @@
 			"obj_guid" : "1db43eb582d1ee47edba9c5cb73e41cb",
 			"object" : "objBallshrooms",
 			"x" : 4875,
-			"y" : 588
+			"y" : 608
 		},
 		{
 			"_" : "class_object",

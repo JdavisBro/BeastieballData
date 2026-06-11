@@ -1859,8 +1859,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "c49672825ed0a6cabd893eb119c1a3f0",
 			"object" : "objPlayer",
-			"x" : 3140,
-			"y" : 4798
+			"x" : 1378,
+			"y" : 1191
 		},
 		{
 			"_" : "class_object",

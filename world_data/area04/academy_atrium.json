@@ -33,7 +33,6 @@
 	"models_array" : [
 		{
 			"_" : "class_model",
-			"am_static" : false,
 			"model_filename" : "academy_atrium",
 			"near_clips" : false,
 			"palettes" : {

@@ -318,8 +318,8 @@
 			},
 			"x" : 7354,
 			"y" : -1856,
-			"z" : -700,
-			"z_angle" : 270
+			"y_scale" : -300,
+			"z" : -700
 		},
 		{
 			"_" : "class_model",
@@ -1354,6 +1354,35 @@
 			"x" : -2045,
 			"y" : 2242,
 			"z_angle" : 336.8014221191
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "metro_rail_straight",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"channel_index" : 2,
+						"texture_index" : 0
+					},
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 2,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : -2036,
+			"y" : 530.0002098147,
+			"z" : 270
 		}
 	],
 	"music" : "music_city",
@@ -1496,6 +1525,14 @@
 			"object" : "objFlycars",
 			"x" : 7808,
 			"y" : 1220
+		},
+		{
+			"_" : "class_object",
+			"name" : "objZipline",
+			"obj_guid" : "a5de904d81d80398356c5bc203eb171c",
+			"object" : "objZipline",
+			"x" : 5401,
+			"y" : 2108
 		}
 	],
 	"palette_name" : "city",

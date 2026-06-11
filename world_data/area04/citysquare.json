@@ -11,7 +11,20 @@
 	"display_name" : "Mainframe",
 	"eff_bloom_threshold" : 0.8,
 	"eff_chromatic_str" : 1.5,
-	"gizmos_array" : [],
+	"gizmos_array" : [
+		{
+			"_" : "class_cameralook",
+			"axis_x" : 0,
+			"height" : 2000,
+			"look_z" : -500,
+			"radius" : 0,
+			"thick" : 500,
+			"width" : 2000,
+			"x" : 1877,
+			"y" : 4935,
+			"z" : 200
+		}
+	],
 	"grass_color" : {
 		"_" : "class_palette_reference"
 	},
@@ -19,7 +32,7 @@
 		"_" : "class_palette_array",
 		"array" : [
 			{
-				"__Elephant_Circular_Ref__" : 2
+				"__Elephant_Circular_Ref__" : 3
 			}
 		]
 	},
@@ -1868,8 +1881,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "2c1673fcf7b2b2d091282fe62952227b",
 			"object" : "objPlayer",
-			"x" : 3453,
-			"y" : 1915
+			"x" : 1385,
+			"y" : 4471
 		},
 		{
 			"_" : "class_object",

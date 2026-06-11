@@ -1328,6 +1328,78 @@
 								}
 							}
 						],
+						"seed" : 1932808096
+					},
+					"ground_cover" : 1,
+					"ground_cover_update_v1" : 1,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4
+					},
+					"points_array" : [
+						-458,
+						523,
+						0,
+						-436,
+						1049,
+						0,
+						-200,
+						1152,
+						0,
+						9,
+						762,
+						0,
+						573,
+						258,
+						0,
+						2634,
+						-605,
+						0,
+						1593,
+						-1589,
+						0,
+						-150,
+						-689,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : 1,
+					"z" : 300
+				}
+			],
+			"x" : 1767,
+			"y" : -124
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : 1,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
 						"seed" : 1781880780
 					},
 					"ground_cover" : 1,
@@ -1395,78 +1467,6 @@
 			],
 			"x" : 3482,
 			"y" : -1300
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
-					"flat" : 1,
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
-						"seed" : 1932808096
-					},
-					"ground_cover" : 1,
-					"ground_cover_update_v1" : 1,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 4
-					},
-					"points_array" : [
-						-458,
-						523,
-						0,
-						-436,
-						1049,
-						0,
-						-200,
-						1152,
-						0,
-						9,
-						762,
-						0,
-						329,
-						-48,
-						0,
-						2100,
-						-916,
-						0,
-						1593,
-						-1589,
-						0,
-						-150,
-						-689,
-						0
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 3
-					},
-					"solid" : 1,
-					"z" : 300
-				}
-			],
-			"x" : 1767,
-			"y" : -124
 		},
 		{
 			"_" : "class_shape_group",
