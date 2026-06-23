@@ -1223,31 +1223,6 @@
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "rock_02",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 0.65,
-			"x" : 968,
-			"y" : 3152,
-			"z_angle" : 143.1300964355
-		},
-		{
-			"_" : "class_model",
 			"model_filename" : "trash_cardboard",
 			"palettes" : {
 				"_" : "class_palette_array",
@@ -3060,9 +3035,9 @@
 						"texture_index" : 2
 					},
 					"solid" : true,
-					"x" : 700,
+					"x" : 2706,
 					"y" : -974,
-					"z" : 1200
+					"z" : 1750
 				}
 			],
 			"x" : 2103,
@@ -3125,9 +3100,9 @@
 						"texture_index" : 2
 					},
 					"solid" : true,
-					"x" : 2706,
+					"x" : 700,
 					"y" : -974,
-					"z" : 1750
+					"z" : 1200
 				}
 			],
 			"x" : 2103,

@@ -2828,6 +2828,14 @@
 			"object" : "objZipline",
 			"x" : 947,
 			"y" : 2242
+		},
+		{
+			"_" : "class_object",
+			"name" : "objPirate",
+			"obj_guid" : "1b78e9db657e7d56133d1ebee5dee64f",
+			"object" : "objPirate",
+			"x" : 3159,
+			"y" : 1755
 		}
 	],
 	"palette_name" : "city",

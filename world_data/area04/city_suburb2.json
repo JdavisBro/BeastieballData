@@ -3046,8 +3046,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "e9fbe58fbb0dc229afb76e304d31520a",
 			"object" : "objPlayer",
-			"x" : 1588,
-			"y" : 923
+			"x" : 3139,
+			"y" : 1807
 		},
 		{
 			"_" : "class_object",
@@ -3145,6 +3145,41 @@
 			"x" : 1162,
 			"xflip" : 0,
 			"y" : 1025
+		},
+		{
+			"_" : "class_object",
+			"name" : "objBalldispenser",
+			"obj_guid" : "bed8e533d37e943fe4cd73fdea5bfacd",
+			"object" : "objBalldispenser",
+			"x" : 3463,
+			"y" : 2211
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "d121f34d47a28efcb35631e1693b050e",
+			"object" : "objBallshrooms",
+			"x" : 3755,
+			"y" : 2298
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "d121f34d47a28efcb35631e1693b050e",
+			"object" : "objBallshrooms",
+			"x" : 3498,
+			"y" : 2070
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "d121f34d47a28efcb35631e1693b050e",
+			"object" : "objBallshrooms",
+			"x" : 3215,
+			"y" : 3135
 		}
 	],
 	"palette_name" : "city",

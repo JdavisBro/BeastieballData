@@ -136,8 +136,7 @@
 				]
 			},
 			"x" : 1562,
-			"y" : 1947,
-			"z" : -5
+			"y" : 1947
 		},
 		{
 			"_" : "class_model",
@@ -164,8 +163,7 @@
 				]
 			},
 			"x" : 2762,
-			"y" : 1947,
-			"z" : -5
+			"y" : 1947
 		},
 		{
 			"_" : "class_model",
@@ -192,8 +190,7 @@
 				]
 			},
 			"x" : 3962,
-			"y" : 1947,
-			"z" : -5
+			"y" : 1947
 		},
 		{
 			"_" : "class_model",
@@ -221,7 +218,7 @@
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "webbounce_net",
+			"model_filename" : "ball_dispenser_damaged_5",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -239,9 +236,603 @@
 					}
 				]
 			},
-			"x" : 3379,
-			"y" : 1178,
-			"z_angle" : 149.9706115723
+			"x" : 1449,
+			"y" : 947,
+			"z_angle" : 336.5014343262
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "ball_dispenser_damaged_5",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2375,
+			"y" : 656,
+			"z_angle" : 220.5626345426
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "ball_dispenser_damaged_5",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3726,
+			"y" : 1617,
+			"z_angle" : 129.6585906297
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "ball_dispenser_damaged_5",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2791,
+			"y" : 669,
+			"z_angle" : 255.3210344911
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0042308851,
+			"x" : 2905,
+			"y" : 110,
+			"z_angle" : 30.7622857019
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.092536239,
+			"x" : 4798,
+			"y" : -273,
+			"z_angle" : 38.1931107491
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0945018504,
+			"x" : 971,
+			"y" : -169,
+			"z_angle" : 12.8553698212
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9182625558,
+			"x" : -329,
+			"y" : 691,
+			"z_angle" : 103.3392121643
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0059689313,
+			"x" : 4342,
+			"y" : 1085,
+			"z_angle" : 354.3239770085
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.055205036,
+			"x" : 279,
+			"y" : -438,
+			"z_angle" : 1.7536886036
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.6,
+			"x" : 2023,
+			"y" : -1009,
+			"z_angle" : 318.3959106356
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.6,
+			"x" : -660,
+			"y" : -1112,
+			"z_angle" : 262.1836636495
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_massive",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.4,
+			"x" : 4134,
+			"y" : -1143,
+			"z_angle" : 222.7638570964
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0377186641,
+			"x" : 1861,
+			"y" : 337,
+			"z_angle" : 304.7169745713
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9179045271,
+			"x" : 1142,
+			"y" : 556,
+			"z_angle" : 233.0067419261
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0537201675,
+			"x" : 575,
+			"y" : 327,
+			"z_angle" : 115.8894046023
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9362191886,
+			"x" : 3546,
+			"y" : 421,
+			"z_angle" : 162.1132010221
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0755775571,
+			"x" : 2966,
+			"y" : 691,
+			"z_angle" : 229.9458432198
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0029278293,
+			"x" : 4126,
+			"y" : 1561,
+			"z_angle" : 170.3366580606
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0547813311,
+			"x" : 257,
+			"y" : 1768,
+			"z_angle" : 213.8057604432
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9015989378,
+			"x" : 1100,
+			"y" : 2007,
+			"z_angle" : 204.294936955
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "city_park_tree_large",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9252786659,
+			"x" : 658,
+			"y" : 2556,
+			"z_angle" : 156.0471650586
 		}
 	],
 	"music" : "music_domain",
@@ -334,6 +925,70 @@
 			"object" : "objVending",
 			"x" : 2565,
 			"y" : 653
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "65336463ea4041963e17af153bd048c1",
+			"object" : "objBallshrooms",
+			"x" : 2044,
+			"y" : 579
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "65336463ea4041963e17af153bd048c1",
+			"object" : "objBallshrooms",
+			"x" : 1024,
+			"y" : 2030
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "65336463ea4041963e17af153bd048c1",
+			"object" : "objBallshrooms",
+			"x" : 3612,
+			"y" : 1451
+		},
+		{
+			"_" : "class_object",
+			"conditional" : {
+				"_" : "class_datacheck",
+				"comparison" : 5,
+				"key" : "science_park_quest",
+				"value" : 4
+			},
+			"encounter" : "",
+			"encounter_radius" : 400,
+			"encounter_required" : "",
+			"field_x" : 0,
+			"field_y" : 0,
+			"guard_z_dist" : 75,
+			"height" : 296,
+			"miniboss" : false,
+			"miniboss_index" : 0,
+			"miniboss_type" : 0,
+			"name" : "objSpawner",
+			"obj_guid" : "a04af9c9b533fecceafed7e77ae1bc1d",
+			"object" : "objSpawner",
+			"roamers_max" : 3,
+			"spawn_index" : 0,
+			"spawns_gameplay" : false,
+			"width" : 592,
+			"x" : 2151,
+			"y" : 1320
+		},
+		{
+			"_" : "class_object",
+			"angle" : 156.8014068604,
+			"name" : "objWebnet",
+			"obj_guid" : "c2050f98a8eaa1884aad04012b5aa88b",
+			"object" : "objWebnet",
+			"x" : 3353,
+			"y" : 1155
 		}
 	],
 	"palette_name" : "city",
@@ -519,6 +1174,183 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"fan" : 100,
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2404036220
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"channel_index" : 1,
+						"texture_index" : 6
+					},
+					"points_array" : [
+						1110,
+						567,
+						false,
+						1522,
+						388,
+						false,
+						1378,
+						-80,
+						0,
+						1085,
+						-157,
+						false,
+						708,
+						-64,
+						false,
+						561,
+						66,
+						0,
+						428,
+						82,
+						0,
+						349,
+						-10,
+						0,
+						265,
+						-166,
+						0,
+						313,
+						-255,
+						0,
+						296,
+						-507,
+						0,
+						-124,
+						-540,
+						0,
+						0,
+						-239,
+						0,
+						128,
+						-120,
+						0,
+						154,
+						29,
+						0,
+						-31,
+						79,
+						0,
+						-146,
+						152,
+						0,
+						-217,
+						92,
+						0,
+						-287,
+						0,
+						0,
+						-261,
+						-166,
+						0,
+						-843,
+						-96,
+						0,
+						-738,
+						33,
+						0,
+						-508,
+						23,
+						0,
+						-384,
+						46,
+						0,
+						-353,
+						86,
+						0,
+						-420,
+						135,
+						0,
+						-583,
+						106,
+						0,
+						-844,
+						115,
+						0,
+						-972,
+						195,
+						0,
+						-1056,
+						344,
+						0,
+						-1033,
+						506,
+						0,
+						-936,
+						698,
+						0,
+						-808,
+						715,
+						0,
+						-548,
+						788,
+						0,
+						-141,
+						828,
+						0,
+						167,
+						834,
+						0,
+						392,
+						739,
+						0,
+						446,
+						603,
+						0,
+						534,
+						480,
+						0,
+						667,
+						480,
+						0,
+						830,
+						543,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"channel_index" : 1,
+						"texture_index" : 6
+					},
+					"solid" : true,
+					"surface_type" : 3,
+					"thickness" : 20,
+					"z" : 2
+				}
+			],
+			"x" : 2445,
+			"y" : 901
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
@@ -682,7 +1514,8 @@
 						"_" : "class_palette_reference",
 						"base_index" : 2,
 						"texture_index" : 3
-					}
+					},
+					"z" : 10
 				}
 			],
 			"x" : 1187,
@@ -759,7 +1592,7 @@
 					"thickness" : 40,
 					"x" : -134,
 					"y" : -47,
-					"z" : 30
+					"z" : 40
 				}
 			],
 			"x" : 1625,
@@ -787,6 +1620,7 @@
 						],
 						"seed" : 2756777453
 					},
+					"ground_cover" : true,
 					"ground_cover_update_v1" : 1,
 					"map_solid" : 1,
 					"object" : {

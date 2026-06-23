@@ -1949,8 +1949,8 @@
 			"name" : "objBallshrooms",
 			"obj_guid" : "7daace2041e12f6048c37102885f4f6d",
 			"object" : "objBallshrooms",
-			"x" : 2855,
-			"y" : 1091
+			"x" : 3300,
+			"y" : 2033
 		},
 		{
 			"_" : "class_object",
@@ -1967,6 +1967,15 @@
 			},
 			"x" : 1556,
 			"y" : 1067
+		},
+		{
+			"_" : "class_object",
+			"grows_in_city" : false,
+			"name" : "objBallshrooms",
+			"obj_guid" : "7daace2041e12f6048c37102885f4f6d",
+			"object" : "objBallshrooms",
+			"x" : 3273,
+			"y" : 2204
 		}
 	],
 	"palette_name" : "city",

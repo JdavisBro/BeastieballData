@@ -3133,84 +3133,6 @@
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 10,
-						"texture_index" : 2
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 99,
-			"y" : 2403,
-			"z_angle" : 270
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 10,
-						"texture_index" : 2
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : -101,
-			"y" : 2403,
-			"z_angle" : 270
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "pier_rail",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 10,
-						"texture_index" : 2
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : -301,
-			"y" : 2403,
-			"z_angle" : 270
-		},
-		{
-			"_" : "class_model",
 			"model_filename" : "tall_square",
 			"palettes" : {
 				"_" : "class_palette_array",
@@ -3287,6 +3209,84 @@
 			"x" : 3760,
 			"y" : -638,
 			"z_angle" : 180
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pier_rail",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 149,
+			"y" : 2403,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pier_rail",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : -51,
+			"y" : 2403,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pier_rail",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 2
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : -251,
+			"y" : 2403,
+			"z_angle" : 270
 		}
 	],
 	"music" : "music_area_burb",
@@ -3487,22 +3487,6 @@
 			"seat_width" : 200,
 			"x" : 3336,
 			"y" : 2279
-		},
-		{
-			"_" : "class_object",
-			"angle" : 69.4439544678,
-			"dlc" : false,
-			"lever_id" : "suburb_side_alwaysdown",
-			"name" : "objRailwall",
-			"obj_guid" : "f541c82368484a3585786f715ec1c8b6",
-			"object" : "objRailwall",
-			"palette_1" : {
-				"_" : "class_palette_reference",
-				"base_index" : 10,
-				"texture_index" : 2
-			},
-			"x" : 234,
-			"y" : 2374
 		},
 		{
 			"_" : "class_object",
@@ -5014,67 +4998,6 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
-					"x" : -330,
-					"y" : 43,
-					"z" : 150
-				}
-			],
-			"x" : 3686,
-			"y" : 2237
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
-					"flat" : true,
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
-						"seed" : 2407727918
-					},
-					"ground_cover_update_v1" : true,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference",
-						"texture_index" : 3
-					},
-					"points_array" : [
-						-837,
-						74,
-						false,
-						-750,
-						74,
-						false,
-						-750,
-						-100,
-						false,
-						-837,
-						-100,
-						false
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 3,
-						"texture_index" : 6
-					},
-					"solid" : true,
 					"x" : 881,
 					"y" : 43,
 					"z" : 150
@@ -5139,6 +5062,67 @@
 					"x" : -418,
 					"y" : 43,
 					"z" : 125
+				}
+			],
+			"x" : 3686,
+			"y" : 2237
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2407727918
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"texture_index" : 3
+					},
+					"points_array" : [
+						-837,
+						74,
+						false,
+						-750,
+						74,
+						false,
+						-750,
+						-100,
+						false,
+						-837,
+						-100,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 6
+					},
+					"solid" : true,
+					"x" : -330,
+					"y" : 43,
+					"z" : 150
 				}
 			],
 			"x" : 3686,

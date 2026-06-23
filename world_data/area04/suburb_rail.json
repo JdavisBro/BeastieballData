@@ -2248,6 +2248,27 @@
 			},
 			"x" : 4750,
 			"y" : 1425
+		},
+		{
+			"_" : "class_object",
+			"dlc" : false,
+			"gift_id" : "none",
+			"gift_id_index" : 1,
+			"name" : "objGift",
+			"obj_guid" : "44a447f572f076b930b72b69f8ae17f9",
+			"object" : "objGift",
+			"palette_1" : {
+				"_" : "class_palette_reference",
+				"base_index" : 5,
+				"texture_index" : 12
+			},
+			"palette_2" : {
+				"_" : "class_palette_reference",
+				"base_index" : 3,
+				"texture_index" : 12
+			},
+			"x" : 534,
+			"y" : 3501
 		}
 	],
 	"palette_name" : "city",
@@ -3409,7 +3430,7 @@
 						"texture_index" : 3
 					},
 					"solid" : true,
-					"thickness" : 1,
+					"thickness" : 25,
 					"x" : -2867,
 					"y" : 835,
 					"z" : 900
@@ -4210,6 +4231,73 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1915434091
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-852,
+						1234,
+						false,
+						117,
+						1747,
+						false,
+						711,
+						1170,
+						0,
+						-56,
+						658,
+						0,
+						-220,
+						77,
+						false,
+						-1055,
+						274,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false,
+					"wall_collider" : true,
+					"x" : -105,
+					"y" : 114,
+					"z" : 1000
+				}
+			],
+			"x" : 1119,
+			"y" : 2466
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
 					"fan" : 80,
 					"flat" : true,
 					"grass_model_array" : {
@@ -4280,14 +4368,14 @@
 						1399,
 						3447,
 						0,
-						508,
+						555,
 						3496,
 						0,
-						433,
-						3473,
+						43,
+						4086,
 						0,
-						-111,
-						3975,
+						-132,
+						4081,
 						0,
 						-520,
 						3636,
@@ -4466,5 +4554,6 @@
 	"water_color" : {
 		"_" : "class_palette_reference"
 	},
-	"windiness" : 1.5
+	"windiness" : 1.5,
+	"world_y2_offset" : 500
 }
