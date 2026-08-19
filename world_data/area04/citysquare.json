@@ -1999,7 +1999,7 @@
 			"spawn_index" : 0,
 			"spawns_gameplay" : 0,
 			"width" : 592,
-			"x" : 2028,
+			"x" : 2083,
 			"y" : 2155
 		},
 		{
@@ -3563,6 +3563,110 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 82486393
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objCitycrowd"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-4599,
+						-393,
+						false,
+						-4732,
+						-143,
+						false,
+						-4656,
+						156,
+						0,
+						-4313,
+						302,
+						0,
+						-3869,
+						149,
+						0,
+						-3675,
+						211,
+						0,
+						-3619,
+						364,
+						0,
+						-3749,
+						454,
+						0,
+						-3832,
+						697,
+						0,
+						-3749,
+						885,
+						0,
+						-3490,
+						926,
+						0,
+						-3286,
+						711,
+						0,
+						-3129,
+						392,
+						0,
+						-3147,
+						38,
+						0,
+						-3212,
+						-295,
+						0,
+						-3480,
+						-316,
+						0,
+						-3834,
+						-114,
+						false,
+						-4147,
+						-261,
+						0,
+						-4303,
+						-461,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false,
+					"z" : 600
+				}
+			],
+			"x" : 8978,
+			"y" : 1539
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
@@ -3655,6 +3759,95 @@
 			],
 			"x" : 4051,
 			"y" : 2419
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2356059785
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objCitycrowd"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						409,
+						-400,
+						false,
+						1220,
+						-406,
+						false,
+						2919,
+						-427,
+						0,
+						3012,
+						-844,
+						0,
+						3493,
+						-1080,
+						0,
+						3839,
+						-1030,
+						0,
+						4124,
+						-1089,
+						0,
+						4192,
+						-1256,
+						0,
+						4194,
+						-1406,
+						0,
+						3299,
+						-1377,
+						0,
+						3291,
+						-1670,
+						0,
+						2326,
+						-1219,
+						0,
+						2318,
+						-719,
+						0,
+						445,
+						-725,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false,
+					"z" : 600
+				}
+			],
+			"x" : -1032,
+			"y" : 2990
 		},
 		{
 			"_" : "class_shape_group",
@@ -4285,35 +4478,35 @@
 						"channel_index" : 2
 					},
 					"points_array" : [
-						873,
-						-512,
+						6807,
+						-950,
 						0,
-						873,
-						3949,
+						6807,
+						3511,
 						0,
-						3399,
-						3949,
+						9333,
+						3511,
 						0,
-						3465,
-						-6380,
+						9399,
+						-6818,
 						0,
-						-10330,
-						-6399,
+						-4396,
+						-6837,
 						0,
-						-7563,
-						-512,
+						-1629,
+						-950,
 						0,
-						-1090,
-						-512,
+						4844,
+						-950,
 						0,
-						-1096,
-						-1594,
+						4838,
+						-2032,
 						0,
-						-710,
-						-1594,
+						5224,
+						-2032,
 						0,
-						-710,
-						-512,
+						5224,
+						-950,
 						0
 					],
 					"ramp" : {
@@ -4326,8 +4519,8 @@
 						"texture_index" : 9
 					},
 					"solid" : 1,
-					"x" : 709,
-					"y" : 643,
+					"x" : -5225,
+					"y" : 1081,
 					"z" : 600
 				}
 			],

@@ -5686,6 +5686,790 @@
 			"x" : 7795,
 			"y" : 4647,
 			"z_angle" : 307.5686035156
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.340362604,
+			"x" : 7302,
+			"y" : 4043,
+			"z_angle" : 234.2956835032
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7163553368,
+			"x" : 7275,
+			"y" : 4162,
+			"z_angle" : 179.1585048661
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1910426602,
+			"x" : 7937,
+			"y" : 4303,
+			"z_angle" : 163.7675875425
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.8023156062,
+			"x" : 7883,
+			"y" : 4173,
+			"z_angle" : 41.6052943468
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.102269084,
+			"x" : 7903,
+			"y" : 4431,
+			"z_angle" : 5.9782784432
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6229904573,
+			"x" : 7986,
+			"y" : 4002,
+			"z_angle" : 157.308049053
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3792908447,
+			"x" : 7455,
+			"y" : 3702,
+			"z_angle" : 28.2436448336
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6058250908,
+			"x" : 7810,
+			"y" : 3697,
+			"z_angle" : 246.4683003724
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.2372524394,
+			"x" : 7935,
+			"y" : 3767,
+			"z_angle" : 126.7012795061
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7390705995,
+			"x" : 7679,
+			"y" : 4662,
+			"z_angle" : 200.8028778434
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.4699401869,
+			"x" : 7330,
+			"y" : 3896,
+			"z_angle" : 186.6834148485
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.4908520982,
+			"x" : 7530,
+			"y" : 4177,
+			"z_angle" : 218.942322135
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.2502442351,
+			"x" : 7748,
+			"y" : 4013,
+			"z_angle" : 198.3732115477
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.9224632898,
+			"x" : 7489,
+			"y" : 4415,
+			"z_angle" : 263.2481885701
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7525075849,
+			"x" : 7442,
+			"y" : 3174,
+			"z_angle" : 302.4190265313
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.215812842,
+			"x" : 7972,
+			"y" : 3107,
+			"z_angle" : 118.4858060628
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7864421658,
+			"x" : 7543,
+			"y" : 3058,
+			"z_angle" : 283.2183203101
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.0781315781,
+			"x" : 7833,
+			"y" : 3436,
+			"z_angle" : 285.1303222775
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6565421848,
+			"x" : 7407,
+			"y" : 3528,
+			"z_angle" : 62.6186981052
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7531655928,
+			"x" : 7599,
+			"y" : 3297,
+			"z_angle" : 75.9047602862
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3338831162,
+			"x" : 7896,
+			"y" : 3602,
+			"z_angle" : 185.1925092191
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1138930719,
+			"x" : 7711,
+			"y" : 2956,
+			"z_angle" : 176.3933512196
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6081266256,
+			"x" : 8212,
+			"y" : 2667,
+			"z_angle" : 89.5756349713
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6238627821,
+			"x" : 8505,
+			"y" : 2506,
+			"z_angle" : 182.8641808033
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 5,
+						"texture_index" : 12
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.0935443642,
+			"x" : 9425,
+			"y" : 3059,
+			"z_angle" : 142.278091684
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.078175506,
+			"x" : 9080,
+			"y" : 3038,
+			"z_angle" : 354.8145946115
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.3983406708,
+			"x" : 8386,
+			"y" : 2556,
+			"z_angle" : 138.8740866445
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "succulent",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 12,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.4694639741,
+			"x" : 9264,
+			"y" : 3089,
+			"z_angle" : 123.6015417427
 		}
 	],
 	"music" : "music_area_beach01",
@@ -5696,8 +6480,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "4e41736492f1caff55dfb8397c2d8a7e",
 			"object" : "objPlayer",
-			"x" : 8160,
-			"y" : 5314
+			"x" : 7295,
+			"y" : 4210
 		},
 		{
 			"_" : "class_object",

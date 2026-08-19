@@ -148,8 +148,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "c7e41c45329204e02dff7cb363920515",
 			"object" : "objPlayer",
-			"x" : 889,
-			"y" : 3448
+			"x" : 3405,
+			"y" : 3029
 		},
 		{
 			"_" : "class_object",
@@ -1143,74 +1143,6 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
-					"flat" : true,
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
-						"seed" : 958096634
-					},
-					"ground_cover" : true,
-					"ground_cover_update_v1" : true,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"texture_index" : 11
-					},
-					"points_array" : [
-						-638,
-						214,
-						false,
-						-19,
-						-355,
-						false,
-						626,
-						-355,
-						0,
-						626,
-						-593,
-						0,
-						-167,
-						-593,
-						false,
-						-894,
-						49,
-						false
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 3
-					},
-					"solid" : true,
-					"thickness" : 25,
-					"z" : 1100
-				}
-			],
-			"x" : 5193,
-			"y" : 3309
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
@@ -1360,7 +1292,6 @@
 						"texture_index" : 5
 					},
 					"solid" : 1,
-					"visible" : false,
 					"x" : 6173,
 					"y" : 2386,
 					"z" : 1000
@@ -1818,6 +1749,75 @@
 			],
 			"x" : 4007,
 			"y" : 5339
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 958096634
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-638,
+						214,
+						false,
+						-19,
+						-355,
+						false,
+						626,
+						-355,
+						0,
+						626,
+						-593,
+						0,
+						-167,
+						-593,
+						false,
+						-894,
+						49,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"solid" : true,
+					"thickness" : 25,
+					"y" : 2600,
+					"z" : 3700
+				}
+			],
+			"x" : 5193,
+			"y" : 3309
 		}
 	],
 	"sky_gradient" : {

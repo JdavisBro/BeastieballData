@@ -335,6 +335,209 @@
 								}
 							}
 						],
+						"seed" : 3042292969
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objCitycrowd"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-248,
+						749,
+						false,
+						-94,
+						703,
+						0,
+						54,
+						814,
+						0,
+						94,
+						1121,
+						0,
+						255,
+						1322,
+						0,
+						637,
+						1322,
+						0,
+						885,
+						1402,
+						0,
+						1012,
+						1362,
+						0,
+						650,
+						1081,
+						0,
+						322,
+						940,
+						0,
+						128,
+						794,
+						0,
+						27,
+						608,
+						0,
+						106,
+						462,
+						false,
+						416,
+						482,
+						0,
+						388,
+						16,
+						false,
+						67,
+						-51,
+						0,
+						-288,
+						26,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false
+				}
+			],
+			"x" : 1073,
+			"y" : 1582
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3243657725
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objCitycrowd"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-1190,
+						120,
+						false,
+						-1127,
+						269,
+						0,
+						-724,
+						302,
+						0,
+						-778,
+						476,
+						0,
+						-1001,
+						617,
+						0,
+						-1279,
+						651,
+						0,
+						-1616,
+						624,
+						0,
+						-2063,
+						872,
+						0,
+						-2442,
+						906,
+						0,
+						-2519,
+						976,
+						0,
+						-2454,
+						1085,
+						0,
+						-2130,
+						1127,
+						0,
+						-1844,
+						997,
+						0,
+						-1397,
+						888,
+						0,
+						-1180,
+						926,
+						0,
+						-832,
+						691,
+						0,
+						-570,
+						422,
+						false,
+						-579,
+						-697,
+						false,
+						-894,
+						-737,
+						0,
+						-1163,
+						-690,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false
+				}
+			],
+			"x" : 5668,
+			"y" : 2304
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
 						"seed" : 1740777620
 					},
 					"ground_cover" : true,

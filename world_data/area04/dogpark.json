@@ -24,6 +24,19 @@
 			"width" : 3000,
 			"x" : 5571,
 			"y" : 2450
+		},
+		{
+			"_" : "class_cameralook",
+			"axis_x" : 0,
+			"axis_z" : 0,
+			"fade" : 1000,
+			"height" : 2000,
+			"radius" : 0,
+			"str" : 0.3,
+			"thick" : 1000,
+			"width" : 10000,
+			"x" : 3291,
+			"y" : 281
 		}
 	],
 	"grass_color" : {
@@ -35,7 +48,7 @@
 		"_" : "class_palette_array",
 		"array" : [
 			{
-				"__Elephant_Circular_Ref__" : 3
+				"__Elephant_Circular_Ref__" : 4
 			}
 		]
 	},
@@ -3224,8 +3237,8 @@
 				]
 			},
 			"u_scale" : 1.0340357345,
-			"x" : 1305,
-			"y" : 1003,
+			"x" : 1329,
+			"y" : 1059,
 			"z_angle" : 192.2548621148
 		},
 		{
@@ -3340,7 +3353,7 @@
 				]
 			},
 			"u_scale" : 1.017323529,
-			"x" : 894,
+			"x" : 869,
 			"y" : 1516,
 			"z_angle" : 60.7730452716
 		},
@@ -3485,8 +3498,8 @@
 				]
 			},
 			"u_scale" : 0.9535640672,
-			"x" : 1902,
-			"y" : 1671,
+			"x" : 1691,
+			"y" : 1810,
 			"z_angle" : 342.9757645726
 		},
 		{
@@ -3632,7 +3645,7 @@
 					}
 				]
 			},
-			"x" : 1173,
+			"x" : 1223,
 			"y" : 1393,
 			"z_angle" : 58.5704345703
 		},
@@ -3824,6 +3837,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3836,6 +3850,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3848,6 +3863,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3855,11 +3871,12 @@
 			"object" : "objSit",
 			"seat_angle" : 58.57,
 			"seat_width" : 200,
-			"x" : 1199,
+			"x" : 1249,
 			"y" : 1398
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3872,6 +3889,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4044,6 +4062,77 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2409718822
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objCitycrowd"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						-2258,
+						467,
+						false,
+						-1877,
+						216,
+						0,
+						-1670,
+						-89,
+						false,
+						-1338,
+						-812,
+						false,
+						-2862,
+						-742,
+						false,
+						-4099,
+						-863,
+						0,
+						-3049,
+						-388,
+						0,
+						-2805,
+						129,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false,
+					"z" : 200
+				}
+			],
+			"x" : 7088,
+			"y" : -292
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
@@ -4204,29 +4293,29 @@
 						"channel_index" : 2
 					},
 					"points_array" : [
-						-6579,
-						3259,
+						-10113,
+						4337,
 						0,
-						-1717,
-						3259,
+						-5251,
+						4337,
 						0,
-						-1717,
-						2570,
+						-5251,
+						3648,
 						0,
-						-2768,
-						2570,
+						-6302,
+						3648,
 						0,
-						-2768,
-						-303,
+						-6302,
+						775,
 						0,
-						3298,
-						-303,
+						-236,
+						775,
 						0,
-						3298,
-						-2360,
+						-236,
+						-1282,
 						0,
-						-6579,
-						-2396,
+						-10113,
+						-1318,
 						0
 					],
 					"ramp" : {
@@ -4240,6 +4329,8 @@
 					},
 					"solid" : 1,
 					"surface_type" : 5,
+					"x" : 3534,
+					"y" : -1078,
 					"z" : 200
 				}
 			],

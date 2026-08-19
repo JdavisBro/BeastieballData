@@ -1508,6 +1508,66 @@
 			"x" : 4115,
 			"y" : 664,
 			"z_angle" : 264.6924488246
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 9
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 9
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.7,
+			"x" : 2158,
+			"y" : 1318,
+			"z_angle" : 100.735885324
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 9
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 9
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.8740593791,
+			"x" : 2101,
+			"y" : 1207,
+			"z_angle" : 66.2712264061
 		}
 	],
 	"music" : "music_domain",
@@ -1667,7 +1727,7 @@
 			"system" : 0,
 			"wall_height" : 2,
 			"wall_platform" : 1,
-			"x" : 2003,
+			"x" : 2031,
 			"y" : 1653
 		},
 		{
@@ -1772,7 +1832,7 @@
 			"system" : 0,
 			"wall_height" : 2,
 			"wall_platform" : 1,
-			"x" : 3700,
+			"x" : 3702,
 			"y" : 1653
 		},
 		{
@@ -2535,6 +2595,152 @@
 			],
 			"x" : 3045,
 			"y" : 2151
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"fan" : 5,
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 1696742141
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"channel_index" : 1,
+						"texture_index" : 11
+					},
+					"points_array" : [
+						-629,
+						206,
+						false,
+						-750,
+						391,
+						0,
+						-536,
+						437,
+						0,
+						-229,
+						399,
+						0,
+						-94,
+						421,
+						0,
+						22,
+						247,
+						0,
+						114,
+						165,
+						false,
+						275,
+						108,
+						0,
+						437,
+						24,
+						0,
+						300,
+						35,
+						0,
+						256,
+						-11,
+						0,
+						326,
+						-92,
+						0,
+						804,
+						95,
+						0,
+						1480,
+						255,
+						0,
+						1550,
+						-128,
+						0,
+						1769,
+						-458,
+						0,
+						1799,
+						-817,
+						0,
+						1428,
+						-1027,
+						0,
+						1382,
+						-486,
+						0,
+						1089,
+						-396,
+						0,
+						911,
+						-273,
+						0,
+						662,
+						-263,
+						0,
+						742,
+						-208,
+						0,
+						730,
+						-189,
+						false,
+						210,
+						-130,
+						0,
+						-22,
+						-283,
+						0,
+						-312,
+						-429,
+						0,
+						-580,
+						-416,
+						0,
+						-714,
+						-372,
+						0,
+						-819,
+						-168,
+						0,
+						-812,
+						33,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 11
+					},
+					"solid" : true,
+					"thickness" : 2,
+					"x" : 14,
+					"y" : 388,
+					"z" : 2
+				}
+			],
+			"x" : 2550,
+			"y" : 1967
 		},
 		{
 			"_" : "class_shape_group",

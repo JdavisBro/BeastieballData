@@ -3442,6 +3442,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3454,6 +3455,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3466,6 +3468,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -3478,6 +3481,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4803,6 +4807,91 @@
 								}
 							}
 						],
+						"seed" : 3305447430
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference",
+						"filename" : "objCitycrowd"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference"
+					},
+					"points_array" : [
+						2772,
+						-2305,
+						false,
+						2660,
+						-2437,
+						false,
+						1405,
+						-2436,
+						false,
+						485,
+						-2500,
+						false,
+						-1175,
+						-2542,
+						0,
+						-1782,
+						-2498,
+						0,
+						-1816,
+						-2359,
+						0,
+						-1672,
+						-2312,
+						0,
+						-1614,
+						-2131,
+						0,
+						2089,
+						-2073,
+						0,
+						2264,
+						-2234,
+						0,
+						2512,
+						-2239,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"visible" : false,
+					"x" : 54,
+					"y" : 106,
+					"z" : 101
+				}
+			],
+			"x" : 2608,
+			"y" : 3951
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
 						"seed" : 2880566338
 					},
 					"ground_cover_update_v1" : true,
@@ -4998,9 +5087,9 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
-					"x" : 881,
+					"x" : -418,
 					"y" : 43,
-					"z" : 150
+					"z" : 125
 				}
 			],
 			"x" : 3686,
@@ -5059,9 +5148,9 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
-					"x" : -418,
+					"x" : 881,
 					"y" : 43,
-					"z" : 125
+					"z" : 150
 				}
 			],
 			"x" : 3686,
