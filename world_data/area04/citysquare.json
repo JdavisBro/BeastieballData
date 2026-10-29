@@ -1881,8 +1881,8 @@
 			"name" : "objPlayer",
 			"obj_guid" : "2c1673fcf7b2b2d091282fe62952227b",
 			"object" : "objPlayer",
-			"x" : 1385,
-			"y" : 4471
+			"x" : 1310,
+			"y" : 4405
 		},
 		{
 			"_" : "class_object",
@@ -3578,6 +3578,71 @@
 								}
 							}
 						],
+						"seed" : 841293378
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 13
+					},
+					"points_array" : [
+						0,
+						50,
+						false,
+						100,
+						100,
+						false,
+						93,
+						-465,
+						false,
+						47,
+						-419,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 13
+					},
+					"solid" : true,
+					"thickness" : 1000,
+					"visible" : false,
+					"x" : -327,
+					"y" : 898,
+					"z" : 1600
+				}
+			],
+			"x" : 1232,
+			"y" : 1258
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
 						"seed" : 82486393
 					},
 					"ground_cover_update_v1" : true,
@@ -3815,17 +3880,20 @@
 						4192,
 						-1256,
 						0,
-						4194,
-						-1406,
-						0,
-						3299,
-						-1377,
+						4192,
+						-1325,
 						0,
 						3291,
-						-1670,
+						-1325,
 						0,
-						2326,
-						-1219,
+						3288,
+						-1511,
+						0,
+						3037,
+						-1408,
+						0,
+						2318,
+						-1089,
 						0,
 						2318,
 						-719,

@@ -1,5 +1,6 @@
 {
 	"_" : "class_level",
+	"ambience" : "amb_neptune_stadium",
 	"background_prev_text_color" : 10664447,
 	"cloud_color" : {
 		"_" : "class_palette_reference"
@@ -51,38 +52,9 @@
 					}
 				]
 			},
-			"x" : 1163,
-			"y" : 1283
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "sunken_stadium_wall_control",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 7,
-						"channel_index" : 2,
-						"texture_index" : 6
-					},
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 10,
-						"channel_index" : 2,
-						"texture_index" : 11
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
 			"x" : 351,
 			"y" : 1446,
-			"y_scale" : 170,
+			"y_scale" : 200,
 			"z_angle" : 90
 		},
 		{
@@ -111,8 +83,8 @@
 					}
 				]
 			},
-			"x" : 595,
-			"x_scale" : 280,
+			"x" : 709,
+			"x_scale" : 321,
 			"y" : 1282
 		},
 		{
@@ -141,9 +113,9 @@
 					}
 				]
 			},
-			"x" : 1985,
+			"x" : 1990,
 			"y" : 1447,
-			"y_scale" : 170,
+			"y_scale" : 200,
 			"z_angle" : 90
 		},
 		{
@@ -172,73 +144,117 @@
 					}
 				]
 			},
-			"x" : 1720,
-			"y" : 1283
+			"x" : 1638,
+			"x_scale" : 310,
+			"y" : 1282
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_shadow",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 1266,
-			"y" : 1842
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "wreckage_security_terminal1",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
 					},
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
 					},
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 11
 					},
 					{
 						"_" : "class_palette_reference"
 					}
 				]
 			},
-			"x" : 440,
-			"y" : 1557,
+			"x" : 1452,
+			"y" : 1355
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_security_terminal2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1543,
+			"y" : 1355
+		},
+		{
+			"_" : "class_model",
+			"am_static" : false,
+			"model_filename" : "wreckage_security_terminal_main",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 8
+					}
+				]
+			},
+			"x" : 429,
+			"y" : 1500,
 			"z_angle" : 90
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "wreckage_security_monitor",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
 					},
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 1,
+						"texture_index" : 15
 					},
 					{
 						"_" : "class_palette_reference"
@@ -248,20 +264,19 @@
 					}
 				]
 			},
-			"x" : 440,
-			"y" : 1440,
+			"x" : 382,
+			"y" : 1544,
 			"z_angle" : 90
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "deskchair",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
-						"base_index" : 7,
-						"channel_index" : 2,
+						"base_index" : 10,
 						"texture_index" : 6
 					},
 					{
@@ -275,23 +290,26 @@
 					}
 				]
 			},
-			"x" : 540,
-			"y" : 1348
+			"x" : 624,
+			"y" : 1401,
+			"z_angle" : 381.7532348633
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "wreckage_security_monitor",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
 					},
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 1,
+						"texture_index" : 15
 					},
 					{
 						"_" : "class_palette_reference"
@@ -301,49 +319,26 @@
 					}
 				]
 			},
-			"x" : 635,
-			"y" : 1345
+			"x" : 382,
+			"y" : 1391,
+			"z_angle" : 90
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "wreckage_security_monitor",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
 					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 792,
-			"y" : 1337
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
 					{
 						"_" : "class_palette_reference",
-						"base_index" : 7,
-						"channel_index" : 2,
-						"texture_index" : 6
-					},
-					{
-						"_" : "class_palette_reference"
+						"base_index" : 11,
+						"channel_index" : 1,
+						"texture_index" : 14
 					},
 					{
 						"_" : "class_palette_reference"
@@ -354,18 +349,17 @@
 				]
 			},
 			"x" : 1499,
-			"y" : 1334
+			"y" : 1319
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "wreckage_security_terminal_broken1",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
 					},
 					{
@@ -379,22 +373,143 @@
 					}
 				]
 			},
-			"x" : 1899,
-			"x_scale" : -300,
-			"y" : 1504,
-			"z_angle" : 90
+			"x" : 1632,
+			"y" : 1355
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "wreckage_security_terminal_broken2",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"channel_index" : 1,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1722,
+			"y" : 1355
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_security_terminal1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1910,
+			"y" : 1583,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_security_terminal1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1910,
+			"y" : 1492,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_ceiling_cavein2",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 13
+					}
+				]
+			},
+			"x" : 1777,
+			"y" : 1556,
+			"z_angle" : 323.1300964355,
+			"z_scale" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "sunken_stadium_junk",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
 					},
 					{
 						"_" : "class_palette_reference"
@@ -407,22 +522,446 @@
 					}
 				]
 			},
-			"x" : 1908,
-			"x_scale" : -300,
-			"y" : 1397,
-			"z_angle" : 90
+			"x" : 1858,
+			"y" : 1305,
+			"z_angle" : 247.3801269531
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "junk_foreground3",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 1,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"channel_index" : 1,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 16
+					}
+				]
+			},
+			"x" : 1724,
+			"y" : 1756,
+			"z_angle" : 26.5650501251
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_foreground3",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 1,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"channel_index" : 1,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 16
+					}
+				]
+			},
+			"x" : 1920,
+			"y" : 1677,
+			"z_angle" : 35.217590332
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_rubble_small2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9453040035,
+			"x" : 1632,
+			"y" : 1413,
+			"z_angle" : 21.3706207275
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_rubble_small2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.949124562,
+			"x" : 1828,
+			"y" : 1488,
+			"z_angle" : 71.6072814167
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_security_terminal1",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
 						"base_index" : 7,
-						"channel_index" : 2,
 						"texture_index" : 6
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 900,
+			"y" : 1355
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_wall_decopanel1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.65,
+			"x" : 919,
+			"y" : 1322,
+			"z" : 22
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_wall_decopanel1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.65,
+			"x" : 919,
+			"y" : 1322,
+			"z" : 22
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_wall_decopanel1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.65,
+			"x" : 697.0000152588,
+			"y" : 1320,
+			"z" : 22
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_wall_decopanel1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.65,
+			"x" : 475.0000305176,
+			"y" : 1318,
+			"z" : 22
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "wreckage_wall_decopanel1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.65,
+			"x" : 1859.0000305176,
+			"y" : 1320,
+			"z" : 22
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_rubble_medium2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"channel_index" : 1,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 1,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 4
+					}
+				]
+			},
+			"u_scale" : 0.78,
+			"x" : 1799,
+			"y" : 1557,
+			"z_angle" : 170.537689209
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_rubble_small2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9906450268,
+			"x" : 1658,
+			"y" : 1631,
+			"z_angle" : 65.8613010496
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_rubble_small2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9996059433,
+			"x" : 1695,
+			"y" : 1470,
+			"z_angle" : 314.3072524667
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "junk_rubble_small1",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 6,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0201019391,
+			"x" : 1611,
+			"y" : 1520,
+			"z_angle" : 240.7594119385
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cube",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 16
 					},
 					{
 						"_" : "class_palette_reference"
@@ -435,20 +974,22 @@
 					}
 				]
 			},
-			"x" : 1604,
-			"y" : 1331
+			"x" : 1158,
+			"x_scale" : 895,
+			"y" : 1284,
+			"y_scale" : 50,
+			"z" : 730
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "stadium_controlroom_panel",
+			"model_filename" : "cube",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
 						"_" : "class_palette_reference",
-						"base_index" : 7,
-						"channel_index" : 2,
-						"texture_index" : 6
+						"base_index" : 16,
+						"texture_index" : 16
 					},
 					{
 						"_" : "class_palette_reference"
@@ -461,35 +1002,72 @@
 					}
 				]
 			},
-			"x" : 1780,
-			"y" : 1331
+			"x" : 1992,
+			"x_scale" : 40,
+			"y" : 1510,
+			"y_scale" : 400,
+			"z" : 300
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "cube",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 16,
+						"texture_index" : 16
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 347,
+			"x_scale" : 40,
+			"y" : 1510,
+			"y_scale" : 400,
+			"z" : 300
 		},
 		{
 			"_" : "class_model",
 			"am_static" : false,
-			"model_filename" : "stadium_elevator",
+			"model_filename" : "wreckage_elevator",
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 8
 					},
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 10,
+						"texture_index" : 11
 					},
 					{
-						"_" : "class_palette_reference"
+						"_" : "class_palette_reference",
+						"base_index" : 7,
+						"texture_index" : 8
 					},
 					{
 						"_" : "class_palette_reference"
 					}
 				]
 			},
-			"x" : 1176,
-			"y" : 1294
+			"x" : 1179,
+			"y" : 1320
 		}
 	],
-	"music" : "music_cave",
+	"music" : "music_sunken",
 	"name" : "sunken_stadium_control_2",
 	"objects_array" : [
 		{
@@ -505,8 +1083,8 @@
 			"name" : "objSunkenlock",
 			"obj_guid" : "140cde2ad9e71d660d407c2c643b57b5",
 			"object" : "objSunkenlock",
-			"x" : 528,
-			"y" : 1557
+			"x" : 512,
+			"y" : 1511
 		}
 	],
 	"palette_name" : "island",
@@ -520,7 +1098,102 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 2066565791
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"channel_index" : 3,
+						"texture_index" : 4
+					},
+					"points_array" : [
+						-585,
+						94,
+						false,
+						-300,
+						147,
+						false,
+						-85,
+						47,
+						0,
+						88,
+						147,
+						0,
+						283,
+						147,
+						0,
+						452,
+						47,
+						0,
+						641,
+						147,
+						0,
+						962,
+						94,
+						0,
+						962,
+						-177,
+						0,
+						380,
+						-179,
+						0,
+						380,
+						-251,
+						0,
+						42,
+						-251,
+						0,
+						42,
+						-177,
+						0,
+						-585,
+						-177,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 11,
+						"texture_index" : 4
+					},
+					"solid" : true,
+					"surface_type" : 4,
+					"x" : -273,
+					"y" : -144,
+					"z" : 1
+				}
+			],
+			"x" : 1240,
+			"y" : 1697
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
 					"collision_inner" : 1,
+					"collision_inner_height" : 400,
 					"flat" : 1,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
@@ -550,16 +1223,22 @@
 						"texture_index" : 6
 					},
 					"points_array" : [
-						-645,
-						302,
+						-665,
+						332,
 						0,
-						903,
-						302,
+						-422,
+						449,
 						0,
-						903,
+						640,
+						449,
+						0,
+						909,
+						336,
+						0,
+						909,
 						-80,
 						0,
-						-645,
+						-665,
 						-80,
 						0
 					],
@@ -568,10 +1247,11 @@
 					},
 					"side_palette_reference" : {
 						"_" : "class_palette_reference",
-						"base_index" : 2,
-						"texture_index" : 3
+						"base_index" : 16,
+						"texture_index" : 16
 					},
-					"solid" : 1
+					"solid" : 1,
+					"thickness" : 900
 				}
 			],
 			"x" : 1042,

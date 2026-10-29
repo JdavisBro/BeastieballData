@@ -1530,6 +1530,14 @@
 			"object" : "objBallshrooms",
 			"x" : 2241,
 			"y" : 2702
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "e106e817448a751833a47e5ac31d408b",
+			"object" : "objCycle",
+			"x" : 2607,
+			"y" : 3198
 		}
 	],
 	"palette_name" : "cliffs",

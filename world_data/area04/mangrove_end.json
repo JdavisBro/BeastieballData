@@ -157,95 +157,11 @@
 					}
 				]
 			},
-			"u_scale" : 0.9805505635,
-			"x" : 3057,
-			"y" : 2224,
-			"z" : 140,
-			"z_angle" : 120.6395699456
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "mangrove_roots",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
 			"u_scale" : 0.9098221298,
 			"x" : 2462,
 			"y" : 2157,
 			"z" : 140,
 			"z_angle" : 238.7127204984
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "mangrove_roots",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 0.9775059909,
-			"x" : 1421,
-			"y" : 3279,
-			"z" : 140,
-			"z_angle" : 63.3292025328
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "mangrove_roots",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 1.0852667024,
-			"x" : 1996,
-			"y" : 3377,
-			"z" : 120,
-			"z_angle" : 47.2084501013
 		},
 		{
 			"_" : "class_model",
@@ -306,6 +222,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -362,34 +279,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 1.0942941647,
-			"x" : 3305,
-			"y" : 2619,
-			"z" : 140,
-			"z_angle" : 85.2974110097
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -418,6 +308,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -446,6 +337,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -465,7 +357,7 @@
 					}
 				]
 			},
-			"u_scale" : 1.0947597936,
+			"u_scale" : 0.95,
 			"x" : 4217,
 			"y" : 1392,
 			"z" : 140,
@@ -474,6 +366,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -502,6 +395,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -586,6 +480,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -605,15 +500,16 @@
 					}
 				]
 			},
-			"u_scale" : 1.0007078651,
-			"x" : 3890,
-			"y" : 1258,
+			"u_scale" : 0.95,
+			"x" : 3877,
+			"y" : 1186,
 			"z" : -20,
 			"z_angle" : 99.1366104037
 		},
 		{
 			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -638,34 +534,6 @@
 			"y" : 2024,
 			"z" : -20,
 			"z_angle" : 274.2602484673
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "mangrove_roots",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 0.9432385178,
-			"x" : 2343,
-			"y" : 1928,
-			"z" : -20,
-			"z_angle" : 98.8486118987
 		},
 		{
 			"_" : "class_model",
@@ -700,6 +568,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -729,6 +598,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -787,6 +657,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -846,6 +717,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -875,6 +747,7 @@
 		{
 			"_" : "class_model",
 			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -958,66 +831,6 @@
 			"x" : 172,
 			"y" : 2067,
 			"z_angle" : 110.4233992472
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "tree_mangrove",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"texture_index" : 5
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 1.0091058545,
-			"x" : 4406,
-			"y" : 2417,
-			"z" : 120,
-			"z_angle" : 253.5816769302
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "tree_mangrove",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"texture_index" : 5
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 0.9263512939,
-			"x" : 1917,
-			"y" : 2640,
-			"z" : 120,
-			"z_angle" : 168.3982604742
 		},
 		{
 			"_" : "class_model",
@@ -1168,37 +981,8 @@
 		},
 		{
 			"_" : "class_model",
-			"model_filename" : "tree_mangrove",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"texture_index" : 5
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"u_scale" : 0.86,
-			"x" : 1490,
-			"y" : 2164,
-			"z" : 100,
-			"z_angle" : 332.8325995803
-		},
-		{
-			"_" : "class_model",
 			"model_filename" : "mangrove_roots",
+			"near_clips" : false,
 			"palettes" : {
 				"_" : "class_palette_array",
 				"array" : [
@@ -1248,65 +1032,10 @@
 					}
 				]
 			},
-			"u_scale" : 1.0670758002,
-			"x" : 4505,
-			"y" : 1576,
-			"z" : 90,
-			"z_angle" : 193.3665029705
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "tree_mangrove",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"channel_index" : 3,
-						"texture_index" : 3
-					},
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"texture_index" : 5
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
 			"u_scale" : 0.9839656413,
 			"x" : 698,
 			"y" : 1613,
 			"z_angle" : 280.3675230592
-		},
-		{
-			"_" : "class_model",
-			"model_filename" : "mangrove_wall_leaf",
-			"palettes" : {
-				"_" : "class_palette_array",
-				"array" : [
-					{
-						"_" : "class_palette_reference",
-						"base_index" : 4,
-						"texture_index" : 5
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					},
-					{
-						"_" : "class_palette_reference"
-					}
-				]
-			},
-			"x" : 2610,
-			"y" : 909
 		},
 		{
 			"_" : "class_model",
@@ -1332,6 +1061,1965 @@
 			},
 			"x" : 3217,
 			"y" : 916
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					}
+				]
+			},
+			"u_scale" : 0.9026491903,
+			"x" : 1484,
+			"y" : 3222,
+			"z" : 120,
+			"z_angle" : 293.1986083984
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots3",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					}
+				]
+			},
+			"u_scale" : 0.923181729,
+			"x" : 2021,
+			"y" : 3217,
+			"z" : 120,
+			"z_angle" : 168.6900787354
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9215024397,
+			"x" : 2060,
+			"y" : 2659,
+			"z" : 120,
+			"z_angle" : 350.766889751
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0378695939,
+			"x" : 1750,
+			"y" : 2557,
+			"z" : 120,
+			"z_angle" : 150.2551116943
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9921517655,
+			"x" : 1482,
+			"y" : 2179,
+			"z" : 120,
+			"z_angle" : 282.5288085938
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots_tiny",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.75,
+			"x" : 1762,
+			"y" : 3418,
+			"z" : 120,
+			"z_angle" : 63.4349479675
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots_tiny",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0992110647,
+			"x" : 1740,
+			"y" : 2936,
+			"z" : 120,
+			"z_angle" : 143.1300964355
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots_tiny",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.65,
+			"x" : 2550,
+			"y" : 2749,
+			"z" : 120,
+			"z_angle" : 247.3801269531
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots2",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					}
+				]
+			},
+			"u_scale" : 0.9982029342,
+			"x" : 3332,
+			"y" : 2547,
+			"z" : 120,
+			"z_angle" : 259.2156982422
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9846962119,
+			"x" : 2139,
+			"y" : 2846,
+			"z" : 120,
+			"z_angle" : 37.1675238758
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.882139446,
+			"x" : 2030,
+			"y" : 2911,
+			"z" : 120,
+			"z_angle" : 231.1740897596
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9204541553,
+			"x" : 2100,
+			"y" : 2892,
+			"z" : 120,
+			"z_angle" : 353.0109672993
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9769438646,
+			"x" : 1541,
+			"y" : 2981,
+			"z" : 120,
+			"z_angle" : 245.8417571336
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9526273837,
+			"x" : 1453,
+			"y" : 2991,
+			"z" : 120,
+			"z_angle" : 244.6122761071
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.8829198677,
+			"x" : 1138,
+			"y" : 3368,
+			"z" : 120,
+			"z_angle" : 202.3345479369
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.8723811673,
+			"x" : 1549,
+			"y" : 2559,
+			"z" : 120,
+			"z_angle" : 274.6126364172
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.941144892,
+			"x" : 2239,
+			"y" : 2520,
+			"z" : 120,
+			"z_angle" : 17.2287129611
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.901810782,
+			"x" : 2992,
+			"y" : 3130,
+			"z" : 120,
+			"z_angle" : 224.668325074
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.5966537073,
+			"x" : 957,
+			"y" : 2644,
+			"z_angle" : 299.8973810859
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy2",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.474577155,
+			"x" : 668,
+			"y" : 2460,
+			"z_angle" : 326.5549497306
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1047,
+			"y" : 1834,
+			"z" : 120,
+			"z_angle" : 337.6198730469
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1261,
+			"y" : 1625,
+			"z" : 120,
+			"z_angle" : 287.7446899414
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3424,
+			"y" : 3634,
+			"z" : 120,
+			"z_angle" : 206.5650482178
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3087,
+			"y" : 3624,
+			"z" : 120,
+			"z_angle" : 100.6196517944
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.75,
+			"x" : 3250,
+			"y" : 3199,
+			"z" : 120,
+			"z_angle" : 147.9115044326
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0103792965,
+			"x" : 2886,
+			"y" : 3854,
+			"z" : 120,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9360317037,
+			"x" : 3993,
+			"y" : 2576,
+			"z" : 120,
+			"z_angle" : 183.0452818796
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9254431725,
+			"x" : 4377,
+			"y" : 2193,
+			"z" : 120,
+			"z_angle" : 10.7842979431
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0829479843,
+			"x" : 4534,
+			"y" : 2704,
+			"z" : 120,
+			"z_angle" : 316.6725021601
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9051788855,
+			"x" : 4608,
+			"y" : 1579,
+			"z" : 120,
+			"z_angle" : 224.4596052915
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_water",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 1.0656999983,
+			"x" : 4814,
+			"y" : 1799,
+			"z" : 120,
+			"z_angle" : 18.077660948
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 4662,
+			"y" : 2054,
+			"z" : 120,
+			"z_angle" : 251.5650482178
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots3",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					}
+				]
+			},
+			"u_scale" : 0.9932337042,
+			"x" : 3017,
+			"y" : 2168,
+			"z" : -35,
+			"z_angle" : 132.3037382215
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots_tiny",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.7,
+			"x" : 2459,
+			"y" : 2916,
+			"z" : 120,
+			"z_angle" : 310.2082282305
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_roots2",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					}
+				]
+			},
+			"u_scale" : 0.9,
+			"x" : 2367,
+			"y" : 1950,
+			"z" : -20,
+			"z_angle" : 168.6900787354
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.8583921526,
+			"x" : 2468,
+			"y" : 2325,
+			"z" : 120,
+			"z_angle" : 297.5034426525
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.8788486337,
+			"x" : 3898,
+			"y" : 2436,
+			"z" : 120,
+			"z_angle" : 291.7497997172
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.871451869,
+			"x" : 3797,
+			"y" : 2482,
+			"z" : 120,
+			"z_angle" : 359.5837466419
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "pond_reed_cluster",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9840749238,
+			"x" : 4064,
+			"y" : 2692,
+			"z" : 120,
+			"z_angle" : 56.6021820903
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_root_wall",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9482663065,
+			"x" : 2100,
+			"y" : 933,
+			"z" : 95,
+			"z_angle" : 278.1300964355
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_root_wall",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9720557578,
+			"x" : 3084,
+			"y" : 932,
+			"z" : 95,
+			"z_angle" : 270
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.75,
+			"x" : 3422,
+			"y" : 2089,
+			"z" : 10,
+			"z_angle" : 285.8436618,
+			"z_scale" : 280
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.9521750268,
+			"x" : 3508,
+			"y" : 1138,
+			"z_angle" : 204.2820321769
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 13,
+						"texture_index" : 15
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1672925577,
+			"x" : 3421,
+			"y" : 1013,
+			"z_angle" : 220.1570436358
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"texture_index" : 4
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.8316371292,
+			"x" : 2590,
+			"y" : 1049,
+			"z_angle" : 345.0947640091
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_wall_ivy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3600,
+			"y" : 1037,
+			"z_angle" : 338.7494812012
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_wall_ivy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3949,
+			"y" : 1135,
+			"z_angle" : 345.4655456543
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.5726237036,
+			"x" : 2456,
+			"y" : 1089,
+			"z" : 10,
+			"z_angle" : 333.1280371919,
+			"z_scale" : 365
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.5226646066,
+			"x" : 2360,
+			"y" : 1158,
+			"z" : 10,
+			"z_angle" : 202.8025746346,
+			"z_scale" : 365
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1112264916,
+			"x" : 2322,
+			"y" : 1158,
+			"z" : 10,
+			"z_angle" : 229.0887889266,
+			"z_scale" : 365
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 0.6532784756,
+			"x" : 2151,
+			"y" : 1197,
+			"z" : 10,
+			"z_angle" : 225.8039914817,
+			"z_scale" : 365
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "bush_hairy",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 15,
+						"texture_index" : 14
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"rustle" : true,
+			"u_scale" : 1.1702992283,
+			"x" : 2086,
+			"y" : 1059,
+			"z" : 10,
+			"z_angle" : 168.9930218831,
+			"z_scale" : 365
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.75,
+			"x" : 3245,
+			"y" : 1286,
+			"z" : -15,
+			"z_angle" : 74.0546035767,
+			"z_scale" : 210
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "rock_02",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"channel_index" : 2,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.56,
+			"x" : 3075,
+			"y" : 1312,
+			"z" : -15,
+			"z_angle" : 314.437251091,
+			"z_scale" : 210
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1458,
+			"y" : 1124,
+			"z" : 120,
+			"z_angle" : 21.8014068604
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 4505,
+			"y" : 1276,
+			"z" : 120,
+			"z_angle" : 307.6942443848
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2274,
+			"y" : 543,
+			"z" : 120,
+			"z_angle" : 8.1301021576
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 1957,
+			"y" : 643,
+			"z" : 120,
+			"z_angle" : 322.5946350098
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2940,
+			"y" : 556,
+			"z" : 120,
+			"z_angle" : 180
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3346,
+			"y" : 543,
+			"z" : 120,
+			"z_angle" : 132.5104522705
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove_thicket",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 8
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"texture_index" : 13
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 3716,
+			"y" : 621,
+			"z" : 120,
+			"z_angle" : 132.5104522705
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9947592895,
+			"x" : 1582,
+			"y" : 596,
+			"z_angle" : 165.4643791169
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "tree_mangrove",
+			"near_clips" : false,
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"channel_index" : 3,
+						"texture_index" : 3
+					},
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 4,
+						"texture_index" : 5
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"u_scale" : 0.9838367417,
+			"x" : 4133,
+			"y" : 704,
+			"z_angle" : 283.2986973971
+		},
+		{
+			"_" : "class_model",
+			"model_filename" : "mangrove_wall_ivy",
+			"palettes" : {
+				"_" : "class_palette_array",
+				"array" : [
+					{
+						"_" : "class_palette_reference",
+						"base_index" : 14,
+						"channel_index" : 2,
+						"texture_index" : 10
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					},
+					{
+						"_" : "class_palette_reference"
+					}
+				]
+			},
+			"x" : 2865,
+			"y" : 912,
+			"z_angle" : 356.8201599121
 		}
 	],
 	"music" : "music_cave",
@@ -1386,8 +3074,8 @@
 			"name" : "objMangroveboss",
 			"obj_guid" : "b9d87b1be244059deb13a793322c600d",
 			"object" : "objMangroveboss",
-			"x" : 3101,
-			"y" : 1557
+			"x" : 3106,
+			"y" : 1559
 		},
 		{
 			"_" : "class_object",
@@ -1408,6 +3096,174 @@
 	"shadow_alpha" : 0.5,
 	"shadow_color" : 23105,
 	"shape_groups_array" : [
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 4258898544
+					},
+					"ground_cover_update_v1" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"channel_index" : 2
+					},
+					"points_array" : [
+						215,
+						198,
+						false,
+						263,
+						72,
+						0,
+						215,
+						52,
+						0,
+						243,
+						-136,
+						0,
+						215,
+						-212,
+						0,
+						218,
+						-395,
+						false,
+						157,
+						-389,
+						0,
+						130,
+						-361,
+						0,
+						89,
+						-389,
+						0,
+						54,
+						-354,
+						0,
+						-34,
+						-315,
+						0,
+						-2,
+						-369,
+						0,
+						-64,
+						-395,
+						0,
+						-64,
+						-400,
+						0,
+						-511,
+						-400,
+						0,
+						-575,
+						-400,
+						0,
+						-637,
+						-380,
+						0,
+						-600,
+						-319,
+						0,
+						-649,
+						-348,
+						0,
+						-870,
+						-395,
+						0,
+						-954,
+						-380,
+						0,
+						-930,
+						-308,
+						0,
+						-986,
+						-310,
+						0,
+						-991,
+						-212,
+						0,
+						-969,
+						-14,
+						0,
+						-998,
+						76,
+						0,
+						-969,
+						201,
+						0,
+						-829,
+						198,
+						0,
+						-770,
+						181,
+						0,
+						-750,
+						222,
+						0,
+						-726,
+						201,
+						0,
+						-637,
+						201,
+						0,
+						-558,
+						175,
+						0,
+						-511,
+						198,
+						0,
+						-374,
+						198,
+						0,
+						-116,
+						242,
+						0,
+						-140,
+						211,
+						0,
+						-89,
+						198,
+						0,
+						93,
+						198,
+						0,
+						157,
+						175,
+						0
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 2,
+						"texture_index" : 3
+					},
+					"x" : 145,
+					"y" : 236,
+					"z" : 181
+				}
+			],
+			"x" : 3309,
+			"y" : 1538
+		},
 		{
 			"_" : "class_shape_group",
 			"shapes_array" : [

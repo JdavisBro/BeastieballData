@@ -841,6 +841,14 @@
 			"object" : "objMask",
 			"x" : 2078,
 			"y" : 1754
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "96e55915678abe03878cc088142cae11",
+			"object" : "objCycle",
+			"x" : 3149,
+			"y" : 2294
 		}
 	],
 	"palette_name" : "cliffs",

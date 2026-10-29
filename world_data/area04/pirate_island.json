@@ -1913,6 +1913,7 @@
 			"object" : "objNode",
 			"x" : 2512.5,
 			"y" : 2240,
+			"z" : 13,
 			"z_up" : "0"
 		},
 		{
@@ -1976,6 +1977,7 @@
 			"object" : "objNode",
 			"x" : 1858.5,
 			"y" : 2669,
+			"z" : 13,
 			"z_up" : "0"
 		},
 		{
@@ -2031,6 +2033,116 @@
 			"object" : "objNode",
 			"x" : 2254.5,
 			"y" : 2681,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "muffin_rehearse",
+			"obj_guid" : "90e9d23c0cd60af8e55aa66b02f12f73",
+			"object" : "objNode",
+			"x" : 3027.5,
+			"y" : 3028,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "captain_rehearse",
+			"obj_guid" : "75a0a9cc9dfd085abd45006bcc9cb20c",
+			"object" : "objNode",
+			"x" : 2041.5,
+			"y" : 2994,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "pirate2_end",
+			"obj_guid" : "9cc5bc2e255e15b8747951d656f41914",
+			"object" : "objNode",
+			"x" : 2509.5,
+			"y" : 1340,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "muffin_show",
+			"obj_guid" : "321426b23676c7b2d1db24a111dfb6ec",
+			"object" : "objNode",
+			"x" : 2780.5,
+			"y" : 2150,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "crowd",
+			"obj_guid" : "55e222e331bb79e537e7cd59a565d9a0",
+			"object" : "objNode",
+			"x" : 2232.5,
+			"y" : 1720,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "crowd",
+			"obj_guid" : "55e222e331bb79e537e7cd59a565d9a0",
+			"object" : "objNode",
+			"x" : 2921.5,
+			"y" : 1769,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "crowd",
+			"obj_guid" : "55e222e331bb79e537e7cd59a565d9a0",
+			"object" : "objNode",
+			"x" : 3110.5,
+			"y" : 1672,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "crowd",
+			"obj_guid" : "55e222e331bb79e537e7cd59a565d9a0",
+			"object" : "objNode",
+			"x" : 2283.5,
+			"y" : 1228,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "crowd",
+			"obj_guid" : "55e222e331bb79e537e7cd59a565d9a0",
+			"object" : "objNode",
+			"x" : 3342.5,
+			"y" : 1977,
+			"z_up" : "0"
+		},
+		{
+			"_" : "class_object",
+			"model_collide" : "0",
+			"name" : "objNode",
+			"node_name" : "crowd",
+			"obj_guid" : "55e222e331bb79e537e7cd59a565d9a0",
+			"object" : "objNode",
+			"x" : 3106.5,
+			"y" : 1142,
 			"z_up" : "0"
 		}
 	],

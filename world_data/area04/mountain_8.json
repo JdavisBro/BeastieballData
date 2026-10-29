@@ -495,6 +495,14 @@
 			"object" : "objGameplay",
 			"x" : 1428,
 			"y" : 1497
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "21049582c0f55ff9ad3f55a1579d6332",
+			"object" : "objCycle",
+			"x" : 2112,
+			"y" : 1487
 		}
 	],
 	"palette_name" : "mountain",

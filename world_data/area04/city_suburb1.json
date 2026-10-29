@@ -5026,6 +5026,7 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : -259,
 					"y" : -149,
 					"z" : 175
@@ -5148,6 +5149,7 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : 881,
 					"y" : 43,
 					"z" : 150
@@ -5209,6 +5211,7 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : -330,
 					"y" : 43,
 					"z" : 150
@@ -5270,6 +5273,7 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : -262,
 					"y" : 81,
 					"z" : 175
@@ -5324,6 +5328,7 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : 970,
 					"y" : 43,
 					"z" : 125
@@ -5511,7 +5516,7 @@
 						"texture_index" : 7
 					},
 					"solid" : 1,
-					"surface_type" : 1,
+					"surface_type" : 5,
 					"x" : -816,
 					"y" : -2145,
 					"z" : 102
@@ -5574,6 +5579,7 @@
 						"texture_index" : 6
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : -263,
 					"y" : 80,
 					"z" : 175

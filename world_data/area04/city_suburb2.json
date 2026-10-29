@@ -3096,8 +3096,8 @@
 			"spawn_index" : 0,
 			"spawns_gameplay" : false,
 			"width" : 592,
-			"x" : 2002,
-			"y" : 2966
+			"x" : 3204,
+			"y" : 2826
 		},
 		{
 			"_" : "class_object",
@@ -3120,7 +3120,7 @@
 			"name" : "objTetyana",
 			"obj_guid" : "c197b95b07f477d1b1c80404c8dfb885",
 			"object" : "objTetyana",
-			"x" : 1416,
+			"x" : 1052,
 			"y" : 2520
 		},
 		{
@@ -3180,6 +3180,14 @@
 			"object" : "objBallshrooms",
 			"x" : 3215,
 			"y" : 3135
+		},
+		{
+			"_" : "class_object",
+			"name" : "objPirate",
+			"obj_guid" : "397602d18ff060128e9ace0b54f7cfe3",
+			"object" : "objPirate",
+			"x" : 1549,
+			"y" : 2501
 		}
 	],
 	"palette_name" : "city",
@@ -3497,7 +3505,9 @@
 						"_" : "class_palette_reference",
 						"base_index" : 2,
 						"texture_index" : 3
-					}
+					},
+					"solid" : true,
+					"surface_type" : 1
 				}
 			],
 			"x" : 3711,
@@ -3613,6 +3623,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 1,
 					"x" : -2230,
 					"y" : 16
 				}
@@ -4069,6 +4081,7 @@
 						"texture_index" : 9
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : -1299,
 					"y" : 49,
 					"z" : 2
@@ -4301,8 +4314,8 @@
 						"_" : "class_palette_reference"
 					},
 					"points_array" : [
-						-72,
-						-574,
+						284,
+						-591,
 						false,
 						-639,
 						-534,
@@ -4319,20 +4332,23 @@
 						-1035,
 						-146,
 						0,
-						-676,
-						-416,
+						-631,
+						-488,
 						0,
-						-36,
-						-513,
+						272,
+						-565,
 						0,
-						202,
-						-416,
+						317,
+						-329,
 						0,
-						417,
-						-378,
+						457,
+						-225,
 						0,
-						612,
-						-421,
+						574,
+						-285,
+						0,
+						603,
+						-462,
 						0,
 						713,
 						-615,
@@ -4370,8 +4386,11 @@
 						977,
 						-791,
 						false,
-						209,
-						-774,
+						822,
+						-752,
+						0,
+						348,
+						-765,
 						false
 					],
 					"ramp" : {
@@ -4534,6 +4553,7 @@
 						"texture_index" : 3
 					},
 					"solid" : true,
+					"surface_type" : 5,
 					"x" : 229,
 					"y" : -161,
 					"z" : 2
@@ -4630,6 +4650,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 1,
 					"x" : 172,
 					"y" : -85,
 					"z" : 1
@@ -4763,6 +4785,7 @@
 	},
 	"sunlight_direction" : 231.8427734375,
 	"sunlight_elevation" : 40,
+	"surface_type" : 2,
 	"water_color" : {
 		"_" : "class_palette_reference"
 	},

@@ -6,6 +6,7 @@
 	"cloud_color" : {
 		"_" : "class_palette_reference"
 	},
+	"display_name" : "Whisper Peak",
 	"eff_chromatic_str" : 0.5,
 	"floor_style" : 2,
 	"gizmos_array" : [],

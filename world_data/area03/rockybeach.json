@@ -6987,6 +6987,14 @@
 			"object" : "objWarrior",
 			"x" : 7390,
 			"y" : 4818
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "29fb87e1c7350046459947cb161a6fd3",
+			"object" : "objCycle",
+			"x" : 5842,
+			"y" : 4392
 		}
 	],
 	"palette_name" : "island",

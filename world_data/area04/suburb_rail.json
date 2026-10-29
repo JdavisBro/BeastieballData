@@ -2277,6 +2277,14 @@
 			},
 			"x" : 534,
 			"y" : 3501
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "4e41aeb0f8610ab1bc141d488ae65a7d",
+			"object" : "objCycle",
+			"x" : 1249,
+			"y" : 2333
 		}
 	],
 	"palette_name" : "city",
@@ -2518,6 +2526,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 1,
 					"x" : -2081,
 					"y" : -1998
 				}
@@ -3535,6 +3545,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 1,
 					"x" : -2339,
 					"y" : -1425
 				}
@@ -3837,6 +3849,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 1,
 					"x" : 148,
 					"y" : -441
 				}
@@ -4187,6 +4201,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 5,
 					"x" : 1063,
 					"y" : 176
 				}
@@ -4297,6 +4313,8 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
+					"solid" : true,
+					"surface_type" : 1,
 					"x" : 109,
 					"y" : 108
 				}

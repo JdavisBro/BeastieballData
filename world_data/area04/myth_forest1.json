@@ -1643,6 +1643,14 @@
 			"object" : "objScience",
 			"x" : 2898,
 			"y" : 2133
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "885f19a31e4253c592d0253901f5cbbf",
+			"object" : "objCycle",
+			"x" : 2322,
+			"y" : 3554
 		}
 	],
 	"palette_name" : "woods",

@@ -1451,6 +1451,14 @@
 			},
 			"x" : 2670,
 			"y" : 4956
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "6b507aa8cceb747e5804258a44671a7f",
+			"object" : "objCycle",
+			"x" : 1803,
+			"y" : 2864
 		}
 	],
 	"palette_name" : "woods",

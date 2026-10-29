@@ -4763,6 +4763,23 @@
 			"object" : "objZipline",
 			"x" : 4054,
 			"y" : 1097
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "a689ffac318263084a0d5065e07dee20",
+			"object" : "objCycle",
+			"x" : 2980,
+			"y" : 1213
+		},
+		{
+			"_" : "class_object",
+			"has_net" : false,
+			"name" : "objGameplay",
+			"obj_guid" : "88d1c36c2bae14c9b9b57d6d86cd4a4f",
+			"object" : "objGameplay",
+			"x" : 2346,
+			"y" : 1554
 		}
 	],
 	"palette_name" : "city",

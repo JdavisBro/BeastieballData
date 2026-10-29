@@ -2920,7 +2920,7 @@
 			"shapes_array" : [
 				{
 					"_" : "class_shape",
-					"flat" : 1,
+					"flat" : true,
 					"grass_model_array" : {
 						"_" : "class_model_spawn_array",
 						"array" : [
@@ -2935,10 +2935,11 @@
 								}
 							}
 						],
-						"seed" : 3403028806
+						"seed" : 337171505
 					},
-					"ground_cover_update_v1" : 1,
-					"map_solid" : 1,
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"map_solid" : true,
 					"object" : {
 						"_" : "class_object_reference"
 					},
@@ -2946,18 +2947,18 @@
 						"_" : "class_palette_reference"
 					},
 					"points_array" : [
-						-1792,
-						918,
-						0,
-						-874,
-						995,
-						0,
-						-874,
-						-235,
-						0,
-						-1948,
-						-235,
-						0
+						-1095,
+						1038,
+						false,
+						-185,
+						1038,
+						false,
+						-185,
+						-108,
+						false,
+						-1095,
+						-108,
+						false
 					],
 					"ramp" : {
 						"_" : "class_ramp"
@@ -2967,14 +2968,14 @@
 						"base_index" : 2,
 						"texture_index" : 3
 					},
-					"solid" : 1,
-					"visible" : 0,
-					"wall_collider" : 1,
-					"z" : 600
+					"solid" : true,
+					"visible" : false,
+					"wall_collider" : true,
+					"z" : 2000
 				}
 			],
-			"x" : 1246,
-			"y" : 1693
+			"x" : 571,
+			"y" : 1736
 		},
 		{
 			"_" : "class_shape_group",

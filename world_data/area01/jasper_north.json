@@ -1660,7 +1660,7 @@
 				"_" : "class_datacheck"
 			},
 			"encounter" : "jasper_north",
-			"encounter_radius" : 400,
+			"encounter_radius" : 500,
 			"encounter_required" : "",
 			"field_x" : 0,
 			"field_y" : 0,
@@ -1676,8 +1676,8 @@
 			"spawn_index" : 0,
 			"spawns_gameplay" : 0,
 			"width" : 592,
-			"x" : 1130.5,
-			"y" : 2119
+			"x" : 1207.5,
+			"y" : 2187
 		},
 		{
 			"_" : "class_object",

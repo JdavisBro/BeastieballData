@@ -8,6 +8,7 @@
 		"texture_index" : 3
 	},
 	"cloudcover" : 0.7,
+	"display_name" : "Howling Bluffs",
 	"eff_chromatic_str" : 0.5,
 	"floor_style" : 2,
 	"gizmos_array" : [],

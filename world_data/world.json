@@ -599,7 +599,7 @@
 			"from_object_guid" : "57f98e9689d274342e2454d3bf739a1a",
 			"img" : 8,
 			"object_y" : -300,
-			"revealed_text" : "Campsite (Base Camp)",
+			"revealed_text" : "Campsite (Gurgle Gulch)",
 			"text" : "Campsite",
 			"transit" : 3,
 			"world_x" : -51111,
@@ -4976,7 +4976,7 @@
 					"revealed_text" : "Clothes Shop (Gamboge)",
 					"text" : "Clothes Shop",
 					"world_x" : -59843.5,
-					"world_y" : 22798,
+					"world_y" : 22806,
 					"x" : 2901,
 					"y" : 2074
 				}
@@ -5003,8 +5003,8 @@
 			],
 			"world_x1" : -62744.5,
 			"world_x2" : -58177.5,
-			"world_y1" : 21024,
-			"world_y2" : 26530
+			"world_y1" : 21032,
+			"world_y2" : 26538
 		},
 		{
 			"_" : "class_level_stump",
@@ -6936,6 +6936,7 @@
 					"_" : "class_portal",
 					"destination" : "alleyway",
 					"direction" : 2,
+					"ground_z" : 10,
 					"x" : 727,
 					"x1" : -833,
 					"x2" : -66,
@@ -8774,6 +8775,8 @@
 					"_" : "class_portal",
 					"destination" : "sunken_stadium_stairs",
 					"direction" : 2,
+					"door" : true,
+					"door_side" : true,
 					"ground_z" : 480,
 					"index" : 1,
 					"x" : 2538,
@@ -8808,6 +8811,7 @@
 					"_" : "class_portal",
 					"destination" : "sunken_stadium",
 					"direction" : 3,
+					"ground_z" : 1,
 					"x" : 1502,
 					"x1" : -216,
 					"x2" : 211,
@@ -8822,12 +8826,12 @@
 					"direction" : 2,
 					"door" : 1,
 					"door_side" : true,
-					"x" : 452,
+					"x" : 469,
 					"x1" : -100,
-					"x2" : 100,
-					"y" : 1033,
+					"x2" : 138,
+					"y" : 1014,
 					"y1" : -100,
-					"y2" : 100,
+					"y2" : 135,
 					"z1" : -50
 				},
 				{
@@ -8907,8 +8911,8 @@
 				"sunken"
 			],
 			"world_layer" : 1,
-			"world_x1" : -32658,
-			"world_x2" : -25804,
+			"world_x1" : -32634,
+			"world_x2" : -25780,
 			"world_y1" : 36295,
 			"world_y2" : 38857
 		},
@@ -8961,10 +8965,10 @@
 					"destination" : "sunken_stadium_west_2",
 					"direction" : 2,
 					"ground_z" : 200,
-					"x" : 674,
+					"x" : 477,
 					"x1" : -751,
-					"x2" : 82,
-					"y" : 1562,
+					"x2" : 28,
+					"y" : 1550,
 					"y1" : -404,
 					"y2" : 825,
 					"z1" : -50
@@ -9035,7 +9039,7 @@
 					"_" : "class_portal",
 					"destination" : "sunken_stadium",
 					"direction" : 0,
-					"ground_z" : 600,
+					"ground_z" : 602,
 					"index" : 1,
 					"x" : 2650,
 					"x1" : 38,
@@ -9063,8 +9067,8 @@
 				"sunken"
 			],
 			"world_layer" : 1,
-			"world_x1" : -23571,
-			"world_x2" : -19698,
+			"world_x1" : -23709,
+			"world_x2" : -19836,
 			"world_y1" : 34288,
 			"world_y2" : 36282
 		},
@@ -9085,21 +9089,22 @@
 					"ground_z" : 50,
 					"x" : 1509,
 					"x1" : -360,
-					"x2" : 286,
+					"x2" : 260,
 					"y" : 1122,
 					"y1" : -517,
 					"y2" : -30,
-					"z1" : 10
+					"z1" : 50,
+					"z2" : 250
 				}
 			],
 			"spawn_name" : [
 				"sunken"
 			],
 			"world_layer" : 1,
-			"world_x1" : -19845,
-			"world_x2" : -16708,
-			"world_y1" : 34462,
-			"world_y2" : 38083
+			"world_x1" : -19836,
+			"world_x2" : -16699,
+			"world_y1" : 34459,
+			"world_y2" : 38080
 		},
 		{
 			"_" : "class_level_stump",
@@ -9150,6 +9155,7 @@
 					"_" : "class_portal",
 					"destination" : "sunken_stadium_control_1",
 					"door" : 1,
+					"ground_z" : 1,
 					"x" : 1181,
 					"x1" : -100,
 					"x2" : 100,
@@ -9235,9 +9241,22 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
+			"display_name" : "Gurgle Gulch",
 			"encounters" : [],
 			"has_spawns" : true,
-			"icons_array" : [],
+			"icons_array" : [
+				{
+					"_" : "class_mapicon",
+					"from_level" : "mountain_2",
+					"header" : true,
+					"header_size" : 0.75,
+					"text" : "Gurgle Gulch",
+					"world_x" : -48657,
+					"world_y" : -35859,
+					"x" : 1204,
+					"y" : 2300
+				}
+			],
 			"name" : "mountain_2",
 			"palette_name" : "mountain",
 			"portals_array" : [
@@ -9471,7 +9490,7 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
-			"display_name" : "Base Camp",
+			"display_name" : "Gurgle Gulch",
 			"encounters" : [],
 			"icons_array" : [],
 			"name" : "base_camp",
@@ -9689,8 +9708,21 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
+			"display_name" : "Howling Bluffs",
 			"encounters" : [],
-			"icons_array" : [],
+			"icons_array" : [
+				{
+					"_" : "class_mapicon",
+					"from_level" : "mountain_4",
+					"header" : true,
+					"header_size" : 0.75,
+					"text" : "Howling Bluffs",
+					"world_x" : -57255,
+					"world_y" : -44761,
+					"x" : 103,
+					"y" : -2245
+				}
+			],
 			"name" : "mountain_4",
 			"palette_name" : "mountain",
 			"portals_array" : [
@@ -9733,6 +9765,7 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
+			"display_name" : "Howling Bluffs",
 			"encounters" : [],
 			"has_spawns" : true,
 			"icons_array" : [],
@@ -9806,6 +9839,7 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
+			"display_name" : "Howling Bluffs",
 			"encounters" : [],
 			"has_spawns" : true,
 			"icons_array" : [],
@@ -9877,6 +9911,7 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
+			"display_name" : "Howling Bluffs",
 			"encounters" : [],
 			"icons_array" : [],
 			"name" : "mountain_7",
@@ -10025,9 +10060,22 @@
 			"_" : "class_level_stump",
 			"area_id" : 4,
 			"color" : 16644576,
+			"display_name" : "Whisper Peak",
 			"encounters" : [],
 			"has_spawns" : true,
-			"icons_array" : [],
+			"icons_array" : [
+				{
+					"_" : "class_mapicon",
+					"from_level" : "mountain_9",
+					"header" : true,
+					"header_size" : 0.75,
+					"text" : "Whisper Peak",
+					"world_x" : -63619,
+					"world_y" : -52664,
+					"x" : 1572,
+					"y" : 1791
+				}
+			],
 			"name" : "mountain_9",
 			"palette_name" : "mountain",
 			"portals_array" : [
@@ -10408,7 +10456,7 @@
 			"palette_name" : "island",
 			"portals_array" : [],
 			"spawn_name" : [
-				"beach"
+				"mangrove"
 			],
 			"world_layer" : 1,
 			"world_x1" : -53666.5,
@@ -10571,7 +10619,7 @@
 			"name" : "net_cliffs",
 			"portals_array" : [],
 			"spawn_name" : [
-				"mangrove"
+				"witchwood"
 			],
 			"world_layer" : 1,
 			"world_x1" : -12444.5,
@@ -10822,6 +10870,7 @@
 					"_" : "class_portal",
 					"destination" : "city_construction2",
 					"direction" : 0,
+					"ground_z" : 1500,
 					"x" : 3414,
 					"x1" : 72,
 					"x2" : 1038,
@@ -11090,9 +11139,7 @@
 			"area_id" : 7,
 			"color" : 16620976,
 			"display_name" : "Construczone",
-			"encounters" : [
-				"city_construction4_0"
-			],
+			"encounters" : [],
 			"has_spawns" : true,
 			"icons_array" : [],
 			"name" : "city_construction4",
@@ -11287,9 +11334,7 @@
 			"area_id" : 7,
 			"color" : 16620976,
 			"display_name" : "Construczone",
-			"encounters" : [
-				"city_construction5_0"
-			],
+			"encounters" : [],
 			"has_spawns" : true,
 			"icons_array" : [],
 			"name" : "city_construction5",
@@ -11316,6 +11361,44 @@
 			"world_x2" : -25894,
 			"world_y1" : 709,
 			"world_y2" : 4753
+		},
+		{
+			"_" : "class_level_stump",
+			"area_id" : 4,
+			"color" : 9494518,
+			"display_name" : "Neptune Stadium",
+			"encounters" : [],
+			"icons_array" : [],
+			"name" : "net_sunken_basement",
+			"palette_name" : "island",
+			"portals_array" : [],
+			"spawn_name" : [
+				"sunken"
+			],
+			"world_layer" : 1,
+			"world_x1" : -30437,
+			"world_x2" : -24251,
+			"world_y1" : 45032,
+			"world_y2" : 47376
+		},
+		{
+			"_" : "class_level_stump",
+			"area_id" : 7,
+			"color" : 16620976,
+			"display_name" : "Mainframe",
+			"encounters" : [],
+			"icons_array" : [],
+			"name" : "net_alleyway",
+			"palette_name" : "city",
+			"portals_array" : [],
+			"spawn_name" : [
+				"downtown"
+			],
+			"world_layer" : 1,
+			"world_x1" : -47931,
+			"world_x2" : -45931,
+			"world_y1" : -9189.5,
+			"world_y2" : -3744.5
 		}
 	],
 	"map_position_data" : {
@@ -11346,8 +11429,8 @@
 		},
 		"alleyway_0" : {
 			"area_id" : 7,
-			"x" : -47768,
-			"y" : -11412
+			"x" : -47759,
+			"y" : -11088
 		},
 		"beach_cliff1:objRiven" : {
 			"x" : -39938,
@@ -11480,6 +11563,11 @@
 		"city_suburb1_0" : {
 			"x" : -40164,
 			"y" : -4672
+		},
+		"city_suburb2:objPirate" : {
+			"area_id" : 5,
+			"x" : -43708,
+			"y" : -2143
 		},
 		"city_trainyard_0" : {
 			"x" : -35338,
@@ -11717,6 +11805,10 @@
 			"x" : -30912,
 			"y" : -17445
 		},
+		"park_edge:objPirate" : {
+			"x" : -29478,
+			"y" : -17367
+		},
 		"park_edge:objScience" : {
 			"x" : -29171,
 			"y" : -15848
@@ -11726,16 +11818,16 @@
 			"y" : -17507
 		},
 		"park_south3:objScience" : {
-			"x" : -12645,
-			"y" : -10149
+			"x" : -12768,
+			"y" : -10355
 		},
 		"park_south_0" : {
-			"x" : -26781,
-			"y" : -12644
+			"x" : -27033,
+			"y" : -12621
 		},
 		"park_south_end:objGameplay" : {
 			"x" : -16726,
-			"y" : -9630
+			"y" : -9632
 		},
 		"pirate:objBallcenter" : {
 			"x" : -60650.5,
@@ -12055,7 +12147,8 @@
 			13477490,
 			13813688,
 			4883598,
-			4484469
+			4484469,
+			6102923
 		],
 		"mountain_night" : [
 			16766607,
@@ -12419,24 +12512,40 @@
 				"y" : -19126
 			},
 			{
-				"x" : -75763,
-				"y" : -19444
+				"x" : -75833,
+				"y" : -19384
 			},
 			{
-				"x" : -75090,
-				"y" : -19522
+				"x" : -75060,
+				"y" : -19515
 			},
 			{
-				"x" : -69906,
-				"y" : -19533
+				"x" : -73787,
+				"y" : -19445
 			},
 			{
-				"x" : -69237,
-				"y" : -19399
+				"x" : -73207,
+				"y" : -19340
 			},
 			{
-				"x" : -68787,
-				"y" : -19003
+				"x" : -72787,
+				"y" : -19070
+			},
+			{
+				"x" : -72237,
+				"y" : -18882
+			},
+			{
+				"x" : -69756,
+				"y" : -18902
+			},
+			{
+				"x" : -69187,
+				"y" : -18844
+			},
+			{
+				"x" : -68717,
+				"y" : -18545
 			},
 			{
 				"x" : -68606,

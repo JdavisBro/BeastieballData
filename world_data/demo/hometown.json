@@ -3914,6 +3914,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4033,6 +4034,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4046,6 +4048,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4059,6 +4062,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : -1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4072,6 +4076,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4085,6 +4090,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",
@@ -4098,6 +4104,7 @@
 		},
 		{
 			"_" : "class_object",
+			"beastie_only" : false,
 			"facing" : 1,
 			"level_id" : "",
 			"name" : "objSit",

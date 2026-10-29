@@ -4138,6 +4138,14 @@
 			"windiness" : 1,
 			"x" : 5239,
 			"y" : 5572
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "423dddffbc41dea3f218f87315629240",
+			"object" : "objCycle",
+			"x" : 3818,
+			"y" : 3113
 		}
 	],
 	"palette_name" : "woods",

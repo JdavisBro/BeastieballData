@@ -2109,7 +2109,7 @@
 					"thickness" : 450,
 					"x" : 85,
 					"y" : 671,
-					"z" : -845
+					"z" : -45
 				}
 			],
 			"x" : 3388,
@@ -2181,79 +2181,12 @@
 					"thickness" : 450,
 					"x" : 85,
 					"y" : 671,
-					"z" : -45
+					"z" : -845
 				}
 			],
 			"x" : 3388,
 			"y" : 2643,
 			"z" : 550
-		},
-		{
-			"_" : "class_shape_group",
-			"shapes_array" : [
-				{
-					"_" : "class_shape",
-					"flat" : true,
-					"grass_model_array" : {
-						"_" : "class_model_spawn_array",
-						"array" : [
-							{
-								"_" : "class_model_spawn",
-								"colors" : {
-									"_" : "class_palette_array",
-									"array" : []
-								},
-								"model" : {
-									"_" : "class_model_reference"
-								}
-							}
-						],
-						"seed" : 3349673741
-					},
-					"ground_cover" : true,
-					"ground_cover_update_v1" : true,
-					"map_solid" : true,
-					"object" : {
-						"_" : "class_object_reference"
-					},
-					"palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 3,
-						"channel_index" : 2,
-						"texture_index" : 7
-					},
-					"points_array" : [
-						-100,
-						100,
-						false,
-						36,
-						100,
-						false,
-						36,
-						-35,
-						false,
-						-100,
-						-35,
-						false
-					],
-					"ramp" : {
-						"_" : "class_ramp"
-					},
-					"side_palette_reference" : {
-						"_" : "class_palette_reference",
-						"base_index" : 3,
-						"channel_index" : 2,
-						"texture_index" : 7
-					},
-					"solid" : true,
-					"thickness" : 2000,
-					"x" : -2335,
-					"y" : -2973,
-					"z" : 550
-				}
-			],
-			"x" : 2294,
-			"y" : 4013
 		},
 		{
 			"_" : "class_shape_group",
@@ -2381,8 +2314,8 @@
 					},
 					"solid" : true,
 					"thickness" : 2000,
-					"x" : -1060,
-					"y" : -2968,
+					"x" : -2335,
+					"y" : -2973,
 					"z" : 550
 				}
 			],
@@ -2516,6 +2449,73 @@
 					"solid" : true,
 					"thickness" : 2000,
 					"x" : -2965,
+					"y" : -2968,
+					"z" : 550
+				}
+			],
+			"x" : 2294,
+			"y" : 4013
+		},
+		{
+			"_" : "class_shape_group",
+			"shapes_array" : [
+				{
+					"_" : "class_shape",
+					"flat" : true,
+					"grass_model_array" : {
+						"_" : "class_model_spawn_array",
+						"array" : [
+							{
+								"_" : "class_model_spawn",
+								"colors" : {
+									"_" : "class_palette_array",
+									"array" : []
+								},
+								"model" : {
+									"_" : "class_model_reference"
+								}
+							}
+						],
+						"seed" : 3349673741
+					},
+					"ground_cover" : true,
+					"ground_cover_update_v1" : true,
+					"map_solid" : true,
+					"object" : {
+						"_" : "class_object_reference"
+					},
+					"palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 7
+					},
+					"points_array" : [
+						-100,
+						100,
+						false,
+						36,
+						100,
+						false,
+						36,
+						-35,
+						false,
+						-100,
+						-35,
+						false
+					],
+					"ramp" : {
+						"_" : "class_ramp"
+					},
+					"side_palette_reference" : {
+						"_" : "class_palette_reference",
+						"base_index" : 3,
+						"channel_index" : 2,
+						"texture_index" : 7
+					},
+					"solid" : true,
+					"thickness" : 2000,
+					"x" : -1060,
 					"y" : -2968,
 					"z" : 550
 				}

@@ -3554,6 +3554,14 @@
 			"spot" : 1,
 			"x" : 7387,
 			"y" : 2274.5
+		},
+		{
+			"_" : "class_object",
+			"name" : "objCycle",
+			"obj_guid" : "a4923cdcdcef3c9348a3bd56d5da030f",
+			"object" : "objCycle",
+			"x" : 4474,
+			"y" : 2764.5
 		}
 	],
 	"palette_name" : "island",
